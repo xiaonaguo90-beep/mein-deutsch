@@ -1,8 +1,8 @@
 {
   "app": "Mein Deutsch",
   "schemaVersion": 5,
-  "exportedAt": "2026-09-24T10:24:28.349Z",
-  "publishedAt": "2026-09-24T22:50:21.496816Z",
+  "exportedAt": "2026-09-24T23:13:45.914Z",
+  "publishedAt": "2026-09-24T23:13:46.130090Z",
   "entries": [
     {
       "id": "8e47001d-fde1-42e1-8f7e-c1b6ed0d15bc",
@@ -15,7 +15,8 @@
       "example": "bei einer so engen Zusammenarbeit 紧密的合作",
       "translation": "eine enge Straße 一条狭窄的街道\neine enge Hose 一条紧身裤\neine enge Beziehung 一段亲密关系",
       "updatedAt": "2026-09-10T10:28:43.419Z",
-      "createdAt": "2026-09-10T10:28:43.419Z"
+      "createdAt": "2026-09-10T10:28:43.419Z",
+      "category": ""
     },
     {
       "id": "573d39d7-9e1b-4b12-b3b2-f300efe5a9f6",
@@ -28,7 +29,8 @@
       "example": "Ich wusste eben genau, wo ich hingehöre.",
       "translation": "I simply knew exactly where I belonged. eben = 就是、确实、反正就是,这里是语气词. genau  准确地、清楚地",
       "updatedAt": "2026-09-10T07:55:19.728Z",
-      "createdAt": "2026-09-10T07:53:02.822Z"
+      "createdAt": "2026-09-10T07:53:02.822Z",
+      "category": ""
     },
     {
       "id": "6e50a172-8827-452f-a491-079d550a0477",
@@ -41,7 +43,8 @@
       "example": "Wir haben vor allem für teure Hotels gebacken.\n我们主要为高档酒店制作烘焙食品。",
       "translation": "",
       "updatedAt": "2026-09-09T10:12:31.057Z",
-      "createdAt": "2026-09-09T10:12:31.057Z"
+      "createdAt": "2026-09-09T10:12:31.057Z",
+      "category": ""
     },
     {
       "id": "570ca4a2-482e-427a-b32d-cf1076ede3fb",
@@ -54,7 +57,8 @@
       "example": "Er hat mich immer ermutigt, etwas Neues auszuprobieren.",
       "translation": "etwas + 名词化形容词：neu → etwas Neues 一些新东西/新事物",
       "updatedAt": "2026-09-09T10:11:06.248Z",
-      "createdAt": "2026-09-09T10:11:06.248Z"
+      "createdAt": "2026-09-09T10:11:06.248Z",
+      "category": ""
     },
     {
       "id": "db5f7044-c002-4191-842d-2e0f9991513a",
@@ -67,7 +71,8 @@
       "example": "Ich hatte einen tollen Chef, von dem ich viel gelernt habe.\n我有一个很棒的老板，我从他那里学到了很多。",
       "translation": "",
       "updatedAt": "2026-09-09T10:08:55.443Z",
-      "createdAt": "2026-09-09T10:08:55.443Z"
+      "createdAt": "2026-09-09T10:08:55.443Z",
+      "category": ""
     },
     {
       "id": "4b72a9c9-4906-477b-b165-fe3f62e41a71",
@@ -80,7 +85,8 @@
       "example": "Er war ein gutes Vorbild für mich.\n他是我的一个好榜样。",
       "translation": "",
       "updatedAt": "2026-09-09T10:08:16.137Z",
-      "createdAt": "2026-09-09T10:08:16.137Z"
+      "createdAt": "2026-09-09T10:08:16.137Z",
+      "category": ""
     },
     {
       "id": "cfc212b0-a209-4b57-943e-ddc56cb8dc00",
@@ -93,7 +99,8 @@
       "example": "Die Enttäuschung meiner Eltern war wohl zu groß.\n大概是我父母的失望太强烈了。",
       "translation": "wohl 在这里不是“舒服”。  语气副词：  大概、想必、看来",
       "updatedAt": "2026-09-09T10:06:59.607Z",
-      "createdAt": "2026-09-09T10:06:59.607Z"
+      "createdAt": "2026-09-09T10:06:59.607Z",
+      "category": ""
     },
     {
       "id": "b00e0687-6c65-4946-9d62-f27539ee83ed",
@@ -106,7 +113,8 @@
       "example": "Ich bin anderer Meinung.  我有不同看法。gleicher Meinung sein 意见一致\nanderer Meinung sein 持不同意见",
       "translation": "unterschiedlicher Meinung sein 意见不同 / disagree",
       "updatedAt": "2026-09-09T10:05:30.896Z",
-      "createdAt": "2026-09-09T10:04:36.616Z"
+      "createdAt": "2026-09-09T10:04:36.616Z",
+      "category": ""
     },
     {
       "id": "371f4e96-2e6b-4af8-9d57-9381cce0a9db",
@@ -119,7 +127,8 @@
       "example": "Ich bin für dich da. 我会在你身边支持你。\nfüreinander da sein 彼此支持 / be there for each other",
       "translation": "In einer Familie ist man füreinander da.\n一家人就应该彼此支持、在彼此需要时陪在身边。",
       "updatedAt": "2026-09-09T10:03:04.569Z",
-      "createdAt": "2026-09-09T10:01:57.151Z"
+      "createdAt": "2026-09-09T10:01:57.151Z",
+      "category": ""
     },
     {
       "id": "af710208-28c5-4511-8fcd-2d5e5b42914b",
@@ -132,7 +141,8 @@
       "example": "Er hat aufgelegt.\n 他把电话挂了。",
       "translation": "",
       "updatedAt": "2026-09-09T09:58:57.736Z",
-      "createdAt": "2026-09-09T09:58:57.736Z"
+      "createdAt": "2026-09-09T09:58:57.736Z",
+      "category": ""
     },
     {
       "id": "43bc1f14-c2b8-46e0-99b2-8150224cd683",
@@ -145,7 +155,8 @@
       "example": "Mach dir keine Sorgen um mich.\n别担心我。",
       "translation": "Ich mache mir Sorgen um dich.",
       "updatedAt": "2026-09-22T13:02:18.650Z",
-      "createdAt": "2026-09-09T09:58:09.054Z"
+      "createdAt": "2026-09-09T09:58:09.054Z",
+      "category": ""
     },
     {
       "id": "5802b221-7a42-48c3-b1e1-53c3615f25df",
@@ -158,7 +169,8 @@
       "example": "Sie haben den Kontakt zu Ihren Eltern abgebrochen?",
       "translation": "",
       "updatedAt": "2026-09-09T09:57:03.928Z",
-      "createdAt": "2026-09-09T09:56:26.826Z"
+      "createdAt": "2026-09-09T09:56:26.826Z",
+      "category": ""
     },
     {
       "id": "863b4b77-14eb-4eee-bdc3-8573762602bc",
@@ -171,7 +183,8 @@
       "example": "Ich bin schließlich in Berlin gelandet.\n我最后到了柏林。",
       "translation": "",
       "updatedAt": "2026-09-09T09:54:50.467Z",
-      "createdAt": "2026-09-09T09:54:50.467Z"
+      "createdAt": "2026-09-09T09:54:50.467Z",
+      "category": ""
     },
     {
       "id": "09ceafcc-ab70-4408-9c41-60bdfda92e25",
@@ -184,7 +197,8 @@
       "example": "eine Zusammenarbeit hatte keinen Sinn\n继续合作已经没有意义了。",
       "translation": "",
       "updatedAt": "2026-09-09T09:52:23.201Z",
-      "createdAt": "2026-09-09T09:52:23.201Z"
+      "createdAt": "2026-09-09T09:52:23.201Z",
+      "category": ""
     },
     {
       "id": "5bb80326-a727-4985-b8d6-3cc5d731b46e",
@@ -197,7 +211,8 @@
       "example": "Mein Vater hat sehr viel Macht auf mich ausgeübt.",
       "translation": "",
       "updatedAt": "2026-09-09T09:51:36.024Z",
-      "createdAt": "2026-09-09T09:50:55.932Z"
+      "createdAt": "2026-09-09T09:50:55.932Z",
+      "category": ""
     },
     {
       "id": "272ccf33-0465-4451-9cfc-0443404fe0e9",
@@ -210,7 +225,8 @@
       "example": "Falls ich den Betrieb übernehme, will ich mitentscheiden.\n如果我要接手这家店，我也要参与决策。",
       "translation": "",
       "updatedAt": "2026-09-09T09:49:52.838Z",
-      "createdAt": "2026-09-09T09:49:52.838Z"
+      "createdAt": "2026-09-09T09:49:52.838Z",
+      "category": ""
     },
     {
       "id": "1d010d1e-f4f3-4d94-93d6-05f8737a3675",
@@ -223,7 +239,8 @@
       "example": "Hatten Ihre Eltern denn dafür gar kein Verständnis?\n难道您的父母对此完全不能理解吗？",
       "translation": "",
       "updatedAt": "2026-09-09T09:48:07.425Z",
-      "createdAt": "2026-09-09T09:48:07.425Z"
+      "createdAt": "2026-09-09T09:48:07.425Z",
+      "category": ""
     },
     {
       "id": "3a613bb3-854a-4c83-a684-237218f0ded5",
@@ -236,7 +253,8 @@
       "example": "die Erwartungen meiner Eltern erfüllen\n满足父母的期待",
       "translation": "",
       "updatedAt": "2026-09-09T09:46:45.654Z",
-      "createdAt": "2026-09-09T09:46:45.654Z"
+      "createdAt": "2026-09-09T09:46:45.654Z",
+      "category": ""
     },
     {
       "id": "7b973705-c27f-42f3-8c52-28f36de32696",
@@ -249,7 +267,8 @@
       "example": "Bei einer so engen Zusammenarbeit braucht man Respekt voreinander.\n在这么紧密的合作中，彼此之间需要尊重。",
       "translation": "",
       "updatedAt": "2026-09-09T09:44:53.164Z",
-      "createdAt": "2026-09-09T09:44:53.164Z"
+      "createdAt": "2026-09-09T09:44:53.164Z",
+      "category": ""
     },
     {
       "id": "2575d20c-2fbb-4e46-9676-0da4aafab62e",
@@ -262,7 +281,8 @@
       "example": "was ich tun oder lassen sollte.",
       "translation": "",
       "updatedAt": "2026-09-09T09:43:49.022Z",
-      "createdAt": "2026-09-09T09:43:49.022Z"
+      "createdAt": "2026-09-09T09:43:49.022Z",
+      "category": ""
     },
     {
       "id": "13160ca1-4454-4373-b68c-85c55946c82a",
@@ -275,7 +295,8 @@
       "example": "Mein Vater macht mir ständig Vorschriften.\n我爸老是对我规定这规定那。",
       "translation": "",
       "updatedAt": "2026-09-09T09:41:15.876Z",
-      "createdAt": "2026-09-09T09:41:15.876Z"
+      "createdAt": "2026-09-09T09:41:15.876Z",
+      "category": ""
     },
     {
       "id": "7c931ff2-8c49-4001-a6b6-17d600595877",
@@ -288,7 +309,8 @@
       "example": "Schließlich stehen wir immer mehr in Konkurrenz zu den anderen Bäckereien.\n毕竟，我们面临着来自其他面包店越来越大的竞争。",
       "translation": "immer mehr：越来越……",
       "updatedAt": "2026-09-09T09:39:19.530Z",
-      "createdAt": "2026-09-09T09:39:13.234Z"
+      "createdAt": "2026-09-09T09:39:13.234Z",
+      "category": ""
     },
     {
       "id": "ef6de120-ea02-4b5f-8a37-dbf74c4b95b3",
@@ -301,7 +323,8 @@
       "example": "Der Betrieb muss sich weiterentwickeln.\n企业必须继续发展。",
       "translation": "",
       "updatedAt": "2026-09-22T14:35:05.546Z",
-      "createdAt": "2026-09-09T09:36:58.268Z"
+      "createdAt": "2026-09-09T09:36:58.268Z",
+      "category": ""
     },
     {
       "id": "cc56b4c5-bdce-4e34-a7bb-1c538eb29448",
@@ -314,7 +337,8 @@
       "example": "kreativer als er\n比他更有创造性",
       "translation": "",
       "updatedAt": "2026-09-09T09:35:41.443Z",
-      "createdAt": "2026-09-09T09:35:41.444Z"
+      "createdAt": "2026-09-09T09:35:41.444Z",
+      "category": ""
     },
     {
       "id": "e43318e4-8fd8-4158-99c8-120753b98b67",
@@ -327,7 +351,8 @@
       "example": "Im Geschäft zählte nur die Meinung meines Vaters.\n在店里，只有我父亲的意见算数。\nDeine Meinung zählt.\n你的意见很重要/算数。",
       "translation": "",
       "updatedAt": "2026-09-10T10:21:03.749Z",
-      "createdAt": "2026-09-09T09:34:00.687Z"
+      "createdAt": "2026-09-09T09:34:00.687Z",
+      "category": ""
     },
     {
       "id": "42c618d2-0e3e-43ac-a7e1-9a29d4d40551",
@@ -340,7 +365,8 @@
       "example": "Wie läuft die Arbeit?\n工作进展怎么样？\nWie lief das Gespräch?\n那次谈话进行得怎么样？",
       "translation": "",
       "updatedAt": "2026-09-09T09:32:30.868Z",
-      "createdAt": "2026-09-09T09:32:30.868Z"
+      "createdAt": "2026-09-09T09:32:30.868Z",
+      "category": ""
     },
     {
       "id": "7352987d-b2fc-4652-843b-a40eb409d009",
@@ -353,7 +379,8 @@
       "example": "Ich war damals einfach von meinen Eltern abhängig und hatte Angst, es nicht allein zu schaffen.",
       "translation": "",
       "updatedAt": "2026-09-09T09:28:06.966Z",
-      "createdAt": "2026-09-09T09:28:06.966Z"
+      "createdAt": "2026-09-09T09:28:06.966Z",
+      "category": ""
     },
     {
       "id": "03fdb137-26b4-49a6-93bb-d2bbc84f8db1",
@@ -366,7 +393,8 @@
       "example": "Wenn ich die Ausbildung woanders gemacht hätte, hätten mich meine Eltern auch nicht finanziell unterstützt.",
       "translation": "如果我当时去别的地方接受培训，我父母也不会在经济上支持我。",
       "updatedAt": "2026-09-09T09:25:12.932Z",
-      "createdAt": "2026-09-09T09:25:12.932Z"
+      "createdAt": "2026-09-09T09:25:12.932Z",
+      "category": ""
     },
     {
       "id": "59b1ec07-2d8b-4154-a52a-a3b3f701f7df",
@@ -379,7 +407,8 @@
       "example": "selbst über sein Leben entscheiden",
       "translation": "自己决定自己的人生",
       "updatedAt": "2026-09-09T09:23:03.029Z",
-      "createdAt": "2026-09-09T09:23:03.029Z"
+      "createdAt": "2026-09-09T09:23:03.029Z",
+      "category": ""
     },
     {
       "id": "38a8f6c6-c2c1-4227-88cd-d72be3bbb243",
@@ -392,7 +421,8 @@
       "example": "Aber später habe ich das immer mehr als Druck empfunden.",
       "translation": "但后来，我越来越把这种期待感受到为一种压力。",
       "updatedAt": "2026-09-09T09:20:24.583Z",
-      "createdAt": "2026-09-09T09:20:24.583Z"
+      "createdAt": "2026-09-09T09:20:24.583Z",
+      "category": ""
     },
     {
       "id": "2fd45a14-048e-4577-a5ae-7579024a1a69",
@@ -405,7 +435,8 @@
       "example": "Als kleiner Junge war ich natürlich stolz, dass mein Vater so viel Vertrauen zu mir hatte.\nIch habe kein Vertrauen mehr in ihn.",
       "translation": "我小时候当然很自豪，因为父亲那么信任我。更常见也可以：Vertrauen in jemanden (akk) haben",
       "updatedAt": "2026-09-22T14:48:45.846Z",
-      "createdAt": "2026-09-09T09:18:02.620Z"
+      "createdAt": "2026-09-09T09:18:02.620Z",
+      "category": ""
     },
     {
       "id": "dc0fac10-55a7-4c9a-aae1-e515b7b92722",
@@ -418,7 +449,8 @@
       "example": "Wie haben sich diese großen Erwartungen Ihrer Eltern auf Sie ausgewirkt?",
       "translation": "您父母这么高的期待对您产生了怎样的影响？etwas hat Einfluss auf mich\netwas wirkt sich auf mich aus",
       "updatedAt": "2026-09-09T09:14:20.300Z",
-      "createdAt": "2026-09-09T09:14:20.300Z"
+      "createdAt": "2026-09-09T09:14:20.300Z",
+      "category": ""
     },
     {
       "id": "7ed8b1fa-3c7b-4cbc-8a76-174759589ccd",
@@ -431,7 +463,8 @@
       "example": "Von klein auf habe ich immer wieder gehört: „Du musst fleißig lernen.“",
       "translation": "我从小就反复听到：“你必须好好学习。”",
       "updatedAt": "2026-09-10T08:01:49.764Z",
-      "createdAt": "2026-09-09T09:11:14.066Z"
+      "createdAt": "2026-09-09T09:11:14.066Z",
+      "category": ""
     },
     {
       "id": "b82c8989-3e72-417b-991f-3f41d3adbca7",
@@ -444,7 +477,8 @@
       "example": "... dass ich die Tradition unseres Betriebes weiterführe.",
       "translation": "我把我们家生意的传统延续下去",
       "updatedAt": "2026-09-10T07:57:51.838Z",
-      "createdAt": "2026-09-09T09:08:43.859Z"
+      "createdAt": "2026-09-09T09:08:43.859Z",
+      "category": ""
     },
     {
       "id": "c0ca8687-7a95-4f5c-b2e2-f27d3ba2bc77",
@@ -457,7 +491,8 @@
       "example": "",
       "translation": "",
       "updatedAt": "2026-09-09T09:07:47.993Z",
-      "createdAt": "2026-09-09T09:07:47.993Z"
+      "createdAt": "2026-09-09T09:07:47.993Z",
+      "category": ""
     },
     {
       "id": "649c4d1b-5b45-49f6-a7a7-b7f2295dbc2a",
@@ -470,7 +505,8 @@
       "example": "Ich sollte die Nachfolge von meinem Vater antreten.",
       "translation": "我本来应该接我父亲的班。",
       "updatedAt": "2026-09-09T09:05:22.800Z",
-      "createdAt": "2026-09-09T09:05:22.800Z"
+      "createdAt": "2026-09-09T09:05:22.800Z",
+      "category": ""
     },
     {
       "id": "989ed872-7a78-4af8-ac08-4e8bfcd1b223",
@@ -483,7 +519,8 @@
       "example": "",
       "translation": "",
       "updatedAt": "2026-09-09T09:03:46.321Z",
-      "createdAt": "2026-09-09T09:03:46.321Z"
+      "createdAt": "2026-09-09T09:03:46.321Z",
+      "category": ""
     },
     {
       "id": "8ef8e507-8a03-4a3b-be1a-1bc9f18af880",
@@ -496,7 +533,8 @@
       "example": "Sie sollten in die Fußstapfen Ihres Vaters und Großvaters treten ...",
       "translation": "in + Akk.，因为是进入/走入这些“足迹”的方向性表达。",
       "updatedAt": "2026-09-10T07:59:57.994Z",
-      "createdAt": "2026-09-09T09:02:25.338Z"
+      "createdAt": "2026-09-09T09:02:25.338Z",
+      "category": ""
     },
     {
       "id": "a6e2a940-c540-457b-9f8b-0f01cd361beb",
@@ -509,7 +547,8 @@
       "example": "Sie hatte einfach immer Angst, Kunden zu verlieren.",
       "translation": "Kunden 是 Akk. Pl.",
       "updatedAt": "2026-09-09T08:59:35.077Z",
-      "createdAt": "2026-09-09T08:59:01.804Z"
+      "createdAt": "2026-09-09T08:59:01.804Z",
+      "category": ""
     },
     {
       "id": "55397224-90b3-4614-981a-4349811d5062",
@@ -522,7 +561,8 @@
       "example": "Ich habe Ärger mit meinem Chef.",
       "translation": "我和老板有矛盾/老板找我麻烦。",
       "updatedAt": "2026-09-09T08:58:02.378Z",
-      "createdAt": "2026-09-09T08:58:02.378Z"
+      "createdAt": "2026-09-09T08:58:02.378Z",
+      "category": ""
     },
     {
       "id": "339fca7b-6e97-43b5-a168-10cf3d66f6d0",
@@ -535,7 +575,8 @@
       "example": "",
       "translation": "",
       "updatedAt": "2026-09-09T08:56:57.152Z",
-      "createdAt": "2026-09-09T08:56:57.152Z"
+      "createdAt": "2026-09-09T08:56:57.152Z",
+      "category": ""
     },
     {
       "id": "249d93f4-b3c5-4f30-806e-370980ee720b",
@@ -548,7 +589,8 @@
       "example": "Andererseits hatte ich auch das Gefühl, dass unsere Familie immer genau beobachtet wurde.",
       "translation": "另一方面，我也感觉我们家一直被别人盯着、被仔细观察着。",
       "updatedAt": "2026-09-09T08:55:29.632Z",
-      "createdAt": "2026-09-09T08:55:29.632Z"
+      "createdAt": "2026-09-09T08:55:29.632Z",
+      "category": ""
     },
     {
       "id": "a91c38fc-cbc2-4953-9ebe-8b98f0a75889",
@@ -561,7 +603,8 @@
       "example": "Ich wusste eben genau, wo ich hingehöre.",
       "translation": "我很清楚自己属于哪里。eben 是语气词 \"就是、确实\"",
       "updatedAt": "2026-09-09T08:52:11.162Z",
-      "createdAt": "2026-09-09T08:52:11.162Z"
+      "createdAt": "2026-09-09T08:52:11.162Z",
+      "category": ""
     },
     {
       "id": "91b5631f-2f6a-40e5-91af-fe42e51d399c",
@@ -574,7 +617,8 @@
       "example": "Das hat mir einerseits viel Geborgenheit gegeben.",
       "translation": "一方面，这给了我很强的安全感和归属感。",
       "updatedAt": "2026-09-09T08:49:18.858Z",
-      "createdAt": "2026-09-09T08:49:18.858Z"
+      "createdAt": "2026-09-09T08:49:18.858Z",
+      "category": ""
     },
     {
       "id": "3f146132-79e9-4da4-baa3-a464e4ef6615",
@@ -587,7 +631,8 @@
       "example": "",
       "translation": "",
       "updatedAt": "2026-09-09T08:45:00.213Z",
-      "createdAt": "2026-09-09T08:44:42.548Z"
+      "createdAt": "2026-09-09T08:44:42.548Z",
+      "category": ""
     },
     {
       "id": "2138b92e-9186-4c0f-bc8b-6bf28cb077ca",
@@ -600,7 +645,8 @@
       "example": "Das hatte natürlich einen großen Einfluss auf meine Kindheit.",
       "translation": "这当然对我的童年产生了很大的影响。",
       "updatedAt": "2026-09-09T08:43:56.409Z",
-      "createdAt": "2026-09-09T08:43:56.409Z"
+      "createdAt": "2026-09-09T08:43:56.409Z",
+      "category": ""
     },
     {
       "id": "f1789eb0-8db2-4194-855f-1a934146d5df",
@@ -613,7 +659,8 @@
       "example": "Wenn ich irgendwo hinkam, war ich der Sohn des Bäckers.",
       "translation": "不管我走到哪里，别人都会把我看作“那个面包师的儿子”。",
       "updatedAt": "2026-09-09T08:41:46.358Z",
-      "createdAt": "2026-09-09T08:41:46.358Z"
+      "createdAt": "2026-09-09T08:41:46.358Z",
+      "category": ""
     },
     {
       "id": "52c00538-ac49-4e84-bb7d-62d4b436bbd8",
@@ -626,7 +673,8 @@
       "example": "Bäcker = 面包师\nMeister = 师傅/获得 Meister 资格的人\nBäckermeister = 面包师傅、面包烘焙大师傅",
       "translation": "",
       "updatedAt": "2026-09-09T08:39:17.485Z",
-      "createdAt": "2026-09-09T08:39:17.485Z"
+      "createdAt": "2026-09-09T08:39:17.485Z",
+      "category": ""
     },
     {
       "id": "3a5c5110-c300-4bb1-8a6d-859a822ed260",
@@ -639,7 +687,8 @@
       "example": "Der talk heute im Rahmen unserer Themenwoche „Die liebe Familie“ steht.",
       "translation": "今天的节目是我们 “亲爱的家人”主题周的一部分。",
       "updatedAt": "2026-09-10T07:42:20.680Z",
-      "createdAt": "2026-09-09T08:35:52.069Z"
+      "createdAt": "2026-09-09T08:35:52.069Z",
+      "category": ""
     },
     {
       "id": "b67840d9-7b9d-4c9d-879e-eaba35b9175c",
@@ -652,7 +701,8 @@
       "example": "Diese Regel gilt für alle.\nThis rule applies to everyone. 这条规则适用于所有人。\nDas gilt auch für mich.That applies to me too. 这也适用于我。",
       "translation": "",
       "updatedAt": "2026-09-08T15:40:01.515Z",
-      "createdAt": "2026-09-08T15:40:01.515Z"
+      "createdAt": "2026-09-08T15:40:01.515Z",
+      "category": ""
     },
     {
       "id": "abdb204d-7cdf-42fe-b087-132c4deb9ee2",
@@ -665,7 +715,8 @@
       "example": "",
       "translation": "",
       "updatedAt": "2026-09-08T15:34:19.427Z",
-      "createdAt": "2026-09-08T15:34:19.427Z"
+      "createdAt": "2026-09-08T15:34:19.427Z",
+      "category": ""
     },
     {
       "id": "b2172e17-454a-486b-a53e-27c92f58dbf6",
@@ -678,7 +729,8 @@
       "example": "Wenn das Miteinander stimmt, fühlen sich alle mitverantwortlich.",
       "translation": "When people work well together, everyone feels jointly responsible. etwas stimmt 不是“投票” 某事是对的 / 某事状态良好、合适",
       "updatedAt": "2026-09-08T15:35:03.328Z",
-      "createdAt": "2026-09-08T15:28:26.891Z"
+      "createdAt": "2026-09-08T15:28:26.891Z",
+      "category": ""
     },
     {
       "id": "cff6cd85-2d46-449d-a6cc-c1d16ab963f6",
@@ -691,7 +743,8 @@
       "example": "die Arbeitsatmosphäre spielt natürlich auch eine sehr große Rolle.",
       "translation": "",
       "updatedAt": "2026-09-08T15:24:37.220Z",
-      "createdAt": "2026-09-08T15:24:37.220Z"
+      "createdAt": "2026-09-08T15:24:37.220Z",
+      "category": ""
     },
     {
       "id": "aabc7b56-2e35-4338-b576-da014aed919e",
@@ -704,7 +757,8 @@
       "example": "Drittens: Konstruktive Kritik ist jederzeit erwünscht.",
       "translation": "第三：任何时候都欢迎建设性的批评/意见。jederzeit = heute 副词 den ganzen Tag 名词短语 Akk",
       "updatedAt": "2026-09-23T09:12:17.652Z",
-      "createdAt": "2026-09-08T15:22:46.272Z"
+      "createdAt": "2026-09-08T15:22:46.272Z",
+      "category": ""
     },
     {
       "id": "3767d0ab-17e3-4290-9107-0b5eda058c99",
@@ -717,7 +771,8 @@
       "example": "Zweitens: Alle sollen überall ganz genau hinsehen.",
       "translation": "第二：所有人都应该在各个地方仔细查看/认真留意。ganz genau： very closely",
       "updatedAt": "2026-09-08T15:20:32.138Z",
-      "createdAt": "2026-09-08T15:20:32.139Z"
+      "createdAt": "2026-09-08T15:20:32.139Z",
+      "category": ""
     },
     {
       "id": "26df7f4f-2a35-4f49-a434-570d78d2cc95",
@@ -730,7 +785,8 @@
       "example": "Erstens: Wir brauchen Teamgeist.",
       "translation": "第一：我们需要团队精神。",
       "updatedAt": "2026-09-08T15:18:08.037Z",
-      "createdAt": "2026-09-08T15:18:08.037Z"
+      "createdAt": "2026-09-08T15:18:08.037Z",
+      "category": ""
     },
     {
       "id": "e1f0b10f-088f-49d8-ab94-7a8a0615fa41",
@@ -743,7 +799,8 @@
       "example": "Da gibt's ja diesen blöden Spruch.",
       "translation": "有这么一句挺讨厌/挺蠢的俗话。",
       "updatedAt": "2026-09-08T15:15:59.941Z",
-      "createdAt": "2026-09-08T15:15:59.941Z"
+      "createdAt": "2026-09-08T15:15:59.941Z",
+      "category": ""
     },
     {
       "id": "b36bb841-f9e3-4cb0-a902-ee7ab74b2ec2",
@@ -756,7 +813,8 @@
       "example": "Das hat mir richtig Spaß gemacht.",
       "translation": "这真的让我觉得特别有意思 / 我做这件事真的特别开心。",
       "updatedAt": "2026-09-08T14:58:16.084Z",
-      "createdAt": "2026-09-08T14:58:16.084Z"
+      "createdAt": "2026-09-08T14:58:16.084Z",
+      "category": ""
     },
     {
       "id": "5cff5c45-4228-4a4d-ae27-c1d5f6201207",
@@ -769,7 +827,8 @@
       "example": "Und danach habe ich allen Mitarbeitern gezeigt, wie das Programm funktioniert, worauf sie besonders achten sollen und so weiter.",
       "translation": "软件是如何运行的和他们应该特别注意什么",
       "updatedAt": "2026-09-08T14:57:12.997Z",
-      "createdAt": "2026-09-08T14:57:12.997Z"
+      "createdAt": "2026-09-08T14:57:12.997Z",
+      "category": ""
     },
     {
       "id": "e2d4d7a4-e05b-4e8f-9988-27ed23913e08",
@@ -782,7 +841,8 @@
       "example": "Meine Vorgesetzten trauen mir was zu.\nMeine Eltern haben mir das nicht zugetraut.\n我的父母当时不相信我能做到这件事。",
       "translation": "我的上司觉得我有这个能力。",
       "updatedAt": "2026-09-23T09:17:29.494Z",
-      "createdAt": "2026-09-08T14:49:03.805Z"
+      "createdAt": "2026-09-08T14:49:03.805Z",
+      "category": ""
     },
     {
       "id": "408cb830-8960-45e9-b04f-8113bec4c672",
@@ -1321,12 +1381,12 @@
       "level": "B2",
       "book": "B2.1",
       "lesson": "3",
-      "german": "eine Prüfung ablegen",
-      "chinese": "参加/完成考试",
+      "german": "ablegen",
+      "chinese": "eine Prüfung ablegen 参加/完成考试",
       "english": "",
       "example": "... und legte am Ende des Jahres die C1-Prüfung erfolgreich ab.",
       "translation": "并在年底成功通过了 C1 考试",
-      "updatedAt": "2026-08-31T11:52:03.219Z",
+      "updatedAt": "2026-09-24T21:37:32.730Z",
       "createdAt": "2026-08-31T11:52:03.219Z",
       "category": ""
     },
@@ -3838,6 +3898,39 @@
     }
   ],
   "grammarEntries": [
+    {
+      "id": "55bb6c5e-1962-4b84-bed8-2f483d76b703",
+      "title": "aus vor",
+      "lesson": "",
+      "rule": "aus + Gefühl = 这个情绪是你做某件事的动机/原因。\nvor + Gefühl =  强烈的情绪/状态导致某种反应",
+      "pattern": "Er schwieg aus Angst. 他因为害怕，所以选择不说话。→ Angst 是他 schweigen 的动机/原因。\nEr zitterte vor Angst.他吓得发抖。→ Angst 导致了 zittern 这种反应。\naus Angst lügen = 因为害怕而撒谎 aus Liebe handeln = 出于爱而行动\naus Interesse Deutsch lernen = 出于兴趣学德语 aus Neugier fragen = 出于好奇而问",
+      "example": "vor Angst zittern = 吓得发抖  vor Angst weinen = 吓得哭\nvor Kälte zittern = 冷得发抖 vor Schmerz schreien = 痛得大叫",
+      "note": "vor Freude lachen = 高兴得笑 vor Aufregung nicht schlafen können = 激动/紧张得睡不着\nvor Wut platzen = 气炸了 vor Schreck sprachlos sein = 吓得说不出话",
+      "updatedAt": "2026-09-24T21:57:03.902Z",
+      "createdAt": "2026-09-24T21:52:58.825Z"
+    },
+    {
+      "id": "ba880e53-e64d-4471-a25d-71dbbbdc8bae",
+      "title": "anmelden",
+      "lesson": "",
+      "rule": "melden → 报告、报信、表明自己\nanmelden → 把某人/某物登记进去",
+      "pattern": "Ich melde mich bei dir. 我联系你。\n而：Ich melde mich für den Deutschkurs an.\n我报名德语课。",
+      "example": "这两个千万别混：Ich melde mich bei der Schule.\n我联系学校 / 向学校报到。（具体看语境）\nIch melde mich bei der Schule an.\n我在学校登记/注册。\n就差一个 an，意思已经变了。\n你可以把这一整个词族记成一条逻辑：",
+      "note": "melden → 报告 / 联系 / 表明自己 anmelden → 登记进去、报名\nabmelden → 注销、退出登记 ummelden → 更改登记信息\nsich melden → 回应、举手、联系 etwas melden → 报告某事\n而且它们的过去分词也很有规律：\nmelden → gemeldet anmelden → angemeldet abmelden → abgemeldet",
+      "updatedAt": "2026-09-24T10:37:43.843Z",
+      "createdAt": "2026-09-24T10:37:43.843Z"
+    },
+    {
+      "id": "6dfa0179-7e87-4aab-8198-9e5aaeaa6693",
+      "title": "melden",
+      "lesson": "",
+      "rule": "melden 报告、告知、报到 / 表明“我在这里”  report / notify",
+      "pattern": "① etwas melden = 报告某事\nIch muss den Unfall melden. 我必须报告这起事故。\nSie hat den Schaden der Versicherung gemeldet. 她向保险公司申报了损失。\nden Schaden = Akk. → 报告什么 der Versicherung = Dat. → 向谁报告\njemandem etwas （AKK.）melden 向某人/机构报告某事",
+      "example": "② sich melden = 出声、回应、主动联系、举手, 这个超级常用，而且中文翻译会随着场景变化。\n老师问问题：Wer weiß die Antwort? Bitte melden! 谁知道答案？请举手！\n因为 sich melden 在课堂里就是： 举手示意 / 表示“我要回答”\n电话、邮件里：Ich melde mich morgen bei dir. 我明天联系你。\n这里的：sich bei jemandem melden = 主动联系某人 / 跟某人报个信\n比如 Meld dich mal! 有空联系我啊！/ 给我个消息！这句话德国人非常常说。",
+      "note": "",
+      "updatedAt": "2026-09-24T10:34:45.429Z",
+      "createdAt": "2026-09-24T10:34:45.429Z"
+    },
     {
       "id": "d1ef19d2-0eec-4b36-a958-993749ea79bc",
       "title": "gern",
