@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Label</key>
+  <string>com.meindeutsch.publisher</string>
+  <key>ProgramArguments</key>
+  <array>
+    <string>/usr/bin/python3</string>
+    <string>/Users/guoxiaona/Documents/Codex/2026-07-07/wo/outputs/german-learning-app/publish_helper.py</string>
+    <string>--serve</string>
+  </array>
+  <key>WorkingDirectory</key>
+  <string>/Users/guoxiaona/Documents/Codex/2026-07-07/wo/outputs/german-learning-app</string>
+  <key>RunAtLoad</key>
+  <true/>
+  <key>KeepAlive</key>
+  <true/>
+  <key>ProcessType</key>
+  <string>Background</string>
+  <key>ThrottleInterval</key>
+  <integer>5</integer>
+  <key>StandardOutPath</key>
+  <string>/Users/guoxiaona/Library/Logs/MeinDeutschPublisher.log</string>
+  <key>StandardErrorPath</key>
+  <string>/Users/guoxiaona/Library/Logs/MeinDeutschPublisher.error.log</string>
+</dict>
+</plist>

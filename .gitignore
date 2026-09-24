@@ -1,4 +1,5 @@
 .DS_Store
 mein-deutsch-backup-*.json
 mein-deutsch-before-import-*.json
-
+__pycache__/
+.learning-data-*.tmp

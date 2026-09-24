@@ -78,6 +78,7 @@ h1 {
 .save-button,
 .secondary-button,
 .backup-button,
+.publish-button,
 .polish-button,
 .speak-button,
 .speak-grammar-button,
@@ -96,14 +97,16 @@ h1 {
 }
 
 .add-button,
-.save-button {
+.save-button,
+.publish-button {
   background: var(--blue);
   color: white;
   box-shadow: 0 10px 26px rgba(0, 113, 227, 0.22);
 }
 
 .add-button:hover,
-.save-button:hover {
+.save-button:hover,
+.publish-button:hover {
   background: var(--blue-dark);
 }
 
@@ -157,6 +160,28 @@ h1 {
 .backup-button {
   min-height: 38px;
   padding: 0 14px;
+}
+
+.publish-button {
+  min-height: 38px;
+  padding: 0 16px;
+}
+
+.publish-button:disabled {
+  cursor: wait;
+  opacity: 0.65;
+}
+
+.read-only-mode .add-button,
+.read-only-mode .composer,
+.read-only-mode .publish-button,
+.read-only-mode .backup-button,
+.read-only-mode .edit-button,
+.read-only-mode .more-button,
+.read-only-mode .grammar-edit-button,
+.read-only-mode .grammar-more-button,
+.read-only-mode .danger-actions {
+  display: none !important;
 }
 
 .edit-button,

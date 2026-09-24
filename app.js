@@ -4,6 +4,8 @@ const BACKUP_KEY = "mein-deutsch.automatic-backups";
 const LEGACY_STORAGE_KEYS = ["my-german-app.entries.v1"];
 const CURRENT_SCHEMA_VERSION = 5;
 const MAX_BACKUP_FILE_SIZE = 10 * 1024 * 1024;
+const PUBLISH_HELPER_URL = "http://127.0.0.1:8765/api/publish";
+const IS_PUBLIC_SITE = window.location.hostname === "xiaonaguo90-beep.github.io";
 
 const addButton = document.querySelector("#addButton");
 const modeButtons = document.querySelectorAll(".mode-button");
@@ -25,6 +27,7 @@ const countText = document.querySelector("#countText");
 const saveStatus = document.querySelector("#saveStatus");
 const backupButton = document.querySelector("#backupButton");
 const importBackupButton = document.querySelector("#importBackupButton");
+const publishButton = document.querySelector("#publishButton");
 const backupFileInput = document.querySelector("#backupFileInput");
 const template = document.querySelector("#entryTemplate");
 const grammarTemplate = document.querySelector("#grammarTemplate");
@@ -37,8 +40,6 @@ let activeMode = "vocabulary";
 let activePronunciationAudio = null;
 let pronunciationRequestId = 0;
 const pronunciationCache = new Map();
-saveEntries({ backup: false, status: false });
-saveGrammarEntries({ backup: false, status: false });
 
 addButton.addEventListener("click", () => {
   if (activeMode === "grammar") {
@@ -146,6 +147,7 @@ grammarForm.addEventListener("submit", (event) => {
 searchInput.addEventListener("input", render);
 sourceFilter.addEventListener("change", render);
 backupButton.addEventListener("click", downloadBackup);
+publishButton.addEventListener("click", publishMobileData);
 importBackupButton.addEventListener("click", () => {
   backupFileInput.value = "";
   backupFileInput.click();
@@ -638,13 +640,7 @@ function createAutomaticBackup() {
 }
 
 function downloadBackup() {
-  const data = {
-    app: "Mein Deutsch",
-    exportedAt: new Date().toISOString(),
-    schemaVersion: CURRENT_SCHEMA_VERSION,
-    entries,
-    grammarEntries,
-  };
+  const data = createExportData();
   const blob = new Blob([JSON.stringify(data, null, 2)], { type: "application/json" });
   const url = URL.createObjectURL(blob);
   const link = document.createElement("a");
@@ -653,6 +649,51 @@ function downloadBackup() {
   link.click();
   URL.revokeObjectURL(url);
   showSaveStatus("备份已导出");
+}
+
+function createExportData() {
+  return {
+    app: "Mein Deutsch",
+    exportedAt: new Date().toISOString(),
+    schemaVersion: CURRENT_SCHEMA_VERSION,
+    entries,
+    grammarEntries,
+  };
+}
+
+async function publishMobileData() {
+  const originalText = publishButton.textContent;
+  publishButton.disabled = true;
+  publishButton.textContent = "正在更新…";
+  showSaveStatus("正在安全发布");
+
+  try {
+    const response = await fetch(PUBLISH_HELPER_URL, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify(createExportData()),
+    });
+    const result = await response.json().catch(() => ({}));
+    if (!response.ok) {
+      throw new Error(result.error || "本机发布助手返回错误。");
+    }
+
+    showSaveStatus("手机版已更新");
+    alert(
+      `手机版已更新：${result.entries} 条单词数据，${result.grammarEntries} 条语法数据。\n\n`
+      + "请在 iPhone 上刷新页面；GitHub Pages 通常需要几十秒完成更新。",
+    );
+  } catch (error) {
+    showSaveStatus("更新手机版失败");
+    alert(
+      "更新手机版失败。Mac 上的学习数据没有受到影响。\n\n"
+      + `${error.message || "无法连接本机发布助手。"}\n\n`
+      + "请确认 Mein Deutsch 发布助手正在运行后重试。",
+    );
+  } finally {
+    publishButton.disabled = false;
+    publishButton.textContent = originalText;
+  }
 }
 
 async function importBackup(file) {
@@ -821,6 +862,34 @@ function showSaveStatus(message) {
   showSaveStatus.timer = window.setTimeout(() => {
     saveStatus.textContent = "数据已安全保存";
   }, 1800);
+}
+
+async function initializeApp() {
+  if (!IS_PUBLIC_SITE) {
+    saveEntries({ backup: false, status: false });
+    saveGrammarEntries({ backup: false, status: false });
+    render();
+    return;
+  }
+
+  document.body.classList.add("read-only-mode");
+  saveStatus.textContent = "正在载入手机版数据…";
+  render();
+
+  try {
+    const response = await fetch(`learning-data.json?v=${Date.now()}`, { cache: "no-store" });
+    if (!response.ok) throw new Error("无法读取手机版数据");
+    const data = await response.json();
+    const publishedData = validateBackupData(data);
+    entries = publishedData.entries;
+    grammarEntries = publishedData.grammarEntries;
+    const publishedAt = data.publishedAt || data.exportedAt;
+    saveStatus.textContent = `手机版 · 更新于 ${formatDate(publishedAt)}`;
+    render();
+  } catch {
+    saveStatus.textContent = "手机版数据暂时无法载入";
+    render();
+  }
 }
 
 async function speakGermanWord(text, emptyMessage) {
@@ -1018,4 +1087,4 @@ function formatLesson(value) {
   return /^\d+$/.test(lesson) ? `第${lesson}课` : lesson;
 }
 
-render();
+initializeApp();
