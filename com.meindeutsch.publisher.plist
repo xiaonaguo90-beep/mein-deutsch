@@ -7,11 +7,11 @@
   <key>ProgramArguments</key>
   <array>
     <string>/usr/bin/python3</string>
-    <string>/Users/guoxiaona/Documents/Codex/2026-07-07/wo/outputs/german-learning-app/publish_helper.py</string>
+    <string>/Users/guoxiaona/Library/Application Support/MeinDeutschPublisher/repo/publish_helper.py</string>
     <string>--serve</string>
   </array>
   <key>WorkingDirectory</key>
-  <string>/Users/guoxiaona/Documents/Codex/2026-07-07/wo/outputs/german-learning-app</string>
+  <string>/Users/guoxiaona/Library/Application Support/MeinDeutschPublisher/repo</string>
   <key>RunAtLoad</key>
   <true/>
   <key>KeepAlive</key>
