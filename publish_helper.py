@@ -25,6 +25,7 @@ ALLOWED_ORIGINS = {
     f"http://localhost:{PORT}",
 }
 PUBLISH_LOCK = threading.Lock()
+NON_FAST_FORWARD_MARKERS = ("fetch first", "non-fast-forward")
 
 VOCABULARY_FIELDS = (
     "id", "level", "book", "lesson", "german", "chinese",
@@ -110,6 +111,41 @@ def run_git(*arguments, timeout=120, check=True):
     return result
 
 
+def git_error_detail(result):
+    lines = (result.stderr or result.stdout).strip().splitlines()
+    return lines[-1] if lines else "未知 Git 错误"
+
+
+def sync_remote_main():
+    branch = run_git("branch", "--show-current").stdout.strip()
+    if branch != "main":
+        raise PublishError("发布仓库当前不在 main 分支，已停止发布。")
+
+    fetch = run_git("fetch", "origin", "main", check=False)
+    if fetch.returncode != 0:
+        raise PublishError(f"无法同步 GitHub main：{git_error_detail(fetch)}")
+
+    rebase = run_git("rebase", "origin/main", check=False)
+    if rebase.returncode != 0:
+        run_git("rebase", "--abort", check=False)
+        raise PublishError("本机数据版本与 GitHub main 存在内容冲突；原有提交已保留，请先手动检查。")
+
+
+def push_main():
+    push = run_git("push", "origin", "main", check=False)
+    if push.returncode == 0:
+        return
+
+    output = f"{push.stdout}\n{push.stderr}".lower()
+    if any(marker in output for marker in NON_FAST_FORWARD_MARKERS):
+        sync_remote_main()
+        push = run_git("push", "origin", "main", check=False)
+        if push.returncode == 0:
+            return
+
+    raise PublishError(f"GitHub 发布失败：{git_error_detail(push)}")
+
+
 def read_existing_data():
     if not DATA_FILE.exists():
         return None
@@ -145,6 +181,8 @@ def publish_payload(payload):
     if unrelated_changes:
         raise PublishError("网站程序存在尚未完成的修改，已为安全起见停止发布。")
 
+    sync_remote_main()
+
     existing = read_existing_data()
     data_changed = not existing or (
         existing.get("entries") != entries
@@ -178,7 +216,7 @@ def publish_payload(payload):
     else:
         published_at = existing.get("publishedAt", existing.get("exportedAt"))
 
-    run_git("push", "origin", "main")
+    push_main()
     revision = run_git("rev-parse", "--short", "HEAD").stdout.strip()
     return {
         "ok": True,
