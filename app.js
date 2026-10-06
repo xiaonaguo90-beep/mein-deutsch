@@ -6,6 +6,8 @@ const CURRENT_SCHEMA_VERSION = 5;
 const MAX_BACKUP_FILE_SIZE = 10 * 1024 * 1024;
 const PUBLISH_HELPER_URL = "http://127.0.0.1:8765/api/publish";
 const IS_PUBLIC_SITE = window.location.hostname === "xiaonaguo90-beep.github.io";
+const DESKTOP_SCROLL_MEDIA = window.matchMedia("(min-width: 761px)");
+const UNSET_SOURCE_FILTER = "__unset_source__";
 
 const addButton = document.querySelector("#addButton");
 const modeButtons = document.querySelectorAll(".mode-button");
@@ -39,6 +41,7 @@ let editingGrammarId = null;
 let activeMode = "vocabulary";
 let activePronunciationAudio = null;
 let pronunciationRequestId = 0;
+let editingScrollPosition = null;
 const pronunciationCache = new Map();
 
 addButton.addEventListener("click", () => {
@@ -67,6 +70,7 @@ modeButtons.forEach((button) => {
 });
 
 cancelButton.addEventListener("click", () => {
+  editingScrollPosition = null;
   closeComposer();
 });
 
@@ -75,6 +79,7 @@ polishButton.addEventListener("click", () => {
 });
 
 grammarCancelButton.addEventListener("click", () => {
+  editingScrollPosition = null;
   closeGrammarComposer();
 });
 
@@ -85,6 +90,7 @@ grammarPolishButton.addEventListener("click", () => {
 form.addEventListener("submit", (event) => {
   event.preventDefault();
 
+  const scrollTargetId = editingEntryId;
   const data = new FormData(form);
   const editedEntry = entries.find((entry) => entry.id === editingEntryId);
   const entryData = {
@@ -112,11 +118,13 @@ form.addEventListener("submit", (event) => {
   saveEntries();
   closeComposer();
   render();
+  restoreEditingScrollPosition(scrollTargetId, entriesEl);
 });
 
 grammarForm.addEventListener("submit", (event) => {
   event.preventDefault();
 
+  const scrollTargetId = editingGrammarId;
   const data = new FormData(grammarForm);
   const editedGrammar = grammarEntries.find((entry) => entry.id === editingGrammarId);
   const grammarData = {
@@ -142,6 +150,7 @@ grammarForm.addEventListener("submit", (event) => {
   saveGrammarEntries();
   closeGrammarComposer();
   render();
+  restoreEditingScrollPosition(scrollTargetId, grammarEntriesEl);
 });
 
 searchInput.addEventListener("input", render);
@@ -182,6 +191,7 @@ entriesEl.addEventListener("click", (event) => {
   }
 
   if (editButton) {
+    rememberEditingScrollPosition(card);
     startEdit(entry);
   }
 
@@ -217,6 +227,7 @@ grammarEntriesEl.addEventListener("click", (event) => {
   }
 
   if (editButton) {
+    rememberEditingScrollPosition(card);
     startGrammarEdit(entry);
   }
 
@@ -292,9 +303,14 @@ function renderVocabulary() {
 
 function renderGrammar() {
   entriesEl.replaceChildren();
+  renderGrammarSourceFilter();
   const query = searchInput.value.trim().toLowerCase();
+  const activeSource = sourceFilter.value;
   const visibleEntries = grammarEntries.filter((entry) => {
-    return [
+    const source = getGrammarSource(entry);
+    const matchesSource = activeSource === "全部"
+      || (activeSource === UNSET_SOURCE_FILTER ? !source : source === activeSource);
+    const matchesSearch = [
       entry.title,
       entry.lesson,
       entry.rule,
@@ -302,6 +318,7 @@ function renderGrammar() {
       entry.example,
       entry.note,
     ].join(" ").toLowerCase().includes(query);
+    return matchesSource && matchesSearch;
   });
 
   countText.textContent = `${visibleEntries.length} 条语法`;
@@ -344,6 +361,28 @@ function renderSourceFilter() {
   sourceFilter.value = sources.includes(selected) ? selected : "全部";
 }
 
+function renderGrammarSourceFilter() {
+  const selected = sourceFilter.value || "全部";
+  const sources = [...new Set(grammarEntries.map(getGrammarSource).filter(Boolean))]
+    .sort((a, b) => a.localeCompare(b, "zh-CN"));
+
+  sourceFilter.replaceChildren(
+    new Option("全部来源", "全部"),
+    new Option("未设置来源", UNSET_SOURCE_FILTER),
+  );
+  sources.forEach((source) => {
+    sourceFilter.append(new Option(source, source));
+  });
+
+  sourceFilter.value = selected === UNSET_SOURCE_FILTER || sources.includes(selected)
+    ? selected
+    : "全部";
+}
+
+function getGrammarSource(entry) {
+  return typeof entry.lesson === "string" ? entry.lesson.trim() : "";
+}
+
 function setOptionalField(card, field, value) {
   const row = card.querySelector(`[data-field="${field}"]`);
   if (!value) {
@@ -354,11 +393,34 @@ function setOptionalField(card, field, value) {
   card.querySelector(`.${field}`).textContent = value;
 }
 
+function rememberEditingScrollPosition(card) {
+  if (!DESKTOP_SCROLL_MEDIA.matches) return;
+
+  editingScrollPosition = {
+    id: card.dataset.id,
+    viewportTop: card.getBoundingClientRect().top,
+  };
+}
+
+function restoreEditingScrollPosition(entryId, container) {
+  const savedPosition = editingScrollPosition;
+  editingScrollPosition = null;
+  if (!DESKTOP_SCROLL_MEDIA.matches || !entryId || savedPosition?.id !== entryId) return;
+
+  window.requestAnimationFrame(() => {
+    const card = [...container.children].find((item) => item.dataset.id === entryId);
+    if (!card) return;
+
+    window.scrollBy(0, card.getBoundingClientRect().top - savedPosition.viewportTop);
+  });
+}
+
 function getFormValue(data, name) {
   return (data.get(name) || "").trim();
 }
 
 function setMode(mode) {
+  editingScrollPosition = null;
   activeMode = mode === "grammar" ? "grammar" : "vocabulary";
   modeButtons.forEach((button) => {
     button.classList.toggle("active", button.dataset.mode === activeMode);
@@ -369,7 +431,6 @@ function setMode(mode) {
   searchInput.value = "";
   entriesEl.classList.toggle("hidden", activeMode !== "vocabulary");
   grammarEntriesEl.classList.toggle("hidden", activeMode !== "grammar");
-  sourceFilter.classList.toggle("hidden", activeMode !== "vocabulary");
   searchInput.placeholder = activeMode === "grammar"
     ? "搜索语法标题、规则、结构或例句"
     : "搜索德语、中文、English 或例句";
@@ -378,6 +439,7 @@ function setMode(mode) {
 }
 
 function startCreate() {
+  editingScrollPosition = null;
   editingEntryId = null;
   form.reset();
   document.querySelector(".extra-fields").open = false;
@@ -388,6 +450,7 @@ function startCreate() {
 }
 
 function startGrammarCreate() {
+  editingScrollPosition = null;
   editingGrammarId = null;
   grammarForm.reset();
   grammarSaveButton.textContent = "保存";
