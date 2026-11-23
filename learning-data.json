@@ -1,9 +1,1207 @@
 {
   "app": "Mein Deutsch",
   "schemaVersion": 5,
-  "exportedAt": "2026-11-09T21:39:47.899Z",
-  "publishedAt": "2026-11-09T21:39:51.227828Z",
+  "exportedAt": "2026-11-23T17:59:11.564Z",
+  "publishedAt": "2026-11-23T17:59:15.267819Z",
   "entries": [
+    {
+      "id": "d1d06ffd-e94a-4101-9cdd-7b92aa81faa0",
+      "level": "",
+      "book": "",
+      "lesson": "",
+      "german": "",
+      "chinese": "etw. ergänzen：add / supplement，补充某事",
+      "english": "",
+      "example": "",
+      "translation": "",
+      "updatedAt": "2026-11-23T17:59:09.457Z",
+      "createdAt": "2026-11-23T17:59:09.457Z"
+    },
+    {
+      "id": "599ed95f-e6f4-4df8-a58a-83b690e16fd1",
+      "level": "",
+      "book": "",
+      "lesson": "",
+      "german": "",
+      "chinese": "etw. ergänzen：add / supplement，补充某事",
+      "english": "",
+      "example": "",
+      "translation": "",
+      "updatedAt": "2026-11-23T17:59:09.201Z",
+      "createdAt": "2026-11-23T17:59:09.201Z"
+    },
+    {
+      "id": "dec3d0bc-972f-4072-833c-46bdca522d7d",
+      "level": "",
+      "book": "",
+      "lesson": "",
+      "german": "",
+      "chinese": "etw. ergänzen：add / supplement，补充某事",
+      "english": "",
+      "example": "",
+      "translation": "",
+      "updatedAt": "2026-11-23T17:59:08.940Z",
+      "createdAt": "2026-11-23T17:59:08.940Z"
+    },
+    {
+      "id": "7462b200-58c0-43dc-8ed1-55fbfe1fcefe",
+      "level": "",
+      "book": "",
+      "lesson": "",
+      "german": "",
+      "chinese": "etw. ergänzen：add / supplement，补充某事",
+      "english": "",
+      "example": "",
+      "translation": "",
+      "updatedAt": "2026-11-23T17:59:07.045Z",
+      "createdAt": "2026-11-23T17:59:07.045Z"
+    },
+    {
+      "id": "d60fb914-41e4-4949-a806-c8312d749e3d",
+      "level": "",
+      "book": "",
+      "lesson": "",
+      "german": "",
+      "chinese": "etw. ergänzen：add / supplement，补充某事",
+      "english": "",
+      "example": "",
+      "translation": "",
+      "updatedAt": "2026-11-23T17:59:06.794Z",
+      "createdAt": "2026-11-23T17:59:06.794Z"
+    },
+    {
+      "id": "9065251c-7062-4fd7-a83f-f79f235010e3",
+      "level": "",
+      "book": "",
+      "lesson": "",
+      "german": "",
+      "chinese": "etw. ergänzen：add / supplement，补充某事",
+      "english": "",
+      "example": "",
+      "translation": "",
+      "updatedAt": "2026-11-23T17:59:05.962Z",
+      "createdAt": "2026-11-23T17:59:05.962Z"
+    },
+    {
+      "id": "c14ec82a-bb44-41eb-baad-118e4f5bab6f",
+      "level": "B2",
+      "book": "B2.1",
+      "lesson": "8",
+      "german": "laut",
+      "chinese": "laut + Dativ / Genitiv  = according to（根据、按照）",
+      "english": "",
+      "example": "Laut einer Studie aus den USA ist es vollkommen okay, hin und wieder Kartoffelprodukte zu essen, die in Öl gebacken sind.\nEnglish: According to a study from the USA, it's perfectly okay to eat potato products that have been cooked in oil from time to time.\n中文： 根据一项来自美国的研究，偶尔吃一些用油烹制的土豆制品是完全可以的。\n① laut + Dativ / Genitiv = according to（根据、按照）\nlaut einer Studie = according to a study 这里 einer Studie 是 Dativ。\n② vollkommen = completely / entirely / perfectly 完全地、彻底地。\nvollkommen okay = perfectly okay，完全没问题。\n③ hin und wieder = from time to time / occasionally 偶尔、时不时。\n④ es ist + Adjektiv + zu + Infinitiv\nEs ist okay, Kartoffelprodukte zu essen.\nIt's okay to eat potato products.\n吃土豆制品是可以的。\n这里的 es 是形式主语，真正表达被评价行为的是后面的不定式结构。\n- in Öl：在油中\n- gebacken sind：sein + Partizip II，表示被烹制后的状态\n这里更接近 Zustandspassiv（状态被动态）。",
+      "translation": "",
+      "updatedAt": "2026-11-23T17:50:59.731Z",
+      "createdAt": "2026-11-23T17:50:59.731Z",
+      "category": ""
+    },
+    {
+      "id": "bc52d6f2-eb83-46d0-a6fa-38a1da7f5381",
+      "level": "B2",
+      "book": "B2.1",
+      "lesson": "8",
+      "german": "sachlich",
+      "chinese": "- sachlich：objective / matter-of-fact，客观的、就事论事的",
+      "english": "",
+      "example": "",
+      "translation": "",
+      "updatedAt": "2026-11-23T17:44:47.559Z",
+      "createdAt": "2026-11-23T17:44:47.559Z",
+      "category": ""
+    },
+    {
+      "id": "f83edbce-eb73-44e9-8156-64eba4f95ac3",
+      "level": "B2",
+      "book": "B2.1",
+      "lesson": "8",
+      "german": "erledigt",
+      "chinese": "[ɛɐ̯ˈleːdɪɡn̩] - etw. (Akk.) erledigen：deal with / take care of / complete，处理、完成某事",
+      "english": "",
+      "example": "Sie erledigt das sachlich.\nEnglish: She handles it in a matter-of-fact way.\n中文： 她会以客观、就事论事的方式处理这件事。\n这里 sachlich 是形容词的副词性用法，修饰 erledigt。",
+      "translation": "",
+      "updatedAt": "2026-11-23T17:45:29.970Z",
+      "createdAt": "2026-11-23T17:44:34.754Z",
+      "category": ""
+    },
+    {
+      "id": "05def9e3-22dc-45ce-9ddd-95d08736aa66",
+      "level": "B2",
+      "book": "B2.1",
+      "lesson": "8",
+      "german": "aufregen",
+      "chinese": "① sich (AKK.) aufregen = get upset / get worked up（生气、激动）",
+      "english": "",
+      "example": "Sie regt sich nicht auf, wenn andere beim Kampf um die beste Ernährung weniger erfolgreich sind.\nEnglish: She doesn't get upset when others are less successful in the struggle for the best diet.\n中文： 当其他人在追求最佳饮食的过程中没有那么成功时，她也不会生气。\n- Ich rege mich auf.\n- Du regst dich auf.\n- Sie regt sich auf.\n② beim Kampf\n- der Kampf：struggle / fight，斗争、竞争\n- bei + Dativ：这里表示在某个活动或过程中\n③ der Kampf um + Akkusativ\n= the struggle for something\n为争取某事物而努力或竞争。\n例如：der Kampf um den ersten Platz\nthe fight for first place 争夺第一名。\nweniger erfolgreich 是形容词比较级表达：\n- erfolgreich — successful，成功的\n- weniger erfolgreich — less successful，没那么成功的",
+      "translation": "",
+      "updatedAt": "2026-11-23T17:40:53.926Z",
+      "createdAt": "2026-11-23T17:40:53.926Z",
+      "category": ""
+    },
+    {
+      "id": "6f9f775b-952d-4a48-8d9e-7ba11c51a640",
+      "level": "B2",
+      "book": "B2.1",
+      "lesson": "8",
+      "german": "kritisiert",
+      "chinese": "- jdn. (Akk.) kritisieren：criticize someone，批评某人  kʁitiˈziːɐ̯t",
+      "english": "",
+      "example": "Wenn ich Pommes mit Ketchup esse, kritisiert sie mich nicht.\nEnglish: When I eat fries with ketchup, she doesn't criticize me.\n中文： 当我吃薯条配番茄酱时，她不会批评我。\n- die Pommes：fries / chips，薯条\n- der Ketchup：ketchup，番茄酱",
+      "translation": "",
+      "updatedAt": "2026-11-23T17:36:44.730Z",
+      "createdAt": "2026-11-23T17:36:44.730Z",
+      "category": ""
+    },
+    {
+      "id": "2960c21c-7019-46fe-9cd7-2be52e164e74",
+      "level": "",
+      "book": "B2.1",
+      "lesson": "8",
+      "german": "tolerant",
+      "chinese": "",
+      "english": "",
+      "example": "Barbara ist tolerant. Das mag ich so an ihr.\nEnglish: Barbara is tolerant. That's what I really like about her.\n中文： Barbara 很宽容。这正是我喜欢她的一点。\n这里有一个重要搭配：\netw. (Akk.) an jdm. (Dat.) mögen = like something about someone\n喜欢某人身上的某个特点。\n例如：\nIch mag ihren Humor an ihr.\nI like her sense of humor.\n我喜欢她的幽默感。\n原文：\n- Das：Akkusativ，喜欢的特点\n- an ihr：Dativ，表示这个特点属于谁\n- so：这里强调她的这种表现或特点",
+      "translation": "",
+      "updatedAt": "2026-11-23T17:33:20.195Z",
+      "createdAt": "2026-11-23T17:33:20.195Z",
+      "category": ""
+    },
+    {
+      "id": "8240f555-15da-4224-92db-b2a88b259ff4",
+      "level": "",
+      "book": "B2.1",
+      "lesson": "8",
+      "german": "Teller",
+      "chinese": "der Teller = plate（盘子、餐盘) 复数：die Teller  英语：plate  中文：盘子",
+      "english": "",
+      "example": "",
+      "translation": "",
+      "updatedAt": "2026-11-23T17:10:20.208Z",
+      "createdAt": "2026-11-23T17:10:20.208Z",
+      "category": ""
+    },
+    {
+      "id": "edf06b66-7141-4ddd-a4dc-8f9e0f2831c1",
+      "level": "",
+      "book": "B2.1",
+      "lesson": "8",
+      "german": "Benzin",
+      "chinese": "das Benzin：petrol / gasoline，[bɛnˈt͡siːn] 汽油\tdie Benzine",
+      "english": "",
+      "example": "",
+      "translation": "",
+      "updatedAt": "2026-11-23T17:31:14.487Z",
+      "createdAt": "2026-11-23T15:17:00.368Z",
+      "category": ""
+    },
+    {
+      "id": "a20d79b3-e0cf-4b1f-9855-f47f4493376b",
+      "level": "",
+      "book": "B2.1",
+      "lesson": "8",
+      "german": "verständnislos",
+      "chinese": "- verständnislos：不理解的、困惑的（uncomprehending）",
+      "english": "",
+      "example": "Und wenn ich sie verständnislos anschaue, wird sie deutlich: „Überleg mal: Was passiert, wenn du das falsche Benzin tankst?“\n- 中文：而当我一脸不解地看着她时，她就把话说得更明白：“你想想，如果你给车加错了油，会发生什么？”\n- English: And when I look at her in confusion, she makes her point clear: “Think about it: What happens if you fill up with the wrong fuel?”\n重点：\n- jdn. anschauen + Akk.：看着某人\n- deutlich werden：变得明确；这里表示把话说得更直接 \tbecome clear / become more explicit\t变得明确、说得更直白\n- überlegen：思考、考虑（think about）\n- tanken + Akk.：加油（refuel）\n这里 Barbara 用汽车加错油的后果来类比：如果身体摄入了错误的食物，也会影响它的表现。",
+      "translation": "",
+      "updatedAt": "2026-11-23T17:30:12.818Z",
+      "createdAt": "2026-11-23T15:15:35.830Z",
+      "category": ""
+    },
+    {
+      "id": "1e85058f-6563-4936-ab0a-7cd74ec0c3c3",
+      "level": "",
+      "book": "B2.1",
+      "lesson": "8",
+      "german": "optimal",
+      "chinese": "",
+      "english": "",
+      "example": "Ich gebe meinem Körper genau das, was er braucht, um sich optimal zu entwickeln und die beste Leistung zu bringen.“\n- 中文：“我给我的身体提供它真正需要的东西，让它能够达到最佳发展状态，并发挥出最好的表现。”\n- English: “I give my body exactly what it needs to develop optimally and perform at its best.”\n重点语法：\njdm. (Dat.) etw. (Akk.) geben\n- meinem Körper：第三格，接受者\n- das：第四格，给予的东西\num ... zu + Infinitiv：表示目的（in order to）。\nsich entwickeln：发展（develop），反身动词。sich 是 Akkusativ（第四格）。\nLeistung bringen：发挥表现、取得成绩（perform）。\ndie beste Leistung bringen：deliver the best performance，发挥最佳表现",
+      "translation": "",
+      "updatedAt": "2026-11-23T17:27:30.300Z",
+      "createdAt": "2026-11-23T15:11:43.364Z",
+      "category": ""
+    },
+    {
+      "id": "6d6576e8-ef3e-4975-8418-a4344e8dc67d",
+      "level": "",
+      "book": "B2.1",
+      "lesson": "8",
+      "german": "Optimierung",
+      "chinese": "die Selbstoptimierung = self-optimization（自我优化、自我提升）",
+      "english": "",
+      "example": "Für Barbara ist Essen Selbstoptimierung.\n- 中文：对芭芭拉来说，吃饭是一种自我优化。\n- English: For Barbara, eating is a form of self-optimization.",
+      "translation": "",
+      "updatedAt": "2026-11-23T15:08:34.674Z",
+      "createdAt": "2026-11-23T15:07:33.375Z",
+      "category": ""
+    },
+    {
+      "id": "441415c5-970a-404a-ae4d-080542d3fb36",
+      "level": "",
+      "book": "B2.1",
+      "lesson": "8",
+      "german": "naiv",
+      "chinese": "",
+      "english": "",
+      "example": "Ich war ja so naiv!\n- 中文：我以前真是太天真了！\n- English: I was so naive!\nja 是语气助词，用来加强感叹。",
+      "translation": "",
+      "updatedAt": "2026-11-23T15:06:49.197Z",
+      "createdAt": "2026-11-23T15:06:49.197Z",
+      "category": ""
+    },
+    {
+      "id": "a5e14542-8ccf-415b-99bd-93bec599bf72",
+      "level": "",
+      "book": "B2.1",
+      "lesson": "8",
+      "german": "wertvoll",
+      "chinese": "- wertvoll：有价值的（valuable）",
+      "english": "",
+      "example": "10. Und: „Super, Lachs! Die fettreichen Fische sind so wertvoll. Und Vitamin D ist gerade im Winter ganz wichtig!“\n- 中文：“太棒了，三文鱼！富含脂肪的鱼类营养价值很高。而且维生素D在冬天尤其重要！”\n- English: “Great, salmon! Fatty fish are so valuable. And vitamin D is especially important in winter!”\n重点：\n- der Lachs：三文鱼（salmon）\n- fettreich：富含脂肪的（high in fat）\n- gerade：这里不是“刚刚”，而是“尤其、恰恰”（especially / particularly）。",
+      "translation": "",
+      "updatedAt": "2026-11-23T15:05:37.754Z",
+      "createdAt": "2026-11-23T15:05:37.754Z",
+      "category": ""
+    },
+    {
+      "id": "06892c2b-3cd3-4148-aab5-8ef5b06c1be0",
+      "level": "",
+      "book": "B2.1",
+      "lesson": "8",
+      "german": "Calcium",
+      "chinese": "das Calcium - [ˈkalt͡si̯ʊm] Englisch: calcium , 钙",
+      "english": "",
+      "example": "",
+      "translation": "",
+      "updatedAt": "2026-11-23T15:03:29.786Z",
+      "createdAt": "2026-11-23T15:03:20.225Z",
+      "category": ""
+    },
+    {
+      "id": "66b91e24-c033-4469-ac16-19a350897420",
+      "level": "",
+      "book": "B2.1",
+      "lesson": "8",
+      "german": "Knochen",
+      "chinese": "- der Knochen：骨头（bone）",
+      "english": "",
+      "example": "Wie gut: Fettarmer Joghurt! Viel Calcium! Deine Knochen sagen Danke!“\n- 中文：“太好了！低脂酸奶！富含钙！你的骨头都会感谢你的！”\n- English: “How great! Low-fat yogurt! Lots of calcium! Your bones will thank you!”\n重点：\n- fettarm：低脂的（low-fat）\n- Danke sagen：表示感谢",
+      "translation": "",
+      "updatedAt": "2026-11-23T15:01:47.262Z",
+      "createdAt": "2026-11-23T15:01:47.262Z",
+      "category": ""
+    },
+    {
+      "id": "b6d45e71-eeb7-44ec-90f7-7cc9efb322a0",
+      "level": "",
+      "book": "B2.1",
+      "lesson": "8",
+      "german": "senken",
+      "chinese": "- senken + Akk.：降低某物（lower / reduce）",
+      "english": "",
+      "example": "Oh, Zwiebeln! Toll, die senken den Blutzucker!“\n- 中文：“哦，洋葱！太好了，它们能降低血糖！”\n- English: “Oh, onions! Great, they lower blood sugar!”\n重点：\n- der Blutzucker：血糖（blood sugar）",
+      "translation": "",
+      "updatedAt": "2026-11-23T14:59:18.961Z",
+      "createdAt": "2026-11-23T14:59:18.961Z",
+      "category": ""
+    },
+    {
+      "id": "1ebd3d93-c262-4a33-821a-4d8e8bb21f8e",
+      "level": "",
+      "book": "B2.1",
+      "lesson": "8",
+      "german": "kommentiert",
+      "chinese": "",
+      "english": "",
+      "example": "Begeistert kommentiert sie alles, was auf meinem Teller landet.\n- 中文：她兴致勃勃地评论我盘子里的每一样东西。\n- English: She enthusiastically comments on everything that ends up on my plate.\n重点：\n- etw. kommentieren + Akk.：评论某事\n- auf + Dat. landen：落在……上；出现在……上\nwas auf meinem Teller landet 是关系从句，修饰 alles。",
+      "translation": "",
+      "updatedAt": "2026-11-23T14:55:39.141Z",
+      "createdAt": "2026-11-23T14:55:39.141Z",
+      "category": ""
+    },
+    {
+      "id": "a76ed2f9-44f6-456a-bbcd-0e18c1b2781e",
+      "level": "",
+      "book": "B2.1",
+      "lesson": "8",
+      "german": "aufmerksam",
+      "chinese": "- aufmerksam：仔细地、专注地",
+      "english": "",
+      "example": "",
+      "translation": "",
+      "updatedAt": "2026-11-23T14:50:32.012Z",
+      "createdAt": "2026-11-23T14:50:32.012Z",
+      "category": ""
+    },
+    {
+      "id": "59c5c115-4dcd-46e6-8643-62ad553ea402",
+      "level": "",
+      "book": "B2.1",
+      "lesson": "8",
+      "german": "wortreich",
+      "chinese": "- wortreich：话很多地、长篇大论地",
+      "english": "",
+      "example": "",
+      "translation": "",
+      "updatedAt": "2026-11-23T14:50:14.114Z",
+      "createdAt": "2026-11-23T14:50:14.114Z",
+      "category": ""
+    },
+    {
+      "id": "3b199b8b-2ed0-41e4-a603-1abbb4521be3",
+      "level": "",
+      "book": "B2.1",
+      "lesson": "8",
+      "german": "begleitet",
+      "chinese": "begleitet 是 begleiten 的 Partizip II（过去分词）",
+      "english": "accompany — 陪伴、陪同    escort — 护送    accompany / be accompanied by — 伴随着",
+      "example": "jdn. / etw. (Akk.) begleiten 陪伴某人；伴随某事。\nIch begleite dich zum Arzt. I'll accompany you to the doctor.\nMusik begleitet das Abendessen. Music accompanies dinner. 音乐伴随着晚餐。\nSeit wir uns kennen, wird meine Nahrungsaufnahme aufmerksam und wortreich von Barbara begleitet.\nEver since we've known each other, Barbara has accompanied my eating with close attention and lots of commentary.\n中文：自从我们认识以来，Barbara 就一直密切关注我的进食，而且总是发表一大堆评论。\n- wird ... begleitet = is accompanied / monitored\nvon + Dat.：被动句中引出动作执行者。\n词汇：\n- die Nahrungsaufnahme：食物摄入（food intake）\n- aufmerksam：仔细地、专注地\n- wortreich：话很多地、长篇大论地\naufmerksam\tattentive\tattentively\t专注地、留心地\nwortreich\tverbose / wordy\tverbosely / at length\t话很多地、长篇大论地\nSie hört aufmerksam zu.\nShe listens attentively.\n她专注地听。\nEr erklärt alles wortreich.\nHe explains everything at length.\n他长篇大论地解释一切。\nvon Barbara\t动作执行者，von + Dat.",
+      "translation": "",
+      "updatedAt": "2026-11-23T17:09:18.978Z",
+      "createdAt": "2026-11-23T14:49:56.755Z",
+      "category": ""
+    },
+    {
+      "id": "4a45fda5-6147-4c5a-a8b5-1f4c0d9cfbb6",
+      "level": "",
+      "book": "B2.1",
+      "lesson": "8",
+      "german": "sorgenfrei",
+      "chinese": "- sorgenfrei：无忧无虑的（carefree）",
+      "english": "",
+      "example": "Dann kam Barbara – und mit ihr der Abschied von meinem sorgenfreien Umgang mit dem Thema Essen.\n- 中文：然后芭芭拉出现了——随之而来的，是我与那种对饮食毫无忧虑的态度告别。\n- English: Then Barbara came along — and with her came the end of my carefree approach to food.\nmit ihr\t介词短语，随着她\nkam\t省略的谓语动词\nder Abschied\t主语，Nominativ\nvon meinem ... Umgang\t修饰 Abschied，表示告别什么\nmit dem Thema Essen\t修饰 Umgang，表示对待什么\n重点：\n① der Abschied von + Dativ 告别某人或某事\n- der Abschied von meiner Familie — 告别我的家人\n- der Abschied von meinem alten Leben — 告别我过去的生活\n② der Umgang mit + Dativ 对待某事物的方式；与某人打交道\n- der Umgang mit Kindern — 与孩子相处的方式\n- der Umgang mit Stress — 应对压力的方式\n- der Umgang mit dem Thema Essen — 对待饮食这一话题的方式\nder Umgang mit Geld\thandling money\t管理、使用金钱\n它是一个省略结构（Ellipse），借用了前面句子的动词。\nDann kam Barbara – und mit ihr kam der Abschied von meinem sorgenfreien Umgang mit dem Thema Essen.\nThen Barbara came along — and with her came the end of my carefree approach to food.\nder Umgang mit + Dativ\n英语：the way of dealing with something / one's approach to something\n中文：对待某事的方式、处理某事的方式。",
+      "translation": "为什么是 mit，而不是 zu？\n因为 Umgang 这个名词来自： mit jdm. / etw. umgehen\nto deal with someone / something 与某人相处；处理某事。\n例如：Ich gehe gut mit Stress um. I deal with stress well. 我很善于应对压力。\n名词化以后，保留原来的介词搭配：\n所以这里不是自由选择介词，而是一个固定的名词配价： der Umgang mit + Dativ\n德语正常语序也可以写成：Der Abschied von meinem sorgenfreien Umgang mit dem Thema Essen kam mit ihr.\n但这样不如原文自然、有叙事感。\n英语的正常语序可以还原为：And the end of my carefree approach to food came with her.\n你看，the end 仍然是主语。",
+      "updatedAt": "2026-11-23T17:22:10.864Z",
+      "createdAt": "2026-11-23T14:47:41.867Z",
+      "category": ""
+    },
+    {
+      "id": "b8eb11c6-2b30-48ee-996e-df18d344f22c",
+      "level": "",
+      "book": "B2.1",
+      "lesson": "8",
+      "german": "zumindest",
+      "chinese": "zumindest = at least（至少）。",
+      "english": "",
+      "example": "Dachte ich zumindest.\n- 中文：至少我原本是这么想的。\n- English: At least that's what I thought.",
+      "translation": "",
+      "updatedAt": "2026-11-23T14:44:29.306Z",
+      "createdAt": "2026-11-23T14:44:29.306Z",
+      "category": ""
+    },
+    {
+      "id": "4839f93d-9e3e-4874-8ea1-2359881a011a",
+      "level": "",
+      "book": "B2.1",
+      "lesson": "8",
+      "german": "Chef",
+      "chinese": "Chef sein：做主、说了算。",
+      "english": "",
+      "example": "Da ist der Körper durch und durch Chef. 中文： 在这件事情上，身体完全说了算。\nEnglish: Here, the body is completely in charge.\ndurch und durch：彻头彻尾地、完全地（through and through）。\nDa\t副词\t在这种情况下、在这方面\nder Körper\tNominativ，主语\tthe body\ndurch und durch\t固定副词短语\tcompletely / through and through\nChef\t表语名词\t老大、做主的人\ndurch und durch 是固定表达，相当于：completely — 完全地 thoroughly — 彻底地\nthrough and through — 彻头彻尾地\nEr ist durch und durch ehrlich.\nHe is honest through and through.\n他是个彻头彻尾诚实的人",
+      "translation": "",
+      "updatedAt": "2026-11-23T16:50:46.602Z",
+      "createdAt": "2026-11-23T14:42:31.466Z",
+      "category": ""
+    },
+    {
+      "id": "78980b83-f7b4-44a5-ab3b-70183f33f260",
+      "level": "",
+      "book": "B2.1",
+      "lesson": "8",
+      "german": "wissen",
+      "chinese": "von etwas wissen = 知道某事、听说过某事。to know about something",
+      "english": "",
+      "example": "wissen von + Dativ（第三格）\n- Ich weiß von dem Problem.我知道这个问题的存在。I know about the problem.\n- Hast du davon gewusst? 你之前知道这件事吗？Did you know about it?\n- Ich habe nichts davon gewusst. 我对此完全不知情。 I didn't know anything about it.",
+      "translation": "结构\t意思\t例句\netw. wissen（Akk.）\t知道某事\tIch weiß die Antwort.\nvon etw. wissen（Dat.）\t知道某事的存在\tIch weiß von dem Problem.\netw. (Akk.) über jmdn./etw. (Akk.) wissen\n know something about someone/something\t了解关于……的信息\tIch weiß viel über ihn.\nwissen, dass ...\t知道……\tIch weiß, dass er krank ist.",
+      "updatedAt": "2026-11-20T11:23:19.353Z",
+      "createdAt": "2026-11-20T11:23:19.353Z",
+      "category": ""
+    },
+    {
+      "id": "8fd2ad6c-6073-42cb-bf08-b96baf872636",
+      "level": "",
+      "book": "B2.1",
+      "lesson": "8",
+      "german": "ungeahnte",
+      "chinese": "- etw. annehmen（Akk.） = 接受某物（accept） - annehmen, dass ... = 假设、认为（assume） - Dimensionen/Formen annehmen（Akk.） = 呈现某种规模或形式（take on proportions/forms）",
+      "english": "annehmen – nahm an – hat angenommen",
+      "example": "Die Katastrophe nahm ungeahnte Dimensionen an.\n中文：这场灾难的规模扩大到了始料未及的程度。\n英文：The disaster took on unforeseen proportions.",
+      "translation": "ungeahnte Dimensionen 是第四格宾语（Akkusativ）\nungeahnt = un- + geahnt\n原形动词：ahnen = 预感、隐约知道（to sense, to suspect）\n- Ich ahne, dass etwas passiert ist.\n我隐约感觉发生了什么事。\n- ungeahnte Folgen\n意想不到的后果（unforeseen consequences）",
+      "updatedAt": "2026-11-20T11:19:21.506Z",
+      "createdAt": "2026-11-20T11:19:21.506Z",
+      "category": ""
+    },
+    {
+      "id": "92ff1da8-82ce-41fd-9c32-60e84128eb18",
+      "level": "B2",
+      "book": "B2.1",
+      "lesson": "8",
+      "german": "Rezept",
+      "chinese": "das Rezept, -e  复数：die Rezepte  英语：recipe / prescription",
+      "english": "",
+      "example": "das Kochrezept\trecipe\t菜谱、烹饪食谱\ndas Rezept\tprescription\t医生开的处方\ndie Rezepte\trecipes / prescriptions\t食谱或处方（复数）",
+      "translation": "Sie sind neugierig auf neue Rezepte und Restaurants.\nYou are curious about new recipes and restaurants.\n您对新的食谱和餐厅充满好奇。这里当然是 recipes（烹饪食谱）。\n但在药店：\nIch habe ein Rezept vom Arzt.\nI have a prescription from the doctor.\n我有医生开的处方。",
+      "updatedAt": "2026-11-10T15:37:11.543Z",
+      "createdAt": "2026-11-10T15:36:28.893Z",
+      "category": ""
+    },
+    {
+      "id": "e6701e6b-ebe7-4627-9948-f06983558506",
+      "level": "B2",
+      "book": "B2.1",
+      "lesson": "8",
+      "german": "Biobauer",
+      "chinese": "der Biobauer, -n = organic farmer，有机农场主／从事有机农业的农民。",
+      "english": "",
+      "example": "der Bauernhof\tfarm\t农场\nder Biohof\torganic farm\t有机农场\ndie Landwirtschaft\tagriculture\t农业",
+      "translation": "",
+      "updatedAt": "2026-11-10T15:38:27.998Z",
+      "createdAt": "2026-11-10T15:25:42.142Z",
+      "category": ""
+    },
+    {
+      "id": "c91cf8d2-9c11-4fa8-9ed7-588172a97f30",
+      "level": "B2",
+      "book": "B2.1",
+      "lesson": "8",
+      "german": "akzeptieren",
+      "chinese": "akzeptieren, dass ...  接受某个事实，后面用 dass 宾语从句。",
+      "english": "",
+      "example": "Ich akzeptiere, dass du anderer Meinung bist. I accept that you have a different opinion.我接受你有不同意见\nSie können kaum akzeptieren, dass andere Menschen nicht so viel Obst und Gemüse vom Biobauern essen.\nEnglish: You can hardly accept that other people don't eat as much fruit and vegetables from organic farmers.\n中文： 您几乎无法接受，其他人不像您一样吃那么多来自有机农场的水果和蔬菜。\n③ so viel + 不可数或集合性名词\n- so viel Obst：这么多水果。\n- so viel Gemüse：这么多蔬菜。\ndas Obst 和 das Gemüse 在这里都是集合性名词，通常用单数形式。",
+      "translation": "",
+      "updatedAt": "2026-11-10T15:24:37.798Z",
+      "createdAt": "2026-11-10T15:24:37.799Z",
+      "category": ""
+    },
+    {
+      "id": "aab8f7ac-1a4f-427e-a84a-c35bff200053",
+      "level": "B2",
+      "book": "B2.1",
+      "lesson": "8",
+      "german": "Kalorie",
+      "chinese": "die Kalorie, -n：卡路里。",
+      "english": "",
+      "example": "",
+      "translation": "",
+      "updatedAt": "2026-11-10T15:21:15.805Z",
+      "createdAt": "2026-11-10T15:21:15.805Z",
+      "category": ""
+    },
+    {
+      "id": "257d59a3-026d-4471-8ff2-7a60d2e818a6",
+      "level": "B2",
+      "book": "B2.1",
+      "lesson": "8",
+      "german": "Nährstoff",
+      "chinese": "der Nährstoff, -e：营养素。",
+      "english": "",
+      "example": "",
+      "translation": "",
+      "updatedAt": "2026-11-10T15:20:47.767Z",
+      "createdAt": "2026-11-10T15:20:47.767Z",
+      "category": ""
+    },
+    {
+      "id": "e42e98b3-e45d-403e-a240-afa5e52a935f",
+      "level": "B2",
+      "book": "B2.1",
+      "lesson": "8",
+      "german": "Kontrolle",
+      "chinese": "etw. (Akk.) unter Kontrolle haben  = have something under control。",
+      "english": "die Kontrolle：控制、掌控",
+      "example": "Kalorien und Nährstoffe: Sie haben beim Essen alles unter Kontrolle.\nEnglish: Calories and nutrients: You have everything under control when it comes to eating.\n中文： 卡路里和营养素：在饮食方面，您把一切都掌控得很好。\nIch habe meine Ausgaben unter Kontrolle.\nI have my expenses under control.\n我的开支在掌控之中。",
+      "translation": "",
+      "updatedAt": "2026-11-10T15:20:17.800Z",
+      "createdAt": "2026-11-10T15:20:17.800Z",
+      "category": ""
+    },
+    {
+      "id": "12617e53-7e33-45db-916e-2c1f09c3e477",
+      "level": "B2",
+      "book": "B2.1",
+      "lesson": "8",
+      "german": "tut",
+      "chinese": "etw. (Nom.) tut jdm. (Dat.) gut  = something does someone good。",
+      "english": "",
+      "example": "Sie wissen genau, was Ihrem Körper guttut.\nEnglish: You know exactly what is good for your body.\n中文： 您非常清楚什么对自己的身体有益\nSport tut mir gut.\nFrische Luft tut meinem Kind gut.\nFresh air is good for my child.",
+      "translation": "",
+      "updatedAt": "2026-11-10T15:18:31.560Z",
+      "createdAt": "2026-11-10T15:18:31.560Z",
+      "category": ""
+    },
+    {
+      "id": "514c1017-8bd8-4cb1-8d83-6ff927dc828f",
+      "level": "B2",
+      "book": "B2.1",
+      "lesson": "8",
+      "german": "streng",
+      "chinese": "streng：严格地。",
+      "english": "",
+      "example": "",
+      "translation": "",
+      "updatedAt": "2026-11-10T15:14:59.158Z",
+      "createdAt": "2026-11-10T15:14:59.158Z",
+      "category": ""
+    },
+    {
+      "id": "c08e996f-81ef-487d-b54f-325b41b477c6",
+      "level": "B2",
+      "book": "B2.1",
+      "lesson": "8",
+      "german": "ernähren",
+      "chinese": "sich (Akk.) ernähren",
+      "english": "auf etw. (Akk.) achten = pay attention to something",
+      "example": "Ich achte darauf, genug Wasser zu trinken. I make sure to drink enough water.我注意保证自己喝足够的水。\nIch ernähre mich gesund. I eat healthily. 我饮食健康。\nEr ernährt sich vegetarisch. He follows a vegetarian diet. 他吃素。\nSie achten streng darauf, sich bewusst zu ernähren.\nEnglish: You make a point of eating consciously and healthily.\n中文： 您非常严格地要求自己，有意识地选择健康的饮食方式。",
+      "translation": "bewusst：有意识地、经过考虑地。",
+      "updatedAt": "2026-11-10T15:15:58.767Z",
+      "createdAt": "2026-11-10T15:14:45.605Z",
+      "category": ""
+    },
+    {
+      "id": "071e65e2-b2f0-48b4-9c89-62e33611fb8b",
+      "level": "B2",
+      "book": "B2.1",
+      "lesson": "8",
+      "german": "Pommes frites",
+      "chinese": "die Pommes：薯条，复数形式，来自 Pommes frites。",
+      "english": "",
+      "example": "",
+      "translation": "",
+      "updatedAt": "2026-11-10T15:10:20.492Z",
+      "createdAt": "2026-11-10T15:10:20.492Z",
+      "category": ""
+    },
+    {
+      "id": "d813eaf4-7d41-4451-91ef-38bc2cecb840",
+      "level": "B2",
+      "book": "B2.1",
+      "lesson": "8",
+      "german": "Burger",
+      "chinese": "der Burger, -：汉堡。",
+      "english": "",
+      "example": "",
+      "translation": "",
+      "updatedAt": "2026-11-10T15:09:49.323Z",
+      "createdAt": "2026-11-10T15:09:49.323Z",
+      "category": ""
+    },
+    {
+      "id": "4d18a45a-6def-400f-8827-065708c77462",
+      "level": "B2",
+      "book": "B2.1",
+      "lesson": "8",
+      "german": "egal",
+      "chinese": "etw. (Nom.) ist jdm. (Dat.) egal  = something doesn't matter to someone。",
+      "english": "",
+      "example": "Das ist mir egal. I don't care. / It doesn't matter to me. 我无所谓。\nWas wir essen, ist mir egal. I don't care what we eat. 我们吃什么我都无所谓。",
+      "translation": "",
+      "updatedAt": "2026-11-10T15:08:13.779Z",
+      "createdAt": "2026-11-10T15:08:13.779Z",
+      "category": ""
+    },
+    {
+      "id": "5c52634a-6b81-477d-a98b-dc37cdbececa",
+      "level": "B2",
+      "book": "B2.1",
+      "lesson": "8",
+      "german": "nebenbei",
+      "chinese": "= on the side / while doing something else 顺便、同时做别的事情。",
+      "english": "",
+      "example": "Ich höre beim Kochen nebenbei Musik.\nI listen to music while cooking.\n我做饭时顺便听音乐。",
+      "translation": "",
+      "updatedAt": "2026-11-10T15:06:59.164Z",
+      "createdAt": "2026-11-10T15:06:59.164Z",
+      "category": ""
+    },
+    {
+      "id": "9010f3ba-b802-422b-9932-621622debbf7",
+      "level": "B2",
+      "book": "B2.1",
+      "lesson": "8",
+      "german": "Nahrungsaufnahme",
+      "chinese": "die Nahrung = food / nourishment，食物、营养。 - die Aufnahme = intake，摄入。 - die Nahrungsaufnahme = food intake，进食、摄取食物。",
+      "english": "etw. (Akk.) erledigen = get something done",
+      "example": "Am liebsten ist es Ihnen, wenn Sie die Nahrungsaufnahme nebenbei erledigen können.\nEnglish: You prefer it when you can get eating out of the way while doing something else.\n中文： 您最喜欢的情况是，可以在做其他事情的同时顺便把吃饭这件事解决掉。",
+      "translation": "",
+      "updatedAt": "2026-11-10T15:06:16.784Z",
+      "createdAt": "2026-11-10T15:06:16.784Z",
+      "category": ""
+    },
+    {
+      "id": "3d2163a2-dc78-4bd3-b6d2-8770da54e126",
+      "level": "B2",
+      "book": "B2.1",
+      "lesson": "8",
+      "german": "Spaß",
+      "chinese": "固定表达：etw. (Nom.) macht jdm. (Dat.) Spass  = something is fun for someone。",
+      "english": "",
+      "example": "Es macht Ihnen auch keinen Spass.\nEnglish: You don't enjoy it either.\n中文： 吃饭也不能给您带来什么乐趣。\nDeutschlernen macht mir Spass.\nI enjoy learning German.",
+      "translation": "",
+      "updatedAt": "2026-11-10T15:03:53.191Z",
+      "createdAt": "2026-11-10T15:03:53.191Z",
+      "category": ""
+    },
+    {
+      "id": "42bc8e5c-878d-42a6-8117-a17774fbe822",
+      "level": "B2",
+      "book": "B2.1",
+      "lesson": "8",
+      "german": "wichtig",
+      "chinese": "etw. (Nom.) ist jdm. (Dat.) wichtig  = something is important to someone。",
+      "english": "",
+      "example": "Das ist mir wichtig.That's important to me. 这对我很重要。\nGeld ist mir nicht so wichtig. Money isn't that important to me. 钱对我来说没那么重要。",
+      "translation": "",
+      "updatedAt": "2026-11-10T15:02:31.805Z",
+      "createdAt": "2026-11-10T15:02:31.805Z",
+      "category": ""
+    },
+    {
+      "id": "0082ba71-ccf8-4fd5-9dfc-daa389337245",
+      "level": "B2",
+      "book": "B2.1",
+      "lesson": "8",
+      "german": "kurzfristig",
+      "chinese": "kurzfristig：短期地、暂时地，temporarily / in the short term。",
+      "english": "",
+      "example": "",
+      "translation": "",
+      "updatedAt": "2026-11-10T14:59:33.675Z",
+      "createdAt": "2026-11-10T14:59:33.675Z",
+      "category": ""
+    },
+    {
+      "id": "3315bd6b-8811-4109-bd39-2d72018e55c5",
+      "level": "B2",
+      "book": "B2.1",
+      "lesson": "8",
+      "german": "Krise",
+      "chinese": "in einer Krise：在危机中，in + Dativ。  die Krise\tdie Krisen",
+      "english": "",
+      "example": "",
+      "translation": "",
+      "updatedAt": "2026-11-10T14:58:59.395Z",
+      "createdAt": "2026-11-10T14:58:59.395Z",
+      "category": ""
+    },
+    {
+      "id": "ee2d5d7a-139e-42f7-b274-684c9def9c55",
+      "level": "B2",
+      "book": "B2.1",
+      "lesson": "8",
+      "german": "trösten",
+      "chinese": "jdn. (Akk.) trösten  = comfort someone，安慰某人。",
+      "english": "",
+      "example": "Mit Essen können Sie sich in einer Krise kurzfristig trösten.\nEnglish: You can temporarily comfort yourself with food during a crisis.\n中文： 在遭遇困难或情绪危机时，您可以暂时通过吃东西来安慰自己。",
+      "translation": "Ich tröste mein Kind. I comfort my child. 我安慰我的孩子。\nIch tröste mich mit Essen. I comfort myself with food. 我通过吃东西安慰自己。",
+      "updatedAt": "2026-11-10T14:57:59.802Z",
+      "createdAt": "2026-11-10T14:57:59.802Z",
+      "category": ""
+    },
+    {
+      "id": "c277387f-1066-4e68-b658-da974fae1a2e",
+      "level": "B2",
+      "book": "B2.1",
+      "lesson": "8",
+      "german": "fühlen",
+      "chinese": "sich (Akk.) fühlen + Adjektiv = feel ...",
+      "english": "",
+      "example": "Ich fühle mich besser, I feel better. 我感觉好些了。\nSie fühlt sich schlecht. She feels bad. 她感觉很糟。\n. Sie glauben, dass Sie sich danach besser fühlen.\nEnglish: You believe that you will feel better afterwards.\n中文： 您相信，吃完之后自己会感觉好一些。",
+      "translation": "",
+      "updatedAt": "2026-11-10T14:56:02.017Z",
+      "createdAt": "2026-11-10T14:56:02.017Z",
+      "category": ""
+    },
+    {
+      "id": "254ab0d3-cd5b-46f0-a46b-3449669a2fff",
+      "level": "B2",
+      "book": "B2.1",
+      "lesson": "8",
+      "german": "Tafel",
+      "chinese": "die Tafel, -n",
+      "english": "- eine Tafel Schokolade：一板巧克力。 - eine ganze Tafel Schokolade：整整一板巧克力。",
+      "example": "",
+      "translation": "",
+      "updatedAt": "2026-11-10T14:50:12.773Z",
+      "createdAt": "2026-11-10T14:50:12.773Z",
+      "category": ""
+    },
+    {
+      "id": "750568aa-d4f6-46ca-a924-6b79e542a9a8",
+      "level": "B2",
+      "book": "B2.1",
+      "lesson": "8",
+      "german": "wütend",
+      "chinese": "angry / furious\t愤怒的",
+      "english": "",
+      "example": "Wenn Sie gestresst, müde, wütend oder traurig sind, essen Sie besonders viel.\nEnglish: When you are stressed, tired, angry or sad, you eat particularly a lot.\n中文： 当您感到压力大、疲惫、愤怒或悲伤时，您就会吃得特别多。",
+      "translation": "",
+      "updatedAt": "2026-11-10T14:49:18.546Z",
+      "createdAt": "2026-11-10T14:48:53.713Z",
+      "category": ""
+    },
+    {
+      "id": "2a3d3d3c-af61-40b3-abeb-68b04ccac527",
+      "level": "B2",
+      "book": "B2.1",
+      "lesson": "8",
+      "german": "neugierig",
+      "chinese": "neugierig auf etw. (Akk.) sein = be curious about something。",
+      "english": "",
+      "example": "Sie sind neugierig auf neue Rezepte und Restaurants.\nEnglish: You are curious about new recipes and restaurants.\n中文： 您总是对新的食谱和餐厅充满好奇。\nIch bin neugierig auf das Ergebnis.\nI'm curious about the result.\n我很好奇结果是什么。",
+      "translation": "",
+      "updatedAt": "2026-11-10T14:48:28.776Z",
+      "createdAt": "2026-11-10T14:48:28.776Z",
+      "category": ""
+    },
+    {
+      "id": "7dcbba9f-318f-4d0d-bc1e-eeb8078b69e0",
+      "level": "B2",
+      "book": "B2.1",
+      "lesson": "8",
+      "german": "Qualität",
+      "chinese": "die Qualität：品质。",
+      "english": "",
+      "example": "",
+      "translation": "",
+      "updatedAt": "2026-11-10T14:45:36.593Z",
+      "createdAt": "2026-11-10T14:45:36.593Z",
+      "category": ""
+    },
+    {
+      "id": "f300ff47-f29d-469a-9dc5-ae866ad2ef75",
+      "level": "B2",
+      "book": "B2.1",
+      "lesson": "8",
+      "german": "heißen",
+      "chinese": "heissen 除了“叫作”，还可以表示 mean（意味着）。",
+      "english": "",
+      "example": "Freiheit heisst für mich, selbst entscheiden zu können.\nFor me, freedom means being able to make my own decisions.\n对我而言，自由意味着能够自己作决定。\nEssen heisst für Sie geniessen.\nEnglish: For you, eating means enjoying yourself.\n中文： 对您来说，吃饭就意味着享受",
+      "translation": "",
+      "updatedAt": "2026-11-10T14:44:20.021Z",
+      "createdAt": "2026-11-10T14:44:04.912Z",
+      "category": ""
+    },
+    {
+      "id": "3fefb805-7e76-4c12-9ac0-3d35732da2b0",
+      "level": "B2",
+      "book": "B2.1",
+      "lesson": "8",
+      "german": "widmen",
+      "chinese": "jdm./etw. (Dat.) etw. (Akk.) widmen 把时间、精力或注意力投入到某人或某事上。",
+      "english": "",
+      "example": "Sie widmen Ihren Mahlzeiten nicht nur Zeit, sondern auch viel Aufmerksamkeit.\nEnglish: You devote not only time but also a lot of attention to your meals.\n中文： 您不仅愿意花时间吃饭，还会投入大量注意力去享受每一餐。\nZeit\t-Akkusativ\t投入什么\nviel Aufmerksamkeit\t-Akkusativ\t投入什么\nIch widme meinem Kind viel Zeit.\nI devote a lot of time to my child.\n我花很多时间陪伴孩子。",
+      "translation": "",
+      "updatedAt": "2026-11-10T14:42:08.160Z",
+      "createdAt": "2026-11-10T14:42:08.160Z",
+      "category": ""
+    },
+    {
+      "id": "679f2744-25ff-4975-b3ee-d4cc8542daf9",
+      "level": "B2",
+      "book": "B2.1",
+      "lesson": "8",
+      "german": "Träume",
+      "chinese": "der Traum, Träume：梦想。",
+      "english": "",
+      "example": "",
+      "translation": "",
+      "updatedAt": "2026-11-10T14:39:53.952Z",
+      "createdAt": "2026-11-10T14:39:53.952Z",
+      "category": ""
+    },
+    {
+      "id": "d060949a-e1f9-4917-8a82-dc052244f6f1",
+      "level": "B2",
+      "book": "B2.1",
+      "lesson": "8",
+      "german": "Menü",
+      "chinese": "das Menü, -s：套餐、菜单。",
+      "english": "",
+      "example": "",
+      "translation": "",
+      "updatedAt": "2026-11-10T14:39:35.669Z",
+      "createdAt": "2026-11-10T14:39:29.219Z",
+      "category": ""
+    },
+    {
+      "id": "252c1ce3-70a5-400b-a635-6f72a7a50fbf",
+      "level": "B2",
+      "book": "B2.1",
+      "lesson": "8",
+      "german": "Gang",
+      "chinese": "der Gang, die Gänge：这里指一道菜、一个用餐环节（course）。",
+      "english": "",
+      "example": "Ein 6-Gänge-Menü ist Ihr Traum!\nEnglish: A six-course meal is your dream!\n中文： 一顿六道菜的正餐就是您的梦想！",
+      "translation": "",
+      "updatedAt": "2026-11-10T14:38:39.244Z",
+      "createdAt": "2026-11-10T14:38:39.244Z",
+      "category": ""
+    },
+    {
+      "id": "97f22e19-5be4-4d11-810e-e10dbf64b5f8",
+      "level": "B2",
+      "book": "B2.1",
+      "lesson": "8",
+      "german": "Essgewohnheiten",
+      "chinese": "",
+      "english": "",
+      "example": "Nur wer seine Essgewohnheiten kennt, kann sie verändern.\nEnglish: Only those who know their eating habits can change them.\n中文： 只有了解自己饮食习惯的人，才能改变这些习惯。\nWer ..., (der) ...\nsie：指代 Essgewohnheiten（复数）。\nWer seine Essgewohnheiten kennt 整个从句占据主句的第一位置（Vorfeld）。",
+      "translation": "",
+      "updatedAt": "2026-11-10T15:31:10.262Z",
+      "createdAt": "2026-11-10T14:35:34.268Z",
+      "category": ""
+    },
+    {
+      "id": "88cb8976-de7f-4c99-8bc0-583111aafcbc",
+      "level": "B2",
+      "book": "B2.1",
+      "lesson": "8",
+      "german": "Sprichwort",
+      "chinese": "",
+      "english": "",
+      "example": "könnte 是 können 的 Konjunktiv II（第二虚拟式），这里不是过去时，而是表达委婉的建议或可能性。\nMan ist, was man isst“, sagt ein Sprichwort, und man könnte ergänzen: „Man ist, wie man isst.“\nEnglish: “You are what you eat,” says a proverb, and one could add: “You are how you eat.”\n中文： 有句谚语说：“人如其食。”我们还可以补充一句：“一个人的饮食方式也反映了他是什么样的人。\nman könnte ergänzen = one could add / 可以补充说。",
+      "translation": "",
+      "updatedAt": "2026-11-10T14:32:18.040Z",
+      "createdAt": "2026-11-10T14:31:59.303Z",
+      "category": ""
+    },
+    {
+      "id": "f140b606-8ac1-44f9-a847-2f36547f64e1",
+      "level": "B2",
+      "book": "B2.1",
+      "lesson": "8",
+      "german": "Zweck",
+      "chinese": "der Zweckesser：把吃饭当作满足基本需要的人（functional eater）",
+      "english": "der Zweck die Zwecke, der Zweck = purpose，目的,用途。",
+      "example": "Das dient einem bestimmten Zweck.\nThat serves a specific purpose.\n那是为了某个特定目的。\nzu diesem Zweck = for this purpose，为了这个目的。\neinen Zweck erfüllen = serve a purpose，发挥某种作用。",
+      "translation": "",
+      "updatedAt": "2026-11-10T15:29:52.484Z",
+      "createdAt": "2026-11-10T14:29:57.143Z",
+      "category": ""
+    },
+    {
+      "id": "21e2859d-7431-405c-b584-022bd83a63ae",
+      "level": "B2",
+      "book": "B2.1",
+      "lesson": "8",
+      "german": "Frust",
+      "chinese": "Der Frustesser：情绪性进食者（emotional eater）,",
+      "english": "der Frust：frustration    挫败感、沮丧、烦闷、不如意带来的负面情绪。",
+      "example": "Ich habe Frust bei der Arbeit.\n I'm frustrated at work\n我工作上有很多烦心事。\nSie isst aus Frust.\nShe eats out of frustration.\n她因为心情烦闷而吃东西。",
+      "translation": "",
+      "updatedAt": "2026-11-10T15:28:06.282Z",
+      "createdAt": "2026-11-10T14:26:32.411Z",
+      "category": ""
+    },
+    {
+      "id": "74c07dda-a871-42e6-8c96-8a8d0b94a234",
+      "level": "B2",
+      "book": "B2.1",
+      "lesson": "8",
+      "german": "Genießer",
+      "chinese": "Der Geniesser：享受美食的人（enjoyer / food lover）来自动词 geniessen = to enjoy，享受。",
+      "english": "",
+      "example": "",
+      "translation": "",
+      "updatedAt": "2026-11-10T14:38:59.271Z",
+      "createdAt": "2026-11-10T14:24:50.967Z",
+      "category": ""
+    },
+    {
+      "id": "da37c863-8e46-48c5-ba22-0cd595ffa4e5",
+      "level": "B2",
+      "book": "B2.1",
+      "lesson": "8",
+      "german": "Hauptsache",
+      "chinese": "die Hauptsache\tthe main thing\t最重要的事情, “只要……就行”。",
+      "english": "",
+      "example": "Hauptsache, es schmeckt!\n只要好吃就行！\nHauptsache, du bist gesund!\n最重要的是你身体健康！\nHauptsache, wir haben Spass!\n只要我们玩得开心就好！",
+      "translation": "",
+      "updatedAt": "2026-11-10T15:11:34.791Z",
+      "createdAt": "2026-11-10T14:03:22.999Z",
+      "category": ""
+    },
+    {
+      "id": "5a69eef3-7d56-4ed3-a877-eec276d2b5a5",
+      "level": "B2",
+      "book": "B2.1",
+      "lesson": "8",
+      "german": "ausreichen",
+      "chinese": "ausreichen = to be enough / to be sufficient，足够。",
+      "english": "der Esstyp, -en：饮食类型、饮食习惯类型。",
+      "example": "Ich habe einen körperlich anstrengenden Beruf. Ein Salat zum Mittagessen reicht da nicht aus. Auf mich trifft Aussage 6 zu.\n我从事一份体力消耗很大的工作。午餐只吃一份沙拉是不够的。第六条符合我的情况。\nEin Salat reicht nicht aus. 一份沙拉不够",
+      "translation": "",
+      "updatedAt": "2026-11-10T14:03:45.412Z",
+      "createdAt": "2026-11-10T13:58:42.941Z",
+      "category": ""
+    },
+    {
+      "id": "53ccc213-1872-4a3b-80e3-a20e075974de",
+      "level": "B2",
+      "book": "B2.1",
+      "lesson": "8",
+      "german": "satt",
+      "chinese": "satt sein（已经吃饱）， jdn. satt machen（让某人吃饱）。",
+      "english": "",
+      "example": "Ich bin satt. I'm full. 我吃饱了。\nDie Suppe macht mich satt. The soup fills me up. 这碗汤让我吃饱了。\nDas Essen muss satt machen. The food must be filling. 食物必须能让人吃饱。\nmachen + Akkusativ + Adjektiv 是一个非常实用的结构：\n- Das macht mich glücklich. 这让我开心。\n- Das macht mich müde. 这让我疲惫。\n- Das macht mich satt. 这让我吃饱",
+      "translation": "Ich bin satt. I'm full. 我已经吃饱了。\nIch werde satt. I'm getting full. 我吃得饱／渐渐吃饱了",
+      "updatedAt": "2026-11-10T15:12:16.433Z",
+      "createdAt": "2026-11-10T13:52:53.397Z",
+      "category": ""
+    },
+    {
+      "id": "386ca09c-9e1b-439c-9a46-19ab6eb5caf0",
+      "level": "B2",
+      "book": "B2.1",
+      "lesson": "7",
+      "german": "gering",
+      "chinese": "small, slight, little",
+      "english": "",
+      "example": "1. gering：少、小、轻微\nIch habe nur geringe Erfahrung. I have little experience. 我的经验很少。\nDas Risiko ist gering. The risk is small. 风险很小。\nDie Unterschiede sind gering. The differences are slight. 差异很小。\n这里强调的不是位置高低，而是多少、大小、程度。",
+      "translation": "2. niedrig：低\nDie Temperatur ist niedrig. The temperature is low. 温度很低。\nDas Gehalt ist niedrig. The salary is low. 工资低。\nDer Tisch ist niedrig . The table is low. 桌子很矮。\n这里强调某种高度、数值或水平比较低。\nMeine Risikobereitschaft ist gering. My willingness to take risks is low. 我的冒险意愿很小。\n也可以说：\nMeine Risikobereitschaft ist niedrig. My willingness to take risks is low. 我的冒险意愿较低。\n不过有一点语感差别：\n- geringe Risikobereitschaft：强调不太愿意冒险。\n- niedrige Risikobereitschaft：强调冒险意愿处于较低水平。\n最后记住两个典型搭配\ngering ↔ gross\nDas Risiko ist gering oder gross.\n风险小或大。\nniedrig ↔ hoch\nDie Temperatur ist niedrig oder hoch.\n温度低或高。\n你可以把它们理解为：gering = 小（small） niedrig = 低（low）",
+      "updatedAt": "2026-11-10T13:42:34.369Z",
+      "createdAt": "2026-11-10T13:42:34.369Z",
+      "category": ""
+    },
+    {
+      "id": "2d88c3eb-155d-4bc6-a110-4d114b33f52b",
+      "level": "B2",
+      "book": "B2.1",
+      "lesson": "7",
+      "german": "Fallschirm",
+      "chinese": "der Fallschirm, -e  英语：parachute  中文：降落伞。",
+      "english": "der Fall = fall，掉落、下落    der Schirm = umbrella / canopy，伞、遮蔽物",
+      "example": "",
+      "translation": "",
+      "updatedAt": "2026-11-10T13:10:50.162Z",
+      "createdAt": "2026-11-10T13:10:19.443Z",
+      "category": ""
+    },
+    {
+      "id": "1d0d990e-8d86-4b8c-a22a-8198d476af20",
+      "level": "B2",
+      "book": "B2.1",
+      "lesson": "7",
+      "german": "Felsen",
+      "chinese": "der Felsen, - = rock / cliff，岩石、岩壁、岩石峭壁。",
+      "english": "",
+      "example": "",
+      "translation": "",
+      "updatedAt": "2026-11-10T13:06:40.167Z",
+      "createdAt": "2026-11-10T13:06:40.167Z",
+      "category": ""
+    },
+    {
+      "id": "4bbaa6a0-77dc-4c6d-bdbb-f4e2238385b0",
+      "level": "B2",
+      "book": "B2.1",
+      "lesson": "7",
+      "german": "Slackline",
+      "chinese": "die Slackline, -s  英语：slackline  中文：扁带、平衡扁带。",
+      "english": "das Slacklining\tslacklining\t走扁带运动",
+      "example": "",
+      "translation": "",
+      "updatedAt": "2026-11-10T13:15:04.128Z",
+      "createdAt": "2026-11-10T13:05:41.145Z",
+      "category": ""
+    },
+    {
+      "id": "83feb184-6be3-4610-9b08-dfb7590f9a4e",
+      "level": "B2",
+      "book": "B2.1",
+      "lesson": "7",
+      "german": "Extremsport",
+      "chinese": "（极限运动）der Extremsport\tdie Extremsporte",
+      "english": "",
+      "example": "",
+      "translation": "",
+      "updatedAt": "2026-11-10T12:54:38.812Z",
+      "createdAt": "2026-11-10T12:54:38.813Z",
+      "category": ""
+    },
+    {
+      "id": "e131ccb3-e0ba-445e-b0f0-54e854043b89",
+      "level": "B2",
+      "book": "B2.1",
+      "lesson": "7",
+      "german": "klettern",
+      "chinese": "frei an einem Felsen klettern,\tto go free climbing on a rock face , 在岩壁上自由攀岩。",
+      "english": "klettern = climb，攀爬。 das Freiklettern\tfree climbing\t自由攀岩",
+      "example": "Sie klettert an einem Felsen. She is climbing on a rock face. 她在岩壁上攀爬。",
+      "translation": "",
+      "updatedAt": "2026-11-10T13:15:23.464Z",
+      "createdAt": "2026-11-10T12:52:18.856Z",
+      "category": ""
+    },
+    {
+      "id": "a48ef7dc-f107-4166-9db6-593fa89fe05a",
+      "level": "B2",
+      "book": "B2.1",
+      "lesson": "7",
+      "german": "baden",
+      "chinese": "in sehr kaltem Wasser baden\tice bathing\t冰水浴、冬泳",
+      "english": "",
+      "example": "",
+      "translation": "",
+      "updatedAt": "2026-11-10T12:51:52.003Z",
+      "createdAt": "2026-11-10T12:51:52.003Z",
+      "category": ""
+    },
+    {
+      "id": "f1bc38db-6917-436e-aef2-98551165b2c8",
+      "level": "B2",
+      "book": "B2.1",
+      "lesson": "7",
+      "german": "Achterbahn",
+      "chinese": "Achterbahn fahren\tride a roller coaster\t坐过山车",
+      "english": "die Achterbahn, -en\troller coaster\t过山车",
+      "example": "",
+      "translation": "",
+      "updatedAt": "2026-11-10T13:14:38.160Z",
+      "createdAt": "2026-11-10T12:50:10.249Z",
+      "category": ""
+    },
+    {
+      "id": "b3f15f7e-184d-4c09-b890-3da12e1a5fc0",
+      "level": "B2",
+      "book": "B2.1",
+      "lesson": "7",
+      "german": "abspringen",
+      "chinese": "跳下、跳离，是可分动词",
+      "english": "",
+      "example": "mit einem Fallschirm abspringen\nIch springe mit einem Fallschirm ab. 我跳伞。",
+      "translation": "",
+      "updatedAt": "2026-11-10T12:45:11.150Z",
+      "createdAt": "2026-11-10T12:45:11.150Z",
+      "category": ""
+    },
+    {
+      "id": "0107837c-3329-4861-a463-37b9010998d2",
+      "level": "B2",
+      "book": "B2.1",
+      "lesson": "7",
+      "german": "tauchen",
+      "chinese": "diving , das Tiefseetauchen\tdeep-sea diving\t深海潜水",
+      "english": "",
+      "example": "in über 18 Metern Tiefe tauchen,  to dive to depths of more than 18 metres 中文：潜入超过18米的深度。\n这里 in + Dativ 表示所在深度。\n- die Tiefe：深度, die Tiefen\n- in 18 Metern Tiefe：在18米深处\n- in über 18 Metern Tiefe：在超过18米的深度",
+      "translation": "",
+      "updatedAt": "2026-11-10T13:13:55.931Z",
+      "createdAt": "2026-11-10T12:44:01.738Z",
+      "category": ""
+    },
+    {
+      "id": "9e2b907a-f5e7-4621-8c03-d2d6472f5ace",
+      "level": "B2",
+      "book": "B2.1",
+      "lesson": "7",
+      "german": "balancieren",
+      "chinese": "to balance，保持平衡。",
+      "english": "",
+      "example": "auf einer Slackline in grossen Höhen balancieren\thighlining\t高空走扁带\n它不是普通钢丝，而是一条有弹性、可以在上面保持平衡的扁带\nauf einer Slackline balancieren To balance on a slackline. 在扁带上保持平衡。\nauf + Dativ：表示在扁带上保持平衡。\nIch würde gern einmal auf einer Slackline balancieren. 我想尝试一次走扁带。",
+      "translation": "in grossen Höhen = at great heights，在很高的地方。\nDas Kind balanciert auf einem Baumstamm. The child is balancing on a tree trunk. 孩子在树干上保持平衡。",
+      "updatedAt": "2026-11-10T13:08:01.922Z",
+      "createdAt": "2026-11-10T12:35:35.179Z",
+      "category": ""
+    },
+    {
+      "id": "885c77e0-9d28-4c83-aa1f-04c115e78fda",
+      "level": "B2",
+      "book": "B2.1",
+      "lesson": "7",
+      "german": "Risikobereitschaft",
+      "chinese": "冒险意愿、风险承受意愿",
+      "english": "das Risiko, die Risiken = risk，风险    die Bereitschaft = readiness / willingness，准备状态、意愿",
+      "example": "Sehen Sie die Bilder A–F an. Wie hoch ist Ihre Risikobereitschaft? Was würden Sie gern einmal machen und was nicht? Warum (nicht)? Machen Sie Notizen.\n请看图片 A–F。您的冒险意愿有多高？How willing are you to take risks? 你有多愿意冒险？您想尝试哪些活动，又不想尝试哪些？为什么？请做笔记。\n这里的 würden Sie gern einmal machen 是很常见的礼貌、假设表达：\n- Ich würde gern einmal ... = 我想找机会尝试一次……\n- Ich würde ... nicht gern machen. = 我不想尝试……",
+      "translation": "Ich bin bereit, ein Risiko einzugehen. I am willing to take a risk. 我愿意冒险。\nMeine Risikobereitschaft ist gering. My willingness to take risks is low. 我的冒险意愿比较低。",
+      "updatedAt": "2026-11-10T13:03:53.617Z",
+      "createdAt": "2026-11-10T12:33:27.168Z",
+      "category": ""
+    },
+    {
+      "id": "53cbb7da-c3dd-4c81-b48e-1c1b6786fb16",
+      "level": "B2",
+      "book": "B2.1",
+      "lesson": "7",
+      "german": "ähnliche",
+      "chinese": "",
+      "english": "",
+      "example": "Kennen Sie ähnliche sportliche Veranstaltungen? Welche?\n中文：您知道类似的体育赛事吗？有哪些？\n英文：Do you know any similar sporting events? Which ones?\n2. nämlich = namely\nIch kenne zwei Sportarten, nämlich Schwimmen und Laufen. I know two sports, namely swimming and running. 我知道两种运动，即游泳和跑步。\nnämlich 还经常表示“因为、其实是因为”，用于补充解释：\nIch kann heute nicht kommen. Ich bin nämlich krank. 我今天来不了，因为我生病了\n3. 记忆区别\n- ähnlich → similar → 相似\n- nämlich → namely → 即、也就是",
+      "translation": "ähnlich 可以有两种常见结构：\n- ähnlich + Dativ：与……相似。\nDiese Veranstaltung ist einem Marathon ähnlich. 这项赛事与马拉松相似。\n- ähnlich 作定语形容词：\nIch kenne ähnliche Veranstaltungen.  我知道类似的活动",
+      "updatedAt": "2026-11-09T23:28:34.030Z",
+      "createdAt": "2026-11-09T23:28:34.030Z",
+      "category": ""
+    },
+    {
+      "id": "88373b64-cb22-4558-888e-5ba9e631b7a4",
+      "level": "B2",
+      "book": "B2.1",
+      "lesson": "7",
+      "german": "ausgehen",
+      "chinese": "",
+      "english": "",
+      "example": "Wie ist der Treppenmarathon für Jan ausgegangen?\n中文：Jan 的楼梯马拉松最终结果怎么样？\n英文：How did the stair marathon turn out for Jan?\nausgehen = turn out（结果如何）\netw. (Nom.) geht für jdn. (Akk.) ... aus\n例如：Das Spiel ist gut für uns ausgegangen. 这场比赛对我们来说结果不错。\nDer Unfall ist glimpflich ausgegangen. 这场事故最终没有造成严重后果。\nWie ist die Prüfung für dich ausgegangen? 你的考试结果怎么样？\nPräsens：Der Marathon geht gut aus.\nPerfekt：Der Marathon ist gut ausgegangen.",
+      "translation": "- ausgehen = 出门娱乐：Wir gehen heute Abend aus.（我们今晚出去玩。）\n- ausgehen = 熄灭：Das Licht geht aus.（灯灭了。）\n- ausgehen = 结果如何：Alles ist gut ausgegangen.（一切最终都有了好结果。）\n记住一个非常实用的句型：Wie ist ... ausgegangen? = ……最后结果怎么样？\n比如你以后可以直接问：\nWie ist dein Vorstellungsgespräch ausgegangen? 你的工作面试最后结果怎么样？",
+      "updatedAt": "2026-11-09T23:21:23.319Z",
+      "createdAt": "2026-11-09T23:21:23.319Z",
+      "category": ""
+    },
+    {
+      "id": "e25b0e1b-fb5e-4af3-8e47-53f80d0bf91c",
+      "level": "B2",
+      "book": "B2.1",
+      "lesson": "7",
+      "german": "Veranstaltung",
+      "chinese": "Veranstaltungen 是名词 die Veranstaltung 的复数，活动、举办的活动、正式组织的活动。  event / organized event",
+      "english": "",
+      "example": "die Sportveranstaltung\t体育赛事、体育活动\tsporting event\ndie Kulturveranstaltung\t文化活动\tcultural event\ndie Informationsveranstaltung\t信息说明会\tinformation session\n例如：\nDie Veranstaltung beginnt um 18 Uhr. 活动晚上六点开始。\nIch nehme an einer Veranstaltung teil.我参加一场活动。\n这两个词在英语里都可能翻译成 activity，但侧重点不同。\n- Veranstaltung ≈ event：有组织、有安排的活动，例如马拉松、音乐会、讲座。\n- Aktivität ≈ activity：具体进行的活动或行为，例如跑步、游泳、画画。",
+      "translation": "记忆技巧： veranstalten 是动词，意思是“举办、组织（活动）”。\nDie Stadt veranstaltet ein Konzert. 这座城市举办一场音乐会。",
+      "updatedAt": "2026-11-09T23:16:27.937Z",
+      "createdAt": "2026-11-09T23:16:27.937Z",
+      "category": ""
+    },
+    {
+      "id": "7da1e1a1-dbda-438c-b137-d6aee5bf471a",
+      "level": "B2",
+      "book": "B2.1",
+      "lesson": "7",
+      "german": "vorbereiten",
+      "chinese": "sich (Akk.) auf etw. (Akk.) vorbereiten：auf 引出准备的目标。",
+      "english": "",
+      "example": "Ich bereite mich auf den Marathon vor. 我为马拉松做准备。\nsich (Akk.) fit halten\t保持自己身体健康\tIch halte mich fit.\nwie sich Jan fit hält und wie er sich auf den Treppenmarathon vorbereitet hat. Jan 如何保持身体健康，以及他是怎样为楼梯马拉松做准备的。",
+      "translation": "jdn./etw. (Akk.) + Adj. halten\t使某人或某物保持某种状态\tIch halte die Tür offen.\nIch halte meinen Sohn warm.\n我让儿子保持暖和。\nIch halte mich warm.\n我让自己保持暖和。",
+      "updatedAt": "2026-11-09T23:12:44.957Z",
+      "createdAt": "2026-11-09T23:12:44.957Z",
+      "category": ""
+    },
+    {
+      "id": "d4742e65-8039-4758-9da7-2f01e998d34a",
+      "level": "B2",
+      "book": "B2.1",
+      "lesson": "7",
+      "german": "mitmachen",
+      "chinese": "bei etw. (Dat.) mitmachen：参加某项活动",
+      "english": "",
+      "example": "Warum machen Menschen bei solchen Veranstaltungen mit?\n为什么人们参加这样的活动",
+      "translation": "",
+      "updatedAt": "2026-11-09T23:07:24.807Z",
+      "createdAt": "2026-11-09T23:07:24.807Z",
+      "category": ""
+    },
+    {
+      "id": "cf257d2c-ec3a-461b-8353-763efcddf7fc",
+      "level": "B2",
+      "book": "B2.1",
+      "lesson": "7",
+      "german": "vorhaben",
+      "chinese": "etw. (Akkusativ) vorhaben：打算做某事",
+      "english": "",
+      "example": "was Jan in den kommenden 24 Stunden vorhat.\tJan 打算在接下来的24小时里做什么。\nWas hast du morgen vor? 你明天有什么打算？",
+      "translation": "",
+      "updatedAt": "2026-11-09T23:13:27.120Z",
+      "createdAt": "2026-11-09T23:04:41.028Z",
+      "category": ""
+    },
     {
       "id": "d6293488-0e0b-4f2b-ae19-793ea2586445",
       "level": "B2",
@@ -15,7 +1213,8 @@
       "example": "Die Stimmung hier und die Rufe der Leute haben mir total geholfen.\n这里的气氛和人们的加油呐喊真的给了我很大的帮助。",
       "translation": "",
       "updatedAt": "2026-11-09T16:52:00.333Z",
-      "createdAt": "2026-11-09T16:52:00.333Z"
+      "createdAt": "2026-11-09T16:52:00.333Z",
+      "category": ""
     },
     {
       "id": "41a572cd-ba63-49dc-a235-92267662de99",
@@ -28,7 +1227,8 @@
       "example": "Ich bin einmal auf den Mount Everest gelaufen. Wahnsinn!\n我相当于跑上了一次珠穆朗玛峰！太不可思议了！\n因为说话者强调的是登上山，而不是在山上跑步。自己完成了一次相当于登上珠穆朗玛峰的挑战。auf den Mount Everest 第四格",
       "translation": "",
       "updatedAt": "2026-11-09T16:56:36.966Z",
-      "createdAt": "2026-11-09T16:50:27.972Z"
+      "createdAt": "2026-11-09T16:50:27.972Z",
+      "category": ""
     },
     {
       "id": "30b77bbd-d057-48ff-9ba8-5bbf0b47e64d",
@@ -41,7 +1241,8 @@
       "example": "Unglaublich! Ich kann es gar nicht fassen.\n太不可思议了！我简直不敢相信！\n在这个语境中表示理解、接受某件令人震惊的事情。Ich kann es nicht fassen!\ngar nicht 比单独的 nicht 更强调否定：\n- nicht：不\n- gar nicht：完全不、根本不、简直无法",
       "translation": "",
       "updatedAt": "2026-11-09T16:47:50.334Z",
-      "createdAt": "2026-11-09T16:47:50.334Z"
+      "createdAt": "2026-11-09T16:47:50.334Z",
+      "category": ""
     },
     {
       "id": "b677f714-79be-4c3a-8b82-f5dadeba4c98",
@@ -54,7 +1255,8 @@
       "example": "Und dann ist es geschafft.\n然后，他终于完成了！\n这里的 es ist geschafft 是固定而常见的表达。 英语：It's done! / He has made it!\n在这里，ist geschafft 可以理解为状态被动（Zustandspassiv），强调事情已经完成的结果状态。\nEr hat es geschafft. 他成功做到了。\nEs ist geschafft. 事情终于完成了。",
       "translation": "",
       "updatedAt": "2026-11-09T16:44:51.019Z",
-      "createdAt": "2026-11-09T16:44:43.136Z"
+      "createdAt": "2026-11-09T16:44:43.136Z",
+      "category": ""
     },
     {
       "id": "9b08c31d-263b-4d48-b0fa-9fa11e58ad6c",
@@ -67,7 +1269,8 @@
       "example": "",
       "translation": "",
       "updatedAt": "2026-11-09T16:42:44.651Z",
-      "createdAt": "2026-11-09T16:42:44.651Z"
+      "createdAt": "2026-11-09T16:42:44.651Z",
+      "category": ""
     },
     {
       "id": "041697ef-3d3c-41c4-aedd-498e43be2386",
@@ -80,7 +1283,8 @@
       "example": "Jan Peters läuft mit letzter Kraft, aber mit einem erleichterten Lächeln seine letzte Runde.\nJan Peters 用尽最后一点力气，却带着如释重负的微笑，跑着最后一圈。\neine Runde laufen 中的第四格是路径或距离表达，",
       "translation": "",
       "updatedAt": "2026-11-09T16:41:33.807Z",
-      "createdAt": "2026-11-09T16:41:33.807Z"
+      "createdAt": "2026-11-09T16:41:33.807Z",
+      "category": ""
     },
     {
       "id": "5e4437a1-36c8-4d59-b0e9-033f9ea4a8c8",
@@ -93,7 +1297,8 @@
       "example": "Die Zuschauer feuern die Läufer an. 观众为选手们加油。Immer noch stehen viele Zuschauer an der Treppe und feuern die Läufer an. 仍然有许多观众站在楼梯旁，为参赛选手加油。",
       "translation": "anfeuern 是可分动词：\n- Präsens：sie feuern ... an\n- Präteritum：sie feuerten ... an\n- Perfekt：sie haben ... angefeuert\nimmer noch = still，仍然。",
       "updatedAt": "2026-11-09T16:39:04.115Z",
-      "createdAt": "2026-11-09T16:38:34.400Z"
+      "createdAt": "2026-11-09T16:38:34.400Z",
+      "category": ""
     },
     {
       "id": "4430a6d9-1076-404b-96a9-febcb125e12a",
@@ -106,7 +1311,8 @@
       "example": "an Peters ist durchgelaufen und hat fast sein Ziel erreicht. Jan Peters 一直坚持跑了下来，已经快要实现自己的目标。\ndas Ziel erreichen 可以表示实现目标，也可以表示抵达终点，具体看上下文",
       "translation": "",
       "updatedAt": "2026-11-09T16:36:27.344Z",
-      "createdAt": "2026-11-09T16:36:27.344Z"
+      "createdAt": "2026-11-09T16:36:27.344Z",
+      "category": ""
     },
     {
       "id": "9fc00a3f-4bc5-45b6-ae66-4641d20c7633",
@@ -119,7 +1325,8 @@
       "example": "Die Nacht ist vorüber.夜晚已经过去了。The night is over.",
       "translation": "",
       "updatedAt": "2026-11-09T16:34:51.635Z",
-      "createdAt": "2026-11-09T16:34:51.635Z"
+      "createdAt": "2026-11-09T16:34:51.635Z",
+      "category": ""
     },
     {
       "id": "c5a82e5d-fb42-437c-abad-85444fb52baa",
@@ -132,7 +1339,8 @@
       "example": "die Grenze zwischen Deutschland und der Schweiz 德国与瑞士之间的边界。\n也可以表示抽象的界限：meine körperlichen Grenzen 我的身体极限。",
       "translation": "",
       "updatedAt": "2026-11-09T15:29:43.766Z",
-      "createdAt": "2026-11-09T15:28:31.582Z"
+      "createdAt": "2026-11-09T15:28:31.582Z",
+      "category": ""
     },
     {
       "id": "77aee22e-5949-4976-b0bd-ee4862178b07",
@@ -145,7 +1353,8 @@
       "example": "它是不可分动词：\n- Präsens：er überschreitet\n- Präteritum：er überschritt\n- Perfekt：er hat überschritten\nEr überschreitet die Grenze. He crosses the border. 他越过边界。\nSie hat das Tempolimit überschritten. She exceeded the speed limit. 她超速了。\nDu hast meine Grenzen überschritten. You crossed my boundaries. 你越过了我的界限。",
       "translation": "Grenzen überwinden：强调人们挑战自己的动机。\nGrenzen überschreiten：强调超出身体安全承受能力的风险。",
       "updatedAt": "2026-11-09T15:32:44.124Z",
-      "createdAt": "2026-11-09T15:28:14.982Z"
+      "createdAt": "2026-11-09T15:28:14.982Z",
+      "category": ""
     },
     {
       "id": "9431214d-cf08-40a4-a0bb-cb4cb475947d",
@@ -158,7 +1367,8 @@
       "example": "",
       "translation": "",
       "updatedAt": "2026-11-09T15:27:19.248Z",
-      "createdAt": "2026-11-09T15:27:19.248Z"
+      "createdAt": "2026-11-09T15:27:19.248Z",
+      "category": ""
     },
     {
       "id": "70f881fa-8808-4dcb-85a2-72709bb16ec0",
@@ -171,7 +1381,8 @@
       "example": "",
       "translation": "",
       "updatedAt": "2026-11-09T14:40:15.779Z",
-      "createdAt": "2026-11-09T14:39:58.782Z"
+      "createdAt": "2026-11-09T14:39:58.782Z",
+      "category": ""
     },
     {
       "id": "1c52bc1d-7f0e-4c87-8ab5-80dfefb1fbcd",
@@ -184,7 +1395,8 @@
       "example": "die Forderung：要求、诉求。\ndie Herausforderung：挑战。\nDas ist eine große Herausforderung. 这是一个很大的挑战。\nIch möchte neue Herausforderungen annehmen. 我想接受新的挑战。\nkörperliche Herausforderungen bewältigen 克服身体上的挑战。",
       "translation": "",
       "updatedAt": "2026-11-09T13:59:17.233Z",
-      "createdAt": "2026-11-09T13:59:17.233Z"
+      "createdAt": "2026-11-09T13:59:17.233Z",
+      "category": ""
     },
     {
       "id": "9cc92268-6254-4e39-8171-2c0fdec4af23",
@@ -197,7 +1409,8 @@
       "example": "- damit：通常表示目的，为了……。\n- sodass：表示结果，以至于……。\n例如：\nIch spreche langsam, damit du mich verstehst. 我说慢一点，为了让你听懂。\nIch spreche so leise, sodass du mich kaum verstehst. 我说得很轻，以至于你几乎听不懂。",
       "translation": "",
       "updatedAt": "2026-11-09T13:56:18.825Z",
-      "createdAt": "2026-11-09T13:56:18.825Z"
+      "createdAt": "2026-11-09T13:56:18.825Z",
+      "category": ""
     },
     {
       "id": "b23903a0-f4d0-41a6-9227-019537954334",
@@ -210,7 +1423,8 @@
       "example": "Ein Treppenlauf verlangt dem Körper extreme Leistungen ab. 楼梯跑要求身体付出极大的努力。",
       "translation": "",
       "updatedAt": "2026-11-09T13:49:35.699Z",
-      "createdAt": "2026-11-09T13:49:35.699Z"
+      "createdAt": "2026-11-09T13:49:35.699Z",
+      "category": ""
     },
     {
       "id": "3d2a2a40-22b3-4b02-b36b-0eeaae99ea26",
@@ -223,7 +1437,8 @@
       "example": "它可以表示：\n- 跑步、奔跑。\n- 跑步比赛、赛跑。\n- 某个过程或进程。\n例如：ein 100-Meter-Lauf 100米赛跑。\nder Marathonlauf 马拉松比赛。\nder Lauf der Zeit 时间的流逝。\n教材：Mal sehen, ob ich den Lauf tatsächlich schaffe. 看看我是否真的能完成这场比赛。\n这里 den Lauf 指前面提到的楼梯马拉松比赛。",
       "translation": "",
       "updatedAt": "2026-11-06T11:52:47.387Z",
-      "createdAt": "2026-11-06T11:52:47.387Z"
+      "createdAt": "2026-11-06T11:52:47.387Z",
+      "category": ""
     },
     {
       "id": "a7ab3773-58bc-412c-b376-92f493c8ef26",
@@ -236,7 +1451,8 @@
       "example": "德语\t英语\t中文\nDa steht ein Auto.\tThere is a car there.\t那里有辆车\nDa war ich noch jung.\tBack then I was still young.\t那时我还年轻\nDa habe ich keine Zeit.\tIn that case, I have no time.\t那样的话我没时间\nDa du krank bist, bleib zu Hause.\tSince you're ill, stay home.\t既然你生病了，就待在家\n最后一句的 da 是连词，引导从句，和前面作为副词的 da 不同。\n教材：Eine gute Fitness ist da unbedingt notwendig.\n这里 da = in that situation / in such circumstances。 在这种情况下，良好的体能绝对必要。",
       "translation": "",
       "updatedAt": "2026-11-06T11:33:29.654Z",
-      "createdAt": "2026-11-06T11:33:29.654Z"
+      "createdAt": "2026-11-06T11:33:29.654Z",
+      "category": ""
     },
     {
       "id": "f5221db1-eb48-47f7-954b-9dddd5dfb649",
@@ -249,7 +1465,8 @@
       "example": "",
       "translation": "",
       "updatedAt": "2026-11-06T11:02:01.962Z",
-      "createdAt": "2026-11-06T11:02:01.962Z"
+      "createdAt": "2026-11-06T11:02:01.962Z",
+      "category": ""
     },
     {
       "id": "b1f400b7-c59f-4adc-8d4b-8853d67513f2",
@@ -262,7 +1479,8 @@
       "example": "Gleichzeitig ist eine Treppe ein wunderbares Trainingsgerät für die Steigerung der Fitness im Alter.\n与此同时，楼梯也是一种极好的锻炼工具，可以帮助人们在年老时提高身体素质。\nAt the same time, a staircase is an excellent exercise tool for improving physical fitness in old age.",
       "translation": "这里 im Alter 最自然地理解为修饰整个 die Steigerung der Fitness 这一活动／过程，语义上理解成“老年阶段的体能”\nIm Alter braucht der Körper oft mehr Erholung. As people get older, the body often needs more recovery. 随着年龄增长，身体通常需要更多恢复时间。\nim Alter 在老年阶段。\nim hohen Alter 在高龄阶段，特别强调年纪很大。\nEr ist auch im hohen Alter noch sportlich aktiv. He is still physically active even at an advanced age. 他即使到了高龄，仍然积极运动。\n例如：Im Alter wird regelmäßige Bewegung immer wichtiger. 随着年龄增长，规律运动变得越来越重要。",
       "updatedAt": "2026-11-09T14:28:28.319Z",
-      "createdAt": "2026-11-06T11:01:48.561Z"
+      "createdAt": "2026-11-06T11:01:48.561Z",
+      "category": ""
     },
     {
       "id": "0ad658ba-cfb1-4315-87e7-ca5ecc5ad8e7",
@@ -275,7 +1493,8 @@
       "example": "Dieser Extremsport überfordert oft den Körper. 这种极限运动经常让身体不堪重负。",
       "translation": "",
       "updatedAt": "2026-11-06T10:59:44.076Z",
-      "createdAt": "2026-11-06T10:59:44.076Z"
+      "createdAt": "2026-11-06T10:59:44.076Z",
+      "category": ""
     },
     {
       "id": "de814593-8ad0-4808-aa88-541b746581d0",
@@ -288,7 +1507,8 @@
       "example": "Ich rate niemandem zu einem Treppenmarathon. 我不建议任何人参加楼梯马拉松。",
       "translation": "",
       "updatedAt": "2026-11-06T10:26:32.271Z",
-      "createdAt": "2026-11-06T10:26:32.271Z"
+      "createdAt": "2026-11-06T10:26:32.271Z",
+      "category": ""
     },
     {
       "id": "6a302735-83a3-4d58-9088-f0a73f7c709a",
@@ -301,7 +1521,8 @@
       "example": "Wer aber seine Grenzen überschreitet, dem droht Lebensgefahr. 但是，谁要是超越了自己的极限，就可能面临生命危险。\n这里有一个重要结构： Wer ..., dem ... 谁……，谁就……\n- dem：Dativ，指前面的 wer。\n- Lebensgefahr：Nominativ，主语。",
       "translation": "A. 威胁、恐吓（to threaten）\njdm. (Dat.) drohen\nEr droht mir. He threatens me. 他威胁我。\nEr droht mir mit einer Strafe. He threatens me with punishment. 他威胁要惩罚我。\nB. 某种危险即将发生／威胁着某人（to threaten / loom）\njdm. (Dat.) droht etw. (Nom.)\n这里的主语通常是某种危险或不好的事情。\nMir droht eine Strafe. I face a penalty. 我面临处罚。\nIhm droht eine Kündigung. He faces dismissal. 他面临被解雇的风险。\nDen Bewohnern droht Gefahr. The residents are in danger. 居民们面临危险。\n注意：不是人主动去威胁，而是某种危险正在威胁这个人。",
       "updatedAt": "2026-11-09T15:37:04.906Z",
-      "createdAt": "2026-11-06T10:23:05.157Z"
+      "createdAt": "2026-11-06T10:23:05.157Z",
+      "category": ""
     },
     {
       "id": "6d9ed6f4-9641-47b6-b855-7fb0f4b11a7d",
@@ -314,7 +1535,8 @@
       "example": "Das stärkt das Selbstvertrauen. 这能够增强自信心。",
       "translation": "",
       "updatedAt": "2026-11-06T10:20:50.978Z",
-      "createdAt": "2026-11-06T10:20:50.978Z"
+      "createdAt": "2026-11-06T10:20:50.978Z",
+      "category": ""
     },
     {
       "id": "3b4090dc-825d-45e3-9773-6671ff378c20",
@@ -327,7 +1549,8 @@
       "example": "Es liegt in der Natur des Menschen, sich weiterentwickeln und körperliche Herausforderungen bewältigen zu wollen.\n人类天性中就有不断发展自己、克服身体挑战的愿望。\nin der Natur des Menschen liegen：是人的天性。",
       "translation": "",
       "updatedAt": "2026-11-06T10:18:48.579Z",
-      "createdAt": "2026-11-06T10:18:48.579Z"
+      "createdAt": "2026-11-06T10:18:48.579Z",
+      "category": ""
     },
     {
       "id": "b66fbf27-af62-496e-b010-40e3411d8dfd",
@@ -340,7 +1563,8 @@
       "example": "Den meisten geht es darum, die eigenen Grenzen zu überwinden, meint Personal Trainerin Franke. 私人教练 Franke 认为，对大多数人来说，重要的是突破自己的极限。\n这里：\n- den meisten：Dativ Plural，大多数人。\n- darum：回指后面的不定式短语。\n- die eigenen Grenzen zu überwinden：突破自己的极限。",
       "translation": "",
       "updatedAt": "2026-11-06T10:17:09.618Z",
-      "createdAt": "2026-11-06T10:17:09.618Z"
+      "createdAt": "2026-11-06T10:17:09.618Z",
+      "category": ""
     },
     {
       "id": "6b8e185d-70ef-40f6-9dbc-4ed9148f28aa",
@@ -348,12 +1572,13 @@
       "book": "B2.1",
       "lesson": "7",
       "german": "Anstrengung",
-      "chinese": "etw. (Akk.) auf sich nehmen：主动承担某种负担、困难或风险。",
-      "english": "",
-      "example": "Doch warum gehen Menschen so ein Risiko ein und nehmen solche extremen Anstrengungen auf sich?\n可是，人们为什么愿意冒这么大的风险，并承受如此极端的体力负担呢",
-      "translation": "",
-      "updatedAt": "2026-11-09T15:17:04.170Z",
-      "createdAt": "2026-11-06T10:14:54.515Z"
+      "chinese": "effort / exertion  努力、费力、体力或脑力上的消耗。",
+      "english": "etw. (Akk.) auf sich nehmen：to take something upon oneself / to put up with something  甘愿承受、主动承担、接受某种困难或负担。",
+      "example": "Doch warum gehen Menschen so ein Risiko ein und nehmen solche extremen Anstrengungen auf sich?\n可是，人们为什么愿意冒这么大的风险，并承受如此极端的体力负担呢\nDas kostet viel Anstrengung. 这需要付出很多努力。\nNach der grossen körperlichen Anstrengung bin ich müde. 经过大量体力消耗后，我很累。\nAnstrengung 可以指你付出的努力。也可以指让你感到疲惫、吃力的活动或过程。\n例如：\nIch nehme diese Anstrengung auf mich. 我愿意承受这份辛苦。\nEr nimmt diese Anstrengung auf sich. 他愿意承受这份辛苦。\nauf 后面是 Akkusativ：mich / dich / sich / uns / euch / sich。",
+      "translation": "德语\t中文\nRisiken auf sich nehmen\t甘愿承担风险\nSchwierigkeiten auf sich nehmen\t甘愿面对困难\ngrosse Anstrengungen auf sich nehmen\t甘愿付出巨大努力、承受巨大辛苦\nUnannehmlichkeiten auf sich nehmen\t甘愿忍受不便\n你可以把它想成英文：take something upon oneself 其中 something 可以是风险、困难、辛苦等。",
+      "updatedAt": "2026-11-09T23:41:20.465Z",
+      "createdAt": "2026-11-06T10:14:54.515Z",
+      "category": ""
     },
     {
       "id": "cc511f85-5107-481d-aa74-36fdf299fe09",
@@ -366,7 +1591,8 @@
       "example": "So etwas kann schnell gefährlich werden, deshalb sollten immer Ärzte vor Ort sein.\n这种情况很快就可能变得危险，因此现场应该始终有医生。\n\nvor Ort：在现场。",
       "translation": "",
       "updatedAt": "2026-11-06T10:13:02.029Z",
-      "createdAt": "2026-11-06T10:13:02.029Z"
+      "createdAt": "2026-11-06T10:13:02.029Z",
+      "category": ""
     },
     {
       "id": "7b7ae63e-fd23-4981-9c2a-f5df6dab92bb",
@@ -379,7 +1605,8 @@
       "example": "Ein großes Problem ist, dass manche Teilnehmer in einen Rausch verfallen, sodass sie die Schmerzen nicht mehr spüren.\n一个很大的问题是，一些参赛者会陷入一种亢奋、近乎失去自我控制的状态，以至于感觉不到疼痛。\nin Panik verfallen 陷入恐慌。\nsodass：以至于，表示结果, so that / with the result that。",
       "translation": "",
       "updatedAt": "2026-11-09T13:55:23.524Z",
-      "createdAt": "2026-11-06T10:10:48.490Z"
+      "createdAt": "2026-11-06T10:10:48.490Z",
+      "category": ""
     },
     {
       "id": "3bf67226-e27b-4bf0-96b4-c275f698bac9",
@@ -392,7 +1619,8 @@
       "example": "Außerdem fordert ein Treppenmarathon dem Körper viermal so viel Energie ab wie ein gewöhnlicher, so Franke. Franke 表示，此外，楼梯马拉松对身体能量的消耗要求是普通马拉松的四倍。\nein Treppenmarathon\tNominativ，主语\ndem Körper\tDativ\nviermal so viel Energie\tAkkusativ\nwie ein gewöhnlicher\t比较结构，省略 Marathon\nviermal so viel ... wie：是……的四倍。",
       "translation": "",
       "updatedAt": "2026-11-06T10:09:12.566Z",
-      "createdAt": "2026-11-06T10:09:12.567Z"
+      "createdAt": "2026-11-06T10:09:12.567Z",
+      "category": ""
     },
     {
       "id": "a0483b5b-6dcd-4d98-a31a-e1918236474c",
@@ -405,7 +1633,8 @@
       "example": "die Muskeln im Gesäß 臀部肌肉。\nSchmerzen im Gesäß 臀部疼痛。\n与之相关：\n- der Po：屁股，日常口语。\n- das Gesäß：臀部，较正式或医学用语。\n- die Gesäßmuskulatur：臀部肌群。",
       "translation": "",
       "updatedAt": "2026-11-09T13:54:13.740Z",
-      "createdAt": "2026-11-06T10:05:33.741Z"
+      "createdAt": "2026-11-06T10:05:33.741Z",
+      "category": ""
     },
     {
       "id": "4b035f8a-43cb-469e-a138-8917c3ac4d16",
@@ -418,7 +1647,8 @@
       "example": "Diese Art des Marathons belastet nicht nur das Herz, vor allem die Muskeln in den Beinen und im Gesäß werden extrem beansprucht. 这种马拉松不仅给心脏造成负担，尤其会让腿部和臀部肌肉承受极大的压力。\njdn./etw. (Akk.) belasten：使……承受负担。\nwerden ... beansprucht：被动语态。",
       "translation": "",
       "updatedAt": "2026-11-06T10:06:36.711Z",
-      "createdAt": "2026-11-06T10:05:17.145Z"
+      "createdAt": "2026-11-06T10:05:17.145Z",
+      "category": ""
     },
     {
       "id": "d294df9a-dd93-45bc-86f8-8f0e4f64ae72",
@@ -431,7 +1661,8 @@
       "example": "Durchschnittlich trainierte Läufer stoßen dabei schnell an ihre Grenzen. 训练水平一般的跑者，在这种情况下很快就会达到自己的极限。",
       "translation": "",
       "updatedAt": "2026-11-06T10:03:14.516Z",
-      "createdAt": "2026-11-06T10:02:44.283Z"
+      "createdAt": "2026-11-06T10:02:44.283Z",
+      "category": ""
     },
     {
       "id": "b3753d86-3c21-496c-85dd-659e704d801f",
@@ -444,7 +1675,8 @@
       "example": "Mehr als bei einem einfachen Marathonlauf werden bei einem Treppenlauf vom Körper extreme Leistungen verlangt.\n与普通马拉松相比，楼梯跑对身体提出了更高强度的要求。\n先看核心句 Extreme Leistungen werden vom Körper verlangt. 身体被要求付出极高水平的表现。\n这是 Vorgangspassiv（过程被动）。\n结构: werden + Partizip II\nextreme Leistungen 是主语，Nominativ Plural。\n因此动词用：werden（复数），而不是 wird。",
       "translation": "bei einem Treppenlauf\t情境状语\t在楼梯跑比赛中\nvom Körper\tvon + Dat.\t表示被要求付出表现的一方\nextreme Leistungen\tNominativ\t被动句主语\nverlangt\tPartizip II\t被动谓语的核心\n这里的 vom Körper 不表示身体是提出要求的人，而是身体被要求提供极高的运动表现。\n这个表达在德语里是可以成立的，但中文更自然的翻译是“楼梯跑对身体的要求更高”。",
       "updatedAt": "2026-11-06T12:02:32.454Z",
-      "createdAt": "2026-11-06T10:00:59.035Z"
+      "createdAt": "2026-11-06T10:00:59.035Z",
+      "category": ""
     },
     {
       "id": "da305da1-7b78-4fc7-afa9-fda3da5480d7",
@@ -457,7 +1689,8 @@
       "example": "",
       "translation": "",
       "updatedAt": "2026-11-06T09:55:07.046Z",
-      "createdAt": "2026-11-06T09:55:07.046Z"
+      "createdAt": "2026-11-06T09:55:07.046Z",
+      "category": ""
     },
     {
       "id": "8dffbb19-eda2-4205-8a85-60981c310c52",
@@ -470,7 +1703,8 @@
       "example": "",
       "translation": "",
       "updatedAt": "2026-11-06T09:54:31.751Z",
-      "createdAt": "2026-11-06T09:54:31.752Z"
+      "createdAt": "2026-11-06T09:54:31.752Z",
+      "category": ""
     },
     {
       "id": "4d3f28f5-85a7-4796-a535-5f8eed77cd99",
@@ -483,7 +1717,8 @@
       "example": "Nina Franke, Personal Trainerin und Dozentin an der Sporthochschule Köln, sagt, dass vor allem untrainierte Teilnehmer ein großes Risiko eingehen. 科隆体育大学的私人教练兼讲师 Nina Franke 表示，尤其是缺乏训练的参赛者，会承担很大的风险\n- untrainiert：未经训练的、缺乏训练的。",
       "translation": "",
       "updatedAt": "2026-11-06T09:53:16.724Z",
-      "createdAt": "2026-11-06T09:53:16.724Z"
+      "createdAt": "2026-11-06T09:53:16.724Z",
+      "category": ""
     },
     {
       "id": "f69db947-1f50-40ac-95a2-aa98ff741cba",
@@ -496,7 +1731,8 @@
       "example": "Doch auch Vorsicht und ein Gefühl für seinen Körper sind Teil seines Berufes, meint er. 不过他认为，谨慎以及对自己身体状况的感知，也是他职业的一部分。\n- Teil：一部分。\n- seines Berufes：Genitiv，职业的。",
       "translation": "Vorsicht! 小心！\nMit Vorsicht! 小心地、谨慎地！\nVorsicht ist wichtig. 谨慎很重要。",
       "updatedAt": "2026-11-06T11:57:00.673Z",
-      "createdAt": "2026-11-06T09:49:32.388Z"
+      "createdAt": "2026-11-06T09:49:32.388Z",
+      "category": ""
     },
     {
       "id": "9bc1c294-3cb4-4536-a065-fef4341a6f34",
@@ -509,7 +1745,8 @@
       "example": "ein Risiko eingehen 冒风险。\nRisiken bergen 蕴含风险。\ndas Risiko reduzieren 降低风险。",
       "translation": "",
       "updatedAt": "2026-11-06T11:55:26.555Z",
-      "createdAt": "2026-11-06T09:48:18.459Z"
+      "createdAt": "2026-11-06T09:48:18.459Z",
+      "category": ""
     },
     {
       "id": "65a5837b-1392-4adb-8b3f-0403de55bf4e",
@@ -522,7 +1759,8 @@
       "example": "",
       "translation": "",
       "updatedAt": "2026-11-06T09:53:41.096Z",
-      "createdAt": "2026-11-06T09:43:41.945Z"
+      "createdAt": "2026-11-06T09:43:41.945Z",
+      "category": ""
     },
     {
       "id": "0352e668-d793-419b-a5b7-c5f69c581685",
@@ -535,7 +1773,8 @@
       "example": "",
       "translation": "",
       "updatedAt": "2026-11-06T09:42:39.712Z",
-      "createdAt": "2026-11-06T09:42:39.712Z"
+      "createdAt": "2026-11-06T09:42:39.712Z",
+      "category": ""
     },
     {
       "id": "fa870b2d-ba4a-41d2-959e-ba2d076f8d9f",
@@ -548,7 +1787,8 @@
       "example": "Dass das extreme Treppenlaufen den Körper sehr belastet und auch Risiken birgt, damit hat Jan Peters sich schon bei der Vorbereitung befasst. 极限楼梯跑会给身体带来很大负担，而且也存在风险。Jan Peters 在备赛期间就已经研究过这些问题。\nIch befasse mich mit diesem Thema. 我研究这个主题。",
       "translation": "句子\tdamit 的功能\nDamit liegt er gut in der Zeit.\t状语，表示以这样的速度\nEr befasst sich damit.\tsich befassen mit + Dat. 的介词补足语\nEr öffnet die Tür damit.\t工具状语，表示用它\n同样的 damit，在不同句子里功能不同。",
       "updatedAt": "2026-11-06T11:58:42.816Z",
-      "createdAt": "2026-11-06T09:42:03.859Z"
+      "createdAt": "2026-11-06T09:42:03.859Z",
+      "category": ""
     },
     {
       "id": "2d9d799c-bdf5-40ac-b937-d4c188d023bf",
@@ -561,7 +1801,8 @@
       "example": "Und heute unternehme ich mal den Versuch, diesen Marathon bis zum Ende durchzuhalten. 而今天，我就来尝试一下，看看能不能坚持完成整场马拉松。\neinen Versuch unternehmen：进行一次尝试。",
       "translation": "",
       "updatedAt": "2026-11-06T09:38:27.216Z",
-      "createdAt": "2026-11-06T09:26:37.516Z"
+      "createdAt": "2026-11-06T09:26:37.516Z",
+      "category": ""
     },
     {
       "id": "4d819f2d-7971-400e-b863-663fce00d914",
@@ -574,7 +1815,8 @@
       "example": "",
       "translation": "",
       "updatedAt": "2026-11-06T09:24:32.135Z",
-      "createdAt": "2026-11-06T09:22:13.752Z"
+      "createdAt": "2026-11-06T09:22:13.752Z",
+      "category": ""
     },
     {
       "id": "654680a3-5a73-4385-854c-55c375d0c5ca",
@@ -587,7 +1829,8 @@
       "example": "Aber trotzdem habe ich zur Vorbereitung auch noch regelmäßig an einer Treppe trainiert und mit Kollegen kleine Wettkämpfe im Treppenlaufen gemacht. 但即便如此，为了准备这次比赛，我还定期在一段楼梯上训练，并和同事进行一些小型的楼梯跑比赛。\n- an einer Treppe：an + Dat.，表示训练地点。\n- kleine Wettkämpfe：Akkusativobjekt。\n- im Treppenlaufen：in + Dat.，表示比赛项目。",
       "translation": "Ich trainiere im Fitnessstudio. 我在健身房训练。\nIch trainiere auf dem Sportplatz. 我在运动场训练。\nIch trainiere an einer Treppe. 我在楼梯处训练。\ntrainieren 本身并不固定要求 an + Dat.。这里是地点状语。\n如果是：Ich trainiere an meiner Technik. 我训练／改进自己的技术。\n这里的 an meiner Technik 则表示训练所针对的方面，语义与地点不同。",
       "updatedAt": "2026-11-06T11:50:08.574Z",
-      "createdAt": "2026-11-06T09:21:57.389Z"
+      "createdAt": "2026-11-06T09:21:57.389Z",
+      "category": ""
     },
     {
       "id": "f6832db4-2b0d-4eda-b9f5-fce3e8ef932e",
@@ -600,7 +1843,8 @@
       "example": "Ich gehe zwar regelmäßig joggen und mit der Feuerwehr fahren wir öfter mal auf Trainingswochenenden. 虽然我经常慢跑，而且我们消防队也经常去参加周末训练活动。Dadurch bin ich eigentlich immer ganz gut in Form. 因此，我基本上一直保持着不错的身体状态。\ndadurch：通过前面提到的活动、由此。与 deshalb 不同，dadurch 往往强调通过什么方式产生结果。",
       "translation": "Wir fahren in den Urlaub. 我们去度假。\nWir fahren auf ein Seminar. 我们去参加研讨会。\n所以 fahren 在这里强调去参加活动的出行过程，不一定表示本人开车。\n德语经常使用：auf + Akk. 表示前往某些活动。\n例如: auf eine Konferenz fahren 去参加会议。\nauf ein Seminar fahren 去参加研讨会。\nauf ein Trainingswochenende fahren 去参加周末训练活动。\n这里 auf 是 Wechselpräposition，表示前往活动，所以用 Akkusativ。\nauf Trainingswochenenden 是复数 Akkusativ，形式与 Nominativ 相同。\n它不是 fahren 唯一允许的介词，而是由目的地或活动类型决定的表达。",
       "updatedAt": "2026-11-06T11:42:59.876Z",
-      "createdAt": "2026-11-06T09:15:29.823Z"
+      "createdAt": "2026-11-06T09:15:29.823Z",
+      "category": ""
     },
     {
       "id": "6195b3a6-e27c-474b-b8b5-058a7b967a67",
@@ -613,7 +1857,8 @@
       "example": "",
       "translation": "",
       "updatedAt": "2026-11-06T09:10:33.113Z",
-      "createdAt": "2026-11-06T09:09:48.775Z"
+      "createdAt": "2026-11-06T09:09:48.775Z",
+      "category": ""
     },
     {
       "id": "22aa3085-af17-4fbc-99f8-bc0665cc06b3",
@@ -626,7 +1871,8 @@
       "example": "Trotz seiner Fitness musste er für den Treppenmarathon extra trainieren, erzählt er. 他说，尽管自己的体能很好，但为了这次楼梯马拉松，他还是必须专门训练。\n- extra：专门、特意。",
       "translation": "",
       "updatedAt": "2026-11-06T09:09:01.052Z",
-      "createdAt": "2026-11-06T09:09:01.052Z"
+      "createdAt": "2026-11-06T09:09:01.052Z",
+      "category": ""
     },
     {
       "id": "28afdfd3-d9b7-4661-9d0a-4263a460c3d6",
@@ -639,7 +1885,8 @@
       "example": "Ich muss langsam nach oben gehen und mich dann beim Runterlaufen etwas beeilen. 我必须慢慢往上走，然后在下楼梯时稍微加快一点速度。\nbeim Runterlaufen：- 表示“在下楼梯的过程中”。",
       "translation": "",
       "updatedAt": "2026-11-06T09:05:11.660Z",
-      "createdAt": "2026-11-06T09:05:11.660Z"
+      "createdAt": "2026-11-06T09:05:11.660Z",
+      "category": ""
     },
     {
       "id": "520f3048-ea34-4423-aef1-ec72f6b456d2",
@@ -652,7 +1899,8 @@
       "example": "Ich glaube, jetzt habe ich meinen Rhythmus gefunden. 我觉得，现在我已经找到自己的节奏了。",
       "translation": "",
       "updatedAt": "2026-11-06T09:01:11.925Z",
-      "createdAt": "2026-11-06T09:01:11.925Z"
+      "createdAt": "2026-11-06T09:01:11.925Z",
+      "category": ""
     },
     {
       "id": "c5515dfc-8c99-4777-bf62-7bbe5b856f8a",
@@ -665,7 +1913,8 @@
       "example": "Zwei Stunden später hat Peters bereits die zehnte Runde geschafft.\n两小时后，Peters 已经完成了第十轮。",
       "translation": "德语\t词性\t英语\t中文\nbereits\t副词\talready\t已经\nbereit\t形容词\tready\t准备好的\nIch habe bereits gegessen. I have already eaten. 我已经吃过了。\nIch bin bereit. I am ready. 我准备好了。\nIch bin bereit, anzufangen. I'm ready to start. 我准备开始了。\nbereits 和 schon 都可以表示 already，但 bereits 一般更书面一些。",
       "updatedAt": "2026-11-06T11:39:16.991Z",
-      "createdAt": "2026-11-06T08:59:06.656Z"
+      "createdAt": "2026-11-06T08:59:06.656Z",
+      "category": ""
     },
     {
       "id": "f18d4b22-a4b4-4bb5-9d7f-194101943cdf",
@@ -678,7 +1927,8 @@
       "example": "Deshalb müssen schon die Bewerber für eine Ausbildung bei der Feuerwehr einen ziemlich schwierigen Sporttest machen.\n因此，即使是申请消防培训的人，也必须参加一项相当困难的体能测试。\nschon die Bewerber 主语：连申请者都\nfür eine Ausbildung 修饰 Bewerber：申请某项培训的人\nbei der Feuerwehr 最自然地修饰 Ausbildung：消防部门的培训",
       "translation": "schon die Bewerber\t连申请者都\nfür eine Ausbildung\tfür + Akk.，修饰 Bewerber\nbei der Feuerwehr\tbei + Dat.，修饰 Ausbildung\nschon 在这里不是“已经”，而是强调连申请者都要接受测试。\nSchon Kinder können das verstehen. Even children can understand that. 连孩子都能理解。\nSchon am ersten Tag war es schwierig. It was difficult even on the first day. 第一天就已经很困难了。\n不过 schon 还有 already、as early as 等意思，要根据上下文判断。",
       "updatedAt": "2026-11-09T14:17:32.706Z",
-      "createdAt": "2026-11-06T08:57:39.563Z"
+      "createdAt": "2026-11-06T08:57:39.563Z",
+      "category": ""
     },
     {
       "id": "8095e4f3-54ce-4302-a99a-02f206b86d65",
@@ -691,7 +1941,8 @@
       "example": "Eine gute Fitness ist da unbedingt notwendig. 在这种情况下，良好的体能绝对是必需的。\n- unbedingt：绝对、务必。\n- da：在这种情况下。",
       "translation": "",
       "updatedAt": "2026-11-06T08:54:10.223Z",
-      "createdAt": "2026-11-06T08:54:10.223Z"
+      "createdAt": "2026-11-06T08:54:10.223Z",
+      "category": ""
     },
     {
       "id": "be232d4d-a80a-49fd-b761-56829909a01f",
@@ -704,7 +1955,8 @@
       "example": "",
       "translation": "",
       "updatedAt": "2026-11-06T06:13:04.398Z",
-      "createdAt": "2026-11-06T06:13:04.398Z"
+      "createdAt": "2026-11-06T06:13:04.398Z",
+      "category": ""
     },
     {
       "id": "16cc9bcc-7119-4b66-9abc-5cfb4f50e172",
@@ -717,7 +1969,8 @@
       "example": "Auch sonst können unsere Einsätze körperlich sehr anstrengend sein.\n除此之外，我们的出勤任务在体力上也可能非常辛苦。\nauch sonst：在其他情况下也、除此之外也。",
       "translation": "",
       "updatedAt": "2026-11-06T06:12:38.594Z",
-      "createdAt": "2026-11-06T06:12:38.594Z"
+      "createdAt": "2026-11-06T06:12:38.594Z",
+      "category": ""
     },
     {
       "id": "1846bdd6-545f-4c33-bdcf-c4b5ab4488a8",
@@ -730,7 +1983,8 @@
       "example": "Schnell Treppen rauf und runter zu laufen gehört in meinem Job dazu.\n在我的工作中，快速上下楼梯也是工作的一部分。English: Running quickly up and down stairs is part of my job.\ngehört ... dazu 谓语，表示“是其中的一部分”。",
       "translation": "",
       "updatedAt": "2026-11-09T14:29:03.663Z",
-      "createdAt": "2026-11-06T06:10:58.564Z"
+      "createdAt": "2026-11-06T06:10:58.564Z",
+      "category": ""
     },
     {
       "id": "a7a05393-7554-4c5f-8eea-5d52b5332464",
@@ -743,7 +1997,8 @@
       "example": "Aber Jan Peters ist gut in Form.但是 Jan Peters 的身体状态很好。",
       "translation": "",
       "updatedAt": "2026-11-06T06:05:07.721Z",
-      "createdAt": "2026-11-06T06:05:07.722Z"
+      "createdAt": "2026-11-06T06:05:07.722Z",
+      "category": ""
     },
     {
       "id": "fad8a4dc-57aa-4e96-ba20-9a71ff13cc72",
@@ -756,7 +2011,8 @@
       "example": "Zeit für lange Pausen bleibt da nicht. 这样一来，就没有时间长时间休息了。\n- Zeit：Nominativ，主语。\n- für lange Pausen：für + Akk.，修饰 Zeit。\n- bleiben：剩下、留有。\n- da：在这种情况下。",
       "translation": "例如：Es bleiben nur zehn Minuten. Only ten minutes remain. 只剩十分钟。es 主要用来占据德语陈述句的第一位置（Vorfeld），不承担真正的主语角色, nur zehn Minuten（Nominativ Plural）。\nNur zehn Minuten bleiben. 只剩十分钟。 或者 Jetzt bleiben nur zehn Minuten. 现在只剩十分钟。\nMir bleibt keine Zeit. I have no time left. 我没有剩余时间。\nmir：Dativ，表示谁没有时间可用。\nkeine Zeit：Nominativ，主语。\n句子\t主语\tDativ\nEs bleiben zehn Minuten.\tzehn Minuten\t无\nMir bleiben zehn Minuten.\tzehn Minuten\tmir\nMir bleibt eine Minute.\teine Minute\tmir\nEs bleibt eine Minute.\teine Minute\t无\n判断主语时，不要只看谁在句首，要看动词与哪个名词在人称、数上保持一致。",
       "updatedAt": "2026-11-09T14:11:56.604Z",
-      "createdAt": "2026-11-06T06:04:26.207Z"
+      "createdAt": "2026-11-06T06:04:26.207Z",
+      "category": ""
     },
     {
       "id": "3c74d7cf-a55e-4ed1-b934-b154913bbceb",
@@ -769,7 +2025,8 @@
       "example": "24 Stunden hat er, um die 397 Stufen der Spitzhaustreppe 100 Mal hinauf und wieder hinunter zu laufen.\n他有24小时的时间，要在这段397级台阶的楼梯上上下下跑100次。\ndie 397 Stufen：Akkusativ，经过的路线。\n- die Treppe：整段楼梯。\n- die Stufe：楼梯中的一级台阶。\nDie Treppe hat 397 Stufen. 这段楼梯有397级台阶。\ndas Spitzhaus：当地一座建筑的名称。",
       "translation": "",
       "updatedAt": "2026-11-06T11:27:06.657Z",
-      "createdAt": "2026-11-06T06:02:58.364Z"
+      "createdAt": "2026-11-06T06:02:58.364Z",
+      "category": ""
     },
     {
       "id": "eb836dbc-e741-4d64-a5b3-b82bb963f392",
@@ -782,7 +2039,8 @@
       "example": "Damit liegt er gut in der Zeit. 按照这个速度，他的时间安排还很理想。\ndamit = with that / at that rate / given that。 指前面提到的每轮13分钟的速度。\n它在这里是状语性代副词（Pronominaladverb），不是 liegen mit + Dat. 的固定宾语。\nDamit kann ich die Tür öffnen. 我可以用它开门。这里 damit 表示工具、手段，不是 öffnen 的固定介词配价。",
       "translation": "",
       "updatedAt": "2026-11-06T11:25:44.553Z",
-      "createdAt": "2026-11-06T06:00:41.448Z"
+      "createdAt": "2026-11-06T06:00:41.448Z",
+      "category": ""
     },
     {
       "id": "44e3aecb-41db-4873-b9d3-368d4ebef54c",
@@ -795,7 +2053,8 @@
       "example": "Bisher hat er 13 Minuten pro Runde gebraucht. 到目前为止，他每轮需要13分钟。\n13 Minuten：时间长度 Akkusativ。\npro Runde：每一轮。",
       "translation": "和 bis jetzt 很接近：Bis jetzt hat alles gut funktioniert. 到现在为止，一切都运转正常。\nBisher läuft alles gut. So far, everything is going well. 到目前为止，一切顺利。",
       "updatedAt": "2026-11-06T11:23:25.209Z",
-      "createdAt": "2026-11-06T05:57:18.500Z"
+      "createdAt": "2026-11-06T05:57:18.500Z",
+      "category": ""
     },
     {
       "id": "8cb15b7f-6882-4a13-be19-7f332fbd466a",
@@ -808,7 +2067,8 @@
       "example": "Er blickt die Treppe hinauf 他抬头望向楼梯上方。\ndie Treppe 是表示视线方向或路径的 Akkusativ。",
       "translation": "",
       "updatedAt": "2026-11-06T05:55:11.679Z",
-      "createdAt": "2026-11-06T05:55:02.116Z"
+      "createdAt": "2026-11-06T05:55:02.116Z",
+      "category": ""
     },
     {
       "id": "5b1680e7-8df1-41d2-95b8-0c72c00bb423",
@@ -821,7 +2081,8 @@
       "example": "常见搭配：\nIch schwitze. 我出汗。\nMir läuft der Schweiß über das Gesicht. 汗水从我的脸上流下来。\nIch bin schweißgebadet. 我浑身是汗。\nIch habe viel Schweiß verloren.我流了很多汗。\nschwitzen 是动词（出汗），Schweiß 是名词（汗水）。\n日常表达汗水时一般不用复数 Schweiße。",
       "translation": "",
       "updatedAt": "2026-11-09T14:08:50.889Z",
-      "createdAt": "2026-11-06T05:53:20.119Z"
+      "createdAt": "2026-11-06T05:53:20.119Z",
+      "category": ""
     },
     {
       "id": "5b820c39-6d21-47ca-a0ee-bfc1beb7d3e4",
@@ -834,7 +2095,8 @@
       "example": "Jan Peters aus Bielefeld, 33 Jahre alt, schlank und sportlich, mit wachen Augen, wischt sich den Schweiß von der Stirn.\n来自比勒费尔德的 Jan Peters，33岁，身材苗条、热爱运动，目光有神。他擦去额头上的汗水。\nsich：Dativ，给自己擦。\nIch wische mir den Schweiß von der Stirn. 我擦去额头上的汗水。\nIch wische meinem Sohn den Schweiß von der Stirn. 我给儿子擦额头上的汗。",
       "translation": "它相当于: Ich wische den Schweiß von meiner Stirn.\n但德语在涉及自己的身体部位时，经常使用：Dativ 的人 + 定冠词的身体部位\n例如：\nIch wasche mir die Hände. 我洗手。\nIch putze mir die Zähne. 我刷牙。\nIch kämme mir die Haare. 我梳头发。",
       "updatedAt": "2026-11-06T11:17:24.108Z",
-      "createdAt": "2026-11-06T05:52:10.269Z"
+      "createdAt": "2026-11-06T05:52:10.269Z",
+      "category": ""
     },
     {
       "id": "0f1733c3-4421-4428-91d2-0cd73d5de424",
@@ -847,7 +2109,8 @@
       "example": "Das wird nicht einfach. 这可不会容易。\nwerden + Adjektiv：变得……，也可用于预测未来状态。\nwerden + Infinitiv\tFutur I，将来时，也可表示推测\tEs wird regnen.",
       "translation": "",
       "updatedAt": "2026-11-06T11:11:18.196Z",
-      "createdAt": "2026-11-06T05:48:30.719Z"
+      "createdAt": "2026-11-06T05:48:30.719Z",
+      "category": ""
     },
     {
       "id": "d2b58da3-f98b-423c-8479-64657b4124d3",
@@ -860,7 +2123,8 @@
       "example": "Diese Treppe hat es wirklich in sich.这段楼梯真的很有挑战性！Die Prüfung hat es in sich. 这场考试可不简单。\n这里的 es 是习语中的固定成分，不指代具体东西。",
       "translation": "",
       "updatedAt": "2026-11-06T05:47:45.014Z",
-      "createdAt": "2026-11-06T05:47:05.274Z"
+      "createdAt": "2026-11-06T05:47:05.274Z",
+      "category": ""
     },
     {
       "id": "99085a4a-6696-44b4-ba1b-1addc9c02bac",
@@ -873,7 +2137,8 @@
       "example": "Mir brennen jetzt schon die Beinmuskeln.我的腿部肌肉现在就已经火辣辣地疼了。English: My leg muscles are already burning.\nMir\tDativ，表示感受到疼痛的人, die Beinmuskeln\tNominativ，主语",
       "translation": "德语允许用 Dativ 表示受到身体感觉影响的人。\n比较：\nMir tut der Kopf weh. 我头疼。\nMir tun die Beine weh. 我腿疼。\nMir brennen die Augen. 我眼睛火辣辣地疼。\nMir ist kalt. 我觉得冷。\n这些句子里的 mir 都表示体验者（Experiencer），但句法结构不完全相同。例如 Mir ist kalt 没有像 die Beine 那样的名词主语。\n你可以理解为：德语不一定用“我”作为主语来描述我的身体感受，而是经常把身体部位作为主语，把感受者放在第三格。",
       "updatedAt": "2026-11-06T11:07:33.841Z",
-      "createdAt": "2026-11-06T05:44:28.928Z"
+      "createdAt": "2026-11-06T05:44:28.928Z",
+      "category": ""
     },
     {
       "id": "695be81f-0169-4c74-b92a-1e59d1527cc7",
@@ -886,7 +2151,8 @@
       "example": "Ganz schön anstrengend.真够累人的！",
       "translation": "",
       "updatedAt": "2026-11-06T05:40:36.517Z",
-      "createdAt": "2026-11-06T05:40:36.517Z"
+      "createdAt": "2026-11-06T05:40:36.517Z",
+      "category": ""
     },
     {
       "id": "8e682253-6860-4c1b-9e95-c74e8c677494",
@@ -899,7 +2165,8 @@
       "example": "ch habe jetzt meine zweite Runde geschafft.我现在已经完成第二轮了。",
       "translation": "",
       "updatedAt": "2026-11-06T05:38:54.646Z",
-      "createdAt": "2026-11-06T05:38:54.646Z"
+      "createdAt": "2026-11-06T05:38:54.646Z",
+      "category": ""
     },
     {
       "id": "2809b3cf-492c-4ce7-a29b-b354204efa49",
@@ -912,7 +2179,8 @@
       "example": "",
       "translation": "",
       "updatedAt": "2026-11-04T10:43:44.206Z",
-      "createdAt": "2026-11-04T10:43:31.537Z"
+      "createdAt": "2026-11-04T10:43:31.537Z",
+      "category": ""
     },
     {
       "id": "12ab6fed-ace8-402a-b62d-e8a0225b7b23",
@@ -925,7 +2193,8 @@
       "example": "- wach：awake / alert，醒着的、警觉的、有神的。\n- aufwachen：to wake up，醒来（动词）。\n- wecken：to wake someone up，叫醒某人（动词）。",
       "translation": "例如：Ich bin wach. I'm awake. 我醒着。\nIch wache um sieben Uhr auf. I wake up at seven. 我七点醒来。\nIch wecke meinen Sohn. I wake up my son. 我叫醒儿子。\n教材中：\nmit dunklen, wachen Augen 有着深色而有神的眼睛。 这里 wach 不是说“眼睛醒着”，而是形容目光敏锐、精神、有神。\nwachen 是形容词 wach 的词尾变化，不是动词形式。\n不过德语也确实有动词 wachen，表示守夜、守护、保持警戒，例如 über jdn. wachen（守护某人）。只是教材这句里的 wachen 是形容词。",
       "updatedAt": "2026-11-04T10:39:47.530Z",
-      "createdAt": "2026-11-04T10:39:47.530Z"
+      "createdAt": "2026-11-04T10:39:47.530Z",
+      "category": ""
     },
     {
       "id": "b4c52cf8-5e93-42c7-b6a2-9aa61c25f459",
@@ -938,7 +2207,8 @@
       "example": "Unser Reporter Konstantin Randall hat ihn begleitet und mit einer Expertin für Leistungssport über die Risiken des Treppenmarathons gesprochen. 中文： 我们的记者 Konstantin Randall 跟随采访了他，并与一位竞技体育专家讨论了这项楼梯马拉松的风险。English: Our reporter Konstantin Randall accompanied him and spoke with an expert in competitive sports about the risks of the stair marathon.",
       "translation": "① jdn. (Akk.) begleiten：陪同某人。\nIch begleite meinen Sohn zur Schule. I accompany my son to school 我陪儿子去学校。\n原句 ihn 是 Akkusativ，指 Jan Peters。\n② mit jdm. (Dat.) über etw. (Akk.) sprechen：与某人讨论某事。\nfür Leistungssport 修饰 Expertin，说明她是哪个领域的专家。\ndes Treppenmarathons 是 Genitiv，修饰 die Risiken。",
       "updatedAt": "2026-11-04T10:42:12.604Z",
-      "createdAt": "2026-11-04T10:10:34.685Z"
+      "createdAt": "2026-11-04T10:10:34.685Z",
+      "category": ""
     },
     {
       "id": "6d20366a-13f4-4bec-a457-ef3e0c8eed9e",
@@ -951,7 +2221,8 @@
       "example": "Jetzt hat er zum ersten Mal am Treppenmarathon teilgenommen. 中文： 现在，他第一次参加了楼梯马拉松比赛。English: He has now taken part in the stair marathon for the first time.\nIch nehme an einem Deutschkurs teil.I take part in a German course. 我参加一个德语课程。\n- am = an dem。\n- zum ersten Mal：第一次。\n- hat teilgenommen：teilnehmen 的 Perfekt。",
       "translation": "",
       "updatedAt": "2026-11-04T10:04:27.965Z",
-      "createdAt": "2026-11-04T10:04:27.965Z"
+      "createdAt": "2026-11-04T10:04:27.965Z",
+      "category": ""
     },
     {
       "id": "26031dbb-b66b-4ad5-a57a-d027e4710323",
@@ -964,7 +2235,8 @@
       "example": "Peters arbeitet seit zehn Jahren bei der Feuerwehr. 中文： Peters 已经在消防部门工作十年了。English: Peters has been working for the fire department for ten years.\n- seit + Dat.：从过去持续到现在。\n- bei der Feuerwehr：在消防部门工作，bei + Dat.。\n德语这里用现在时 arbeitet，而英语通常用现在完成进行时 has been working。",
       "translation": "德语\tEnglish\t中文\ndie Feuerwehr\tfire department\t消防部门\nder Feuerwehrmann\tfirefighter\t男消防员\ndie Feuerwehrfrau\tfirefighter\t女消防员\ndie Feuerwache\tfire station\t消防站\ndas Feuerwehrauto\tfire engine\t消防车",
       "updatedAt": "2026-11-04T10:40:55.329Z",
-      "createdAt": "2026-11-04T09:58:12.438Z"
+      "createdAt": "2026-11-04T09:58:12.438Z",
+      "category": ""
     },
     {
       "id": "20eec606-a664-4708-94f4-10b90975a56b",
@@ -977,7 +2249,8 @@
       "example": "Einer der Teilnehmer ist Jan Peters aus Bielefeld, 33 Jahre alt, ein schlanker, sportlicher Mann mit dunklen, wachen Augen.\n中文： 其中一名参赛者是来自比勒费尔德的 Jan Peters，33岁，是一位身材苗条、体格健壮、眼睛深色而有神的男子。\nEnglish: One of the participants is Jan Peters from Bielefeld, aged 33, a slim, athletic man with dark, alert eyes.",
       "translation": "重点：\n- einer der Teilnehmer：参赛者之一。\n- sportlich：athletic，爱运动的、健壮的。\n- wach：alert，敏锐的、有神的。",
       "updatedAt": "2026-11-04T09:56:30.763Z",
-      "createdAt": "2026-11-04T09:56:30.763Z"
+      "createdAt": "2026-11-04T09:56:30.763Z",
+      "category": ""
     },
     {
       "id": "920036b2-3cbc-40c1-8e5d-20beae37f4b2",
@@ -990,7 +2263,8 @@
       "example": "",
       "translation": "",
       "updatedAt": "2026-11-04T09:52:03.361Z",
-      "createdAt": "2026-11-04T09:52:03.361Z"
+      "createdAt": "2026-11-04T09:52:03.361Z",
+      "category": ""
     },
     {
       "id": "dabf8734-9c3a-466f-9e82-0b465dd44a51",
@@ -1003,7 +2277,8 @@
       "example": "",
       "translation": "",
       "updatedAt": "2026-11-04T09:51:48.987Z",
-      "createdAt": "2026-11-04T09:51:48.987Z"
+      "createdAt": "2026-11-04T09:51:48.987Z",
+      "category": ""
     },
     {
       "id": "2db6e83e-9069-4add-9f5f-ae232f0deef2",
@@ -1016,7 +2291,8 @@
       "example": "Dabei überwinden sie zusammengerechnet die Höhe des Mount Everest, 8848 Meter, und laufen eine Strecke von 84,4 Kilometern – doppelt so viel wie bei einem gewöhnlichen Marathon.中文：在这个过程中，他们累计克服的高度差相当于珠穆朗玛峰的高度，即8848米，并且跑完84.4公里的路程——是普通马拉松距离的两倍。English:In doing so, they cover a total elevation gain equal to the height of Mount Everest—8,848 meters—and run a distance of 84.4 kilometers, twice as much as in a regular marathon.\nzusammengerechnet 副词性成分,修饰 überwinden 的数量计算方式, 这里是过去分词作副词性成分：zusammengerechnet = in total / added together 意思是把每次上下楼梯中的上升高度累计起来。\nZusammengerechnet haben wir 200 Franken ausgegeben. Altogether, we spent 200 francs. 我们加起来花了200瑞郎。\n这里的 von 84,4 Kilometern 不是 laufen 的固定介词配价。它修饰名词 Strecke，说明这段路程有多长。对比：\nSie laufen 84,4 Kilometer. 他们跑84.4公里。\nSie laufen eine Strecke von 84,4 Kilometern. 他们跑完一段84.4公里的路程。\n第二句只是多了名词 Strecke。\n第五步：最后的比较结构\ndoppelt so viel wie bei einem gewöhnlichen Marathon 中文：是普通马拉松的两倍。English: twice as much as in a regular marathon.\ndoppelt so ... wie = 是……的两倍。\nDiese Strecke ist doppelt so lang wie die andere. This route is twice as long as the other one. 这条路线是另一条的两倍长。\n注意：von 84,4 Kilometern 是 von + Dativ Plural。",
       "translation": "dabei：while doing so / in the process，在这个过程中。überwinden + Akk.：克服、跨越、攀越。die Höhe：高度。\ndie Strecke, -n：距离、路程。gewöhnlich：ordinary / usual，普通的。\nüberwinden 本身有“越过、跨越、克服”的意思，既可以表示物理上的跨越，也可以表示抽象困难的克服。\nA. 物理意义：跨越某个障碍或高度差\nDie Sportler überwinden eine Höhe von 1000 Metern. The athletes overcome an elevation difference of 1,000 meters. 运动员累计克服了1000米的高度差。\n这里的 überwinden 强调完成了跨越高度差的任务，不限定具体是跑、走还是爬。\nWir müssen einen Fluss überwinden. We have to cross a river. 我们必须越过一条河。",
       "updatedAt": "2026-11-04T10:49:29.154Z",
-      "createdAt": "2026-11-04T09:51:28.400Z"
+      "createdAt": "2026-11-04T09:51:28.400Z",
+      "category": ""
     },
     {
       "id": "058a3954-9c58-458b-b1ae-7b70eb8e2d5f",
@@ -1029,7 +2305,8 @@
       "example": "Die Teilnehmer müssen binnen 24 Stunden die „Spitzhaustreppe“ einhundertmal hinauf- und hinunterlaufen.中文： 参赛者必须在24小时内上下攀跑“Spitzhaustreppe”阶梯一百次。English: Participants must run up and down the Spitzhaus staircase one hundred times within 24 hours.\nhinauf- und hinunterlaufen 是一种省略式并列：\n完整是：hinauflaufen und hinunterlaufen 向上跑和向下跑。\nlaufen 德语中表示移动的动词，可以直接搭配 Akkusativ 表示经过的路线或走过的距离。但需要区分两种情况。\nA. 表示走过的距离\nIch laufe fünf Kilometer. I run five kilometers. 我跑五公里。\nfünf Kilometer 是表示距离的 Akkusativ，不是典型的直接宾语。\nB. 表示经过的路线\nIch laufe die Treppe hinauf. I run up the stairs. 我沿着楼梯向上跑。\ndie Treppe 是 Akkusativ，表示移动经过的路径。\n再比如：Wir laufen den ganzen Weg zu Fuß. We walk the entire way. 我们全程步行。\n这里 den ganzen Weg 也是 Akkusativ，表示经过的路线。\n所以教材中的：die Spitzhaustreppe einhundertmal hinauf- und hinunterlaufen\n可以拆成：- die Spitzhaustreppe：Akkusativ，经过的路线。",
       "translation": "德语\tEnglish\t中文\nder Teilnehmer, -\tparticipant\t参与者、参赛者\nbinnen 24 Stunden\twithin 24 hours\t24小时之内\neinhundertmal\tone hundred times\t一百次\nhinauflaufen\trun up\t向上跑\nhinunterlaufen\trun down\t向下跑",
       "updatedAt": "2026-11-04T10:22:30.169Z",
-      "createdAt": "2026-11-04T09:40:42.353Z"
+      "createdAt": "2026-11-04T09:40:42.353Z",
+      "category": ""
     },
     {
       "id": "8fda802a-3cf0-427b-bbd1-8c89add8114c",
@@ -1042,7 +2319,8 @@
       "example": "Zürich ist eine der teuersten Städte der Welt. Zurich is one of the most expensive cities in the world. 苏黎世是世界上最昂贵的城市之一。\nEr gilt als einer der härtesten Doppelmarathons der Welt: der Sächsische Mount Everest Treppenmarathon (METM) in Radebeul bei Dresden. 中文： 它被认为是世界上最艰难的双倍马拉松之一：位于德累斯顿附近拉德博伊尔的萨克森州珠穆朗玛峰楼梯马拉松。\nEnglish: It is considered one of the toughest double marathons in the world: the Saxon Mount Everest Stair Marathon in Radebeul near Dresden.\n重点结构： Er gilt als Experte. He is regarded as an expert. 他被认为是专家。\neiner der härtesten Doppelmarathons der Welt：\n- einer：其中一个。\n- der härtesten Doppelmarathons：最艰难的双倍马拉松中的（复数第二格）。\n- der Welt：世界的（第二格）",
       "translation": "- als etw. gelten：通常是 Nominativ，与主语对应。\n- jdn. als etw. ansehen：通常是 Akkusativ，与宾语对应。\nEr gilt als ein guter Lehrer. He is regarded as a good teacher. 他被认为是一位好老师。\nIch sehe ihn als einen guten Lehrer. 我认为他是一位好老师。I see him as a good teacher.",
       "updatedAt": "2026-11-04T10:14:17.286Z",
-      "createdAt": "2026-11-04T09:37:57.158Z"
+      "createdAt": "2026-11-04T09:37:57.158Z",
+      "category": ""
     },
     {
       "id": "99a3408a-f929-49d3-8393-ab7e3643920c",
@@ -1055,7 +2333,8 @@
       "example": "Warum heißt die Veranstaltung Mount Everest Treppenmarathon?中文：为什么这项活动叫作“珠穆朗玛峰楼梯马拉松”？\nEnglish: Why is the event called the Mount Everest Stair Marathon?",
       "translation": "",
       "updatedAt": "2026-11-04T09:24:03.013Z",
-      "createdAt": "2026-11-04T09:24:03.013Z"
+      "createdAt": "2026-11-04T09:24:03.013Z",
+      "category": ""
     },
     {
       "id": "38e39f17-97e1-48f6-bbda-44d0e7c3ac5c",
@@ -1068,7 +2347,8 @@
       "example": "",
       "translation": "",
       "updatedAt": "2026-11-04T09:22:39.944Z",
-      "createdAt": "2026-11-04T09:19:42.115Z"
+      "createdAt": "2026-11-04T09:19:42.115Z",
+      "category": ""
     },
     {
       "id": "0e46ba86-4b1b-45e6-bebd-0805e8a05a6a",
@@ -1081,7 +2361,8 @@
       "example": "Für einen schnelleren Fettabbau bewege ich mich regelmäßig und achte auf meine Ernährung.为了更快减脂，我规律运动并注意饮食。",
       "translation": "",
       "updatedAt": "2026-11-02T17:18:35.979Z",
-      "createdAt": "2026-11-02T17:18:35.979Z"
+      "createdAt": "2026-11-02T17:18:35.979Z",
+      "category": ""
     },
     {
       "id": "a8ccec53-bc7c-429f-aa41-c16fcb221725",
@@ -1094,7 +2375,8 @@
       "example": "Zur Verbesserung meiner Ausdauer nehme ich die Treppe statt des Aufzugs.为了改善耐力，我走楼梯而不是乘电梯。\nstatt + Genitiv（第二格） 是标准德语用法。statt / anstatt = instead of（代替、而不是）。但口语中也经常用 Dativ\nIch nehme die Treppe statt dem Aufzug. 口语中可以听到这种说法，尤其在瑞士和德国南部。\n不过在标准书面德语、B1/B2 考试中，建议使用 Genitiv。",
       "translation": "",
       "updatedAt": "2026-11-02T17:20:22.852Z",
-      "createdAt": "2026-11-02T17:16:23.986Z"
+      "createdAt": "2026-11-02T17:16:23.986Z",
+      "category": ""
     },
     {
       "id": "9f3293bc-88f5-4ad7-9148-1c7601d9a212",
@@ -1107,7 +2389,8 @@
       "example": "Sie wollen Ihren Kreislauf aktivieren? Fahren Sie dazu mit dem Fahrrad zur Arbeit. 中文：您想促进血液循环吗？那就骑车上班吧。",
       "translation": "",
       "updatedAt": "2026-11-02T17:15:09.066Z",
-      "createdAt": "2026-11-02T17:15:09.066Z"
+      "createdAt": "2026-11-02T17:15:09.066Z",
+      "category": ""
     },
     {
       "id": "4b91414c-a78d-4ee3-93c0-2cef03716734",
@@ -1120,7 +2403,8 @@
       "example": "Machen Sie gleich am Morgen zur Stärkung Ihrer Muskeln ein paar Yoga-Übungen.中文：早晨一起来就做几个瑜伽动作，增强肌肉。",
       "translation": "",
       "updatedAt": "2026-11-02T17:13:58.929Z",
-      "createdAt": "2026-11-02T17:12:56.396Z"
+      "createdAt": "2026-11-02T17:12:56.396Z",
+      "category": ""
     },
     {
       "id": "a42feab6-96a2-4735-93e2-fb88c742a571",
@@ -1133,7 +2417,8 @@
       "example": "Arbeiten Sie zu viert. Wie bringt man mehr Bewegung in den Alltag? Machen Sie Notizen.中文：第一步：四人一组。怎样才能在日常生活中增加运动量？请做笔记。",
       "translation": "",
       "updatedAt": "2026-11-02T17:02:11.862Z",
-      "createdAt": "2026-11-02T17:02:11.862Z"
+      "createdAt": "2026-11-02T17:02:11.862Z",
+      "category": ""
     },
     {
       "id": "8c86e060-6a8c-4735-a7c5-c3f77b79d856",
@@ -1146,7 +2431,8 @@
       "example": "",
       "translation": "",
       "updatedAt": "2026-11-02T17:00:31.643Z",
-      "createdAt": "2026-11-02T17:00:31.643Z"
+      "createdAt": "2026-11-02T17:00:31.643Z",
+      "category": ""
     },
     {
       "id": "e2d56c5b-3504-4f52-86c9-8d116f182df8",
@@ -1159,7 +2445,8 @@
       "example": "Erstellen Sie eine Infografik zum Thema „Mehr Bewegung im Alltag“.中文：请制作一张主题为“日常生活中增加运动量”的信息图。\nEnglish: Create an infographic on the topic “More physical activity in everyday life.”",
       "translation": "",
       "updatedAt": "2026-11-02T17:00:06.795Z",
-      "createdAt": "2026-11-02T17:00:06.796Z"
+      "createdAt": "2026-11-02T17:00:06.796Z",
+      "category": ""
     },
     {
       "id": "c8546e48-f5e6-4574-a593-abc6e1923b33",
@@ -1172,7 +2459,8 @@
       "example": "Ich entferne den Fleck. I remove the stain. 我去除污渍。",
       "translation": "",
       "updatedAt": "2026-10-29T11:15:18.408Z",
-      "createdAt": "2026-10-29T11:15:11.454Z"
+      "createdAt": "2026-10-29T11:15:11.454Z",
+      "category": ""
     },
     {
       "id": "989fc43b-b3b3-4c0f-ae5f-7ab739101c14",
@@ -1185,7 +2473,8 @@
       "example": "- Du musst dazu nur die Laufschuhe anziehen. → dazu：为了完成刚才说的“去跑步”这件事，需要做哪些准备。\n- Dafür müssen Sie nicht extra ins Fitnessstudio gehen. → dafür：为了实现“战胜惰性”这个目标，不必专门去健身房。",
       "translation": "dazu= da + zu\n与前面那件事相联系、为完成它需要的步骤，或者另外加上。English: related to that / for that / in addition.\ndafür= da + für\n为了那个目的、支持那件事、作为交换或代价。 English: for that / in favor of that / in return.\n\n\n\n看你教材中的两句话",
       "updatedAt": "2026-10-29T11:17:17.832Z",
-      "createdAt": "2026-10-29T10:58:00.909Z"
+      "createdAt": "2026-10-29T10:58:00.909Z",
+      "category": ""
     },
     {
       "id": "fb15425b-89f3-4b86-88a9-0b08a180462d",
@@ -1198,7 +2487,8 @@
       "example": "Benutzen Sie zur Stärkung der Beinmuskulatur lieber die Treppe.中文：为了增强腿部肌肉，最好选择走楼梯。English: To strengthen your leg muscles, use the stairs instead.\n- benutzen + Akk.：使用。\n- zur Stärkung = zu der Stärkung：为了增强。\n- der Beinmuskulatur：Genitiv，说明增强什么。\n- lieber：宁愿、更倾向于。",
       "translation": "",
       "updatedAt": "2026-10-29T10:56:18.452Z",
-      "createdAt": "2026-10-29T10:56:18.452Z"
+      "createdAt": "2026-10-29T10:56:18.452Z",
+      "category": ""
     },
     {
       "id": "d1822c85-90a9-47e4-80a2-6885be332ddf",
@@ -1211,7 +2501,8 @@
       "example": "Vermeiden Sie Rolltreppen und Aufzüge.中文：尽量避免乘自动扶梯和电梯。English: Avoid escalators and elevators.\n- die Rolltreppe：自动扶梯。\n- der Aufzug：电梯",
       "translation": "",
       "updatedAt": "2026-10-29T10:55:14.250Z",
-      "createdAt": "2026-10-29T10:55:14.250Z"
+      "createdAt": "2026-10-29T10:55:14.250Z",
+      "category": ""
     },
     {
       "id": "d9d7c76b-2a57-4c76-ad81-a9cd93953b54",
@@ -1224,7 +2515,8 @@
       "example": "Steigen Sie zum Beispiel zwei Stationen früher aus dem Bus aus oder parken Sie Ihr Auto etwas weiter von Ihrem Ziel entfernt.\n中文：比如提前两站下公交车，或者把车停在离目的地稍远的地方。English: For example, get off the bus two stops earlier or park your car a little farther away from your destination.\nparken + Akk.：停放某物。\naus etw. (Dat.) aussteigen：从交通工具上下车。\nvon Ihrem Ziel entfernt：距离目的地……远。",
       "translation": "Das Hotel ist zwei Kilometer vom Bahnhof entfernt. The hotel is two kilometers away from the train station.酒店距离火车站两公里。\nMeine Wohnung ist nicht weit von der Universität entfernt. My apartment isn't far from the university.我的公寓离大学不远。\n比较级：\n- weit entfernt：距离远。\n- weiter entfernt：距离更远。\n德语可以直接用 Akkusativ 表示距离、长度或持续时间，不一定需要介词。\n例如：Ich laufe fünf Kilometer. 我跑五公里。（距离第四格）\nIch schlafe acht Stunden. 我睡八小时。（时间第四格）\nDie Schule ist drei Kilometer entfernt. 学校距离这里三公里。（距离第四格）\n这和你之前问的 Ich zocke ganze Nächte 是类似的语法现象。",
       "updatedAt": "2026-11-01T13:49:07.296Z",
-      "createdAt": "2026-10-29T10:53:19.389Z"
+      "createdAt": "2026-10-29T10:53:19.389Z",
+      "category": ""
     },
     {
       "id": "0eab8aeb-bd85-4403-8cff-0564c87d57e6",
@@ -1237,7 +2529,8 @@
       "example": "Gehen Sie häufiger zu Fuß.中文：多步行。English: Walk more often.\n- häufig → häufiger：经常 → 更经常。",
       "translation": "",
       "updatedAt": "2026-10-29T10:50:42.193Z",
-      "createdAt": "2026-10-29T10:50:20.987Z"
+      "createdAt": "2026-10-29T10:50:20.987Z",
+      "category": ""
     },
     {
       "id": "748b3709-e1c1-4a40-8356-f0ccaacd6408",
@@ -1250,7 +2543,8 @@
       "example": "",
       "translation": "",
       "updatedAt": "2026-10-29T10:27:53.737Z",
-      "createdAt": "2026-10-29T10:27:53.737Z"
+      "createdAt": "2026-10-29T10:27:53.737Z",
+      "category": ""
     },
     {
       "id": "74380cff-3dd9-4bbc-83a1-78c427fee5cc",
@@ -1263,7 +2557,8 @@
       "example": "",
       "translation": "",
       "updatedAt": "2026-10-29T10:27:27.633Z",
-      "createdAt": "2026-10-29T10:27:27.633Z"
+      "createdAt": "2026-10-29T10:27:27.633Z",
+      "category": ""
     },
     {
       "id": "273293ae-9399-4947-b8e4-d6757cc706e0",
@@ -1276,7 +2571,8 @@
       "example": "Für eine bessere Kondition und Muskulatur können Sie ein paar Übungen in den Alltag integrieren.中文：为了改善体能和肌肉状况，您可以把一些锻炼融入日常生活。English: To improve your fitness and muscles, you can integrate a few exercises into your daily routine.\nin den Alltag：in + Akk.，表示融入的目标。",
       "translation": "",
       "updatedAt": "2026-10-29T10:27:00.348Z",
-      "createdAt": "2026-10-29T10:26:29.007Z"
+      "createdAt": "2026-10-29T10:26:29.007Z",
+      "category": ""
     },
     {
       "id": "26f64358-4be5-4f02-95bf-58e668049128",
@@ -1289,7 +2585,8 @@
       "example": "",
       "translation": "",
       "updatedAt": "2026-10-29T10:25:01.059Z",
-      "createdAt": "2026-10-29T10:25:01.059Z"
+      "createdAt": "2026-10-29T10:25:01.059Z",
+      "category": ""
     },
     {
       "id": "1c5e74ec-b111-4b18-b54c-81a8f6d4ffe6",
@@ -1302,7 +2599,8 @@
       "example": "Dafür müssen Sie aber nicht extra ins Fitnessstudio oder in den Park gehen.中文：但为了战胜惰性，您并不需要专门去健身房或公园。\nEnglish: But you don't have to make a special trip to the gym or the park to do that.",
       "translation": "",
       "updatedAt": "2026-10-29T10:24:43.940Z",
-      "createdAt": "2026-10-29T10:24:43.940Z"
+      "createdAt": "2026-10-29T10:24:43.940Z",
+      "category": ""
     },
     {
       "id": "3bd0cc0b-b4b2-47cc-a988-b3abaf1bfa86",
@@ -1315,7 +2613,8 @@
       "example": "Sie können ihn einfach besiegen.中文：您完全可以轻松战胜它。English: You can simply defeat it.\n- ihn：Akkusativ，指 der innere Schweinehund。",
       "translation": "",
       "updatedAt": "2026-10-29T10:23:38.765Z",
-      "createdAt": "2026-10-29T10:23:38.765Z"
+      "createdAt": "2026-10-29T10:23:38.765Z",
+      "category": ""
     },
     {
       "id": "ffd6cbd7-8f01-4755-abc9-c09514f6f10d",
@@ -1328,7 +2627,8 @@
       "example": "Kämpfen Sie nicht mehr gegen Ihren inneren Schweinehund.中文：不要再和自己内心的惰性作斗争了。English: Stop fighting your inner resistance.",
       "translation": "",
       "updatedAt": "2026-10-29T10:22:49.619Z",
-      "createdAt": "2026-10-29T10:22:49.619Z"
+      "createdAt": "2026-10-29T10:22:49.619Z",
+      "category": ""
     },
     {
       "id": "d5f67d55-db86-4d27-bab9-fc835ec92713",
@@ -1341,7 +2641,8 @@
       "example": "",
       "translation": "",
       "updatedAt": "2026-10-29T10:20:32.131Z",
-      "createdAt": "2026-10-29T10:19:18.844Z"
+      "createdAt": "2026-10-29T10:19:18.844Z",
+      "category": ""
     },
     {
       "id": "e9db8bf9-e5fb-46a9-872c-da6bf3f6edc8",
@@ -1354,7 +2655,8 @@
       "example": "Sie denken kurz nach und setzen sich schließlich auf die Couch – mit einem schlechten Gewissen.中文：您稍微想了想，最终还是坐到了沙发上——心里却有点愧疚。English: You think about it briefly and eventually sit down on the couch—with a guilty conscience.",
       "translation": "",
       "updatedAt": "2026-10-29T10:19:05.491Z",
-      "createdAt": "2026-10-29T10:19:05.491Z"
+      "createdAt": "2026-10-29T10:19:05.491Z",
+      "category": ""
     },
     {
       "id": "c8d3be2c-8246-4fa1-a97f-464192f2df5f",
@@ -1367,7 +2669,8 @@
       "example": "Setz dich auf die Couch und entspann dich.中文：“坐到沙发上，放松一下吧。”English: “Sit down on the couch and relax.”\n- sich setzen：坐下，反身代词 Akk.。- auf die Couch：auf + Akk.，表示坐到沙发上。\nIch entspanne mich. I relax. 我放松一下。\nDu entspannst dich. You relax. 你放松一下。\nEntspann dich! Relax! 放松！\n所以这里的 sich 不是可有可无的。\n不过 entspannen 也可以不带 sich，用于放松某个对象：\nMusik entspannt mich. Music relaxes me. 音乐让我放松。\n对比：\n- Ich entspanne mich. 我放松自己。\n- Die Musik entspannt mich. 音乐让我放松。",
       "translation": "",
       "updatedAt": "2026-10-29T11:04:16.293Z",
-      "createdAt": "2026-10-29T10:16:44.982Z"
+      "createdAt": "2026-10-29T10:16:44.982Z",
+      "category": ""
     },
     {
       "id": "75728456-04ec-4963-8752-2a7f1082bd8f",
@@ -1380,7 +2683,8 @@
       "example": "",
       "translation": "",
       "updatedAt": "2026-10-29T10:14:16.548Z",
-      "createdAt": "2026-10-29T10:13:29.131Z"
+      "createdAt": "2026-10-29T10:13:29.131Z",
+      "category": ""
     },
     {
       "id": "488d6427-0922-4f24-9a3e-7f527f052220",
@@ -1393,7 +2697,8 @@
       "example": "Gleich kommt die nächste Folge deiner Lieblingsserie.中文：“你最喜欢的电视剧马上就要播下一集了。”English: “The next episode of your favorite series is coming on soon.”\n- gleich：马上。",
       "translation": "",
       "updatedAt": "2026-10-29T10:13:14.006Z",
-      "createdAt": "2026-10-29T10:13:14.006Z"
+      "createdAt": "2026-10-29T10:13:14.006Z",
+      "category": ""
     },
     {
       "id": "3c8ee1b7-3b29-4e94-bda0-1ec6abb2961f",
@@ -1406,7 +2711,8 @@
       "example": "Aber sofort meldet sich Ihr innerer Schweinehund:中文：但是您的内心惰性马上又冒出来了：English: But your inner resistance immediately makes itself heard.\n- sich melden：出现、发声、主动表示存在。",
       "translation": "",
       "updatedAt": "2026-10-29T10:09:20.079Z",
-      "createdAt": "2026-10-29T10:09:20.079Z"
+      "createdAt": "2026-10-29T10:09:20.079Z",
+      "category": ""
     },
     {
       "id": "dbf26184-16fe-448a-b16c-5c344c316f3d",
@@ -1419,7 +2725,8 @@
       "example": "..., sagt eine Stimme in Ihnen. 中文：您内心有一个声音这样说道。 English: ... says a voice inside you.",
       "translation": "",
       "updatedAt": "2026-10-29T10:06:25.525Z",
-      "createdAt": "2026-10-29T10:06:25.525Z"
+      "createdAt": "2026-10-29T10:06:25.525Z",
+      "category": ""
     },
     {
       "id": "556e630a-f2da-4a20-a01e-0ac283782943",
@@ -1432,7 +2739,8 @@
       "example": "Du musst dazu nur die Laufschuhe anziehen, die passende Musik finden und loslegen.中文：为此，你只需要穿上跑鞋、找到合适的音乐，然后开始行动。English: All you need to do is put on your running shoes, find the right music, and get started.\n这里的 dazu 正好对应我们刚才讨论的用法。dazu = for that / to do that，为了做刚才提到的事情（去跑步）。它不是 anziehen 的固定配价",
       "translation": "",
       "updatedAt": "2026-10-29T10:05:20.632Z",
-      "createdAt": "2026-10-29T10:05:20.632Z"
+      "createdAt": "2026-10-29T10:05:20.632Z",
+      "category": ""
     },
     {
       "id": "872a2ff6-2ac2-47ad-b198-ddc3b5fd5faf",
@@ -1445,7 +2753,8 @@
       "example": "„Jetzt aber mal los! Geh doch auch eine Runde joggen!“中文：“好了，现在该行动了！你也去跑上一圈吧！”English: “Come on, get going! Go for a jog!” - Jetzt aber mal los!：口语，表示“现在赶紧行动吧！” - eine Runde joggen gehen：去慢跑一圈。\neine Runde 本身是名词短语，意思是“一圈、一轮”。\nIch jogge eine Runde.我慢跑一圈。\nIch gehe eine Runde joggen.我去慢跑一圈。\neine Runde 是表示活动范围或数量的 Akkusativ 短语，不是 gehen 的普通直接宾语。",
       "translation": "",
       "updatedAt": "2026-10-29T10:59:52.280Z",
-      "createdAt": "2026-10-29T10:02:34.297Z"
+      "createdAt": "2026-10-29T10:02:34.297Z",
+      "category": ""
     },
     {
       "id": "2102bb2a-dc09-461a-ae85-12d5e5f5ae24",
@@ -1458,7 +2767,8 @@
       "example": "Plötzlich erinnern Sie sich, dass Sie schon seit vier Wochen nicht mehr im Fitnessstudio gewesen sind.中文：突然，您想起来自己已经四个星期没去健身房了。English: Suddenly, you remember that you haven't been to the gym for four weeks.",
       "translation": "",
       "updatedAt": "2026-10-29T09:59:26.505Z",
-      "createdAt": "2026-10-29T09:59:26.505Z"
+      "createdAt": "2026-10-29T09:59:26.505Z",
+      "category": ""
     },
     {
       "id": "4d1fe5f7-58e5-4ed6-99f4-b194c5a4283c",
@@ -1471,7 +2781,8 @@
       "example": "动词\tEnglish\t中文\nan etw. vorbeigehen\twalk past\t走过\nan etw. vorbeifahren\tdrive past\t开车经过\nan etw. vorbeilaufen\twalk/run past\t走过、跑过\nan etw. vorbeirennen\trun past\t跑过\nan etw. vorbeifliegen\tfly past\t飞过\nan etw. vorbeikommen\tpass by / come by\t经过、顺道过来\n例如：\nIch gehe an der Schule vorbei. I walk past the school. 我从学校旁边走过。\nDer Bus fährt am Bahnhof vorbei. The bus drives past the station. 公交车从火车站旁边经过。\nWir sind am Museum vorbeigelaufen. We walked past the museum. 我们从博物馆旁边走过。",
       "translation": "",
       "updatedAt": "2026-10-29T11:01:40.823Z",
-      "createdAt": "2026-10-29T09:57:19.062Z"
+      "createdAt": "2026-10-29T09:57:19.062Z",
+      "category": ""
     },
     {
       "id": "4d87c835-e1fe-4349-ae50-3d94eda2cb94",
@@ -1484,7 +2795,8 @@
       "example": "",
       "translation": "",
       "updatedAt": "2026-10-29T09:56:54.462Z",
-      "createdAt": "2026-10-29T09:56:54.462Z"
+      "createdAt": "2026-10-29T09:56:54.462Z",
+      "category": ""
     },
     {
       "id": "e188e38f-9321-48db-9080-0ce6d8b30d0f",
@@ -1497,7 +2809,8 @@
       "example": "Es fällt mir auf, dass viele Menschen joggen. 我注意到很多人在慢跑。\nSie fahren auf dem Heimweg am Stadtpark vorbei und es fällt Ihnen auf, wie viele Menschen bei dem schönen Wetter joggen.\n中文：您在回家的路上经过城市公园，注意到天气这么好，有很多人在慢跑。 English: On your way home, you pass the city park and notice how many people are jogging in the nice weather.",
       "translation": "",
       "updatedAt": "2026-10-29T09:56:33.028Z",
-      "createdAt": "2026-10-29T09:56:33.028Z"
+      "createdAt": "2026-10-29T09:56:33.028Z",
+      "category": ""
     },
     {
       "id": "f38bf06c-1963-43cb-a026-7b82badc5be7",
@@ -1510,7 +2823,8 @@
       "example": "Sie machen nach einem langen Arbeitstag im Büro endlich Feierabend.中文：在办公室工作了漫长的一天后，您终于下班了。English: After a long day at the office, you finally finish work.\n- endlich：finally，终于。",
       "translation": "",
       "updatedAt": "2026-10-29T10:56:49.567Z",
-      "createdAt": "2026-10-29T09:53:16.215Z"
+      "createdAt": "2026-10-29T09:53:16.215Z",
+      "category": ""
     },
     {
       "id": "b672aa11-b0a6-4a0a-a054-4ea7ecaf682d",
@@ -1523,7 +2837,8 @@
       "example": "Kennen Sie das auch? 中文：您也有过这样的经历吗？ English: Have you experienced this too?\n- das：Akkusativobjekt，指接下来描述的情况",
       "translation": "",
       "updatedAt": "2026-10-29T09:52:09.256Z",
-      "createdAt": "2026-10-29T09:52:09.256Z"
+      "createdAt": "2026-10-29T09:52:09.256Z",
+      "category": ""
     },
     {
       "id": "b3b4c14f-2abc-4ec5-a20e-cfa301992334",
@@ -1536,7 +2851,8 @@
       "example": "",
       "translation": "",
       "updatedAt": "2026-10-29T09:50:46.626Z",
-      "createdAt": "2026-10-29T09:50:46.626Z"
+      "createdAt": "2026-10-29T09:50:46.626Z",
+      "category": ""
     },
     {
       "id": "e6e51037-e12d-4aca-a157-8193164b1218",
@@ -1549,7 +2865,8 @@
       "example": "",
       "translation": "",
       "updatedAt": "2026-10-27T12:55:45.910Z",
-      "createdAt": "2026-10-27T12:55:45.910Z"
+      "createdAt": "2026-10-27T12:55:45.910Z",
+      "category": ""
     },
     {
       "id": "1f272a07-edae-4019-853e-11f92a8f03fc",
@@ -1562,7 +2879,8 @@
       "example": "Was bedeutet der Ausdruck „gegen den inneren Schweinehund kämpfen“? 中文：表达“与内心的懒惰和惰性作斗争”是什么意思？\nEnglish: What does the expression “to fight your inner resistance” mean?\nder innere Schweinehund 是德国人常说的习语，指内心让你拖延、偷懒、不愿行动的那股阻力。\n例如：Ich muss meinen inneren Schweinehund überwinden und Sport machen. I have to overcome my inner resistance and exercise. 我必须克服自己的惰性，去运动。\n注意两个结构：\ngegen jdn./etw. (Akk.) kämpfen：与某人／某事作斗争。\njdn./etw. (Akk.) überwinden：克服某人／某事。",
       "translation": "",
       "updatedAt": "2026-10-27T12:55:18.438Z",
-      "createdAt": "2026-10-27T12:55:18.438Z"
+      "createdAt": "2026-10-27T12:55:18.438Z",
+      "category": ""
     },
     {
       "id": "e8cebc9f-a178-4f80-a396-34a2519ed13b",
@@ -1575,7 +2893,8 @@
       "example": "Fassen Sie jeden Absatz in einem Stichpunkt zusammen. 中文：请用一个要点概括每个段落。English: Summarize each paragraph in one bullet point.\njeden Absatz：Akkusativobjekt，每个段落。\nder Stichpunkt, -e：要点、条目。",
       "translation": "",
       "updatedAt": "2026-10-27T12:52:25.822Z",
-      "createdAt": "2026-10-27T12:52:25.823Z"
+      "createdAt": "2026-10-27T12:52:25.823Z",
+      "category": ""
     },
     {
       "id": "ce99a4b3-0229-434e-b9ae-d00a75c40a56",
@@ -1588,7 +2907,8 @@
       "example": "Worum geht es in den Absätzen ①–③? 中文：第 1 至第 3 段分别讲了什么？ English: What are paragraphs 1–3 about?\n这里的重点是：es geht um etw. (Akk.) = 内容涉及某事／讨论某事。\n例如： In diesem Artikel geht es um Gesundheit. This article is about health.这篇文章讨论的是健康。\nworum = wo(r) + um，意思是“关于什么”。\nder Absatz, die Absätze：段落。",
       "translation": "",
       "updatedAt": "2026-10-27T12:50:05.330Z",
-      "createdAt": "2026-10-27T12:49:00.688Z"
+      "createdAt": "2026-10-27T12:49:00.688Z",
+      "category": ""
     },
     {
       "id": "9299c413-323d-4858-ae17-79bc7ae03c2d",
@@ -1601,7 +2921,8 @@
       "example": "Lesen Sie den Artikel im Gesundheitsmagazin.中文：请阅读健康杂志中的文章。English: Read the article in the health magazine.",
       "translation": "",
       "updatedAt": "2026-10-27T12:45:45.792Z",
-      "createdAt": "2026-10-27T12:45:45.792Z"
+      "createdAt": "2026-10-27T12:45:45.792Z",
+      "category": ""
     },
     {
       "id": "44154bb7-7344-40eb-a805-caa560db74ed",
@@ -1614,7 +2935,8 @@
       "example": "Das würde ich gern mit einem Freund ausprobieren. 中文：我很想和一个朋友一起试试看。English: I'd like to try that out with a friend.\nIch probiere ein neues Rezept aus. I try out a new recipe. 我尝试一个新食谱。\nein neues Rezept = Akkusativobjekt。\nIch möchte das ausprobieren. I want to try that out.我想试试看。",
       "translation": "",
       "updatedAt": "2026-10-27T13:12:03.902Z",
-      "createdAt": "2026-10-27T12:44:43.777Z"
+      "createdAt": "2026-10-27T12:44:43.777Z",
+      "category": ""
     },
     {
       "id": "23931eca-ecbc-4c2a-869b-05d01b652065",
@@ -1627,7 +2949,8 @@
       "example": "Ich würde sicherlich die Klaviertreppe nehmen – ist doch viel lustiger! 中文：我肯定会选择钢琴楼梯——毕竟那有趣多了！\nEnglish: I'd definitely take the piano stairs—they're much more fun!\n- doch：语气词，这里带有“毕竟、明明”的感觉。",
       "translation": "",
       "updatedAt": "2026-10-27T12:41:56.710Z",
-      "createdAt": "2026-10-27T12:41:56.710Z"
+      "createdAt": "2026-10-27T12:41:56.710Z",
+      "category": ""
     },
     {
       "id": "dd0291fe-e898-4e4c-a32d-188405efa9ed",
@@ -1640,7 +2963,8 @@
       "example": "Begründen Sie. 中文：请说明理由。English: Give reasons for your answer.\nIch muss meine Entscheidung begründen. I have to justify my decision. 我必须说明自己作出这个决定的理由。\nmeine Entscheidung = Akkusativobjekt。\n还可以增加一个介词补足语：\nIch begründe meine Entscheidung mit drei Argumenten. I justify my decision with three arguments. 我用三个理由来解释自己的决定。\n- meine Entscheidung：Akkusativobjekt。\n- mit drei Argumenten：mit + Dativ，说明用什么理由。",
       "translation": "",
       "updatedAt": "2026-10-27T13:13:10.529Z",
-      "createdAt": "2026-10-27T12:40:18.188Z"
+      "createdAt": "2026-10-27T12:40:18.188Z",
+      "category": ""
     },
     {
       "id": "805a8ccb-2ceb-4bba-bd43-9c901de327db",
@@ -1653,7 +2977,8 @@
       "example": "",
       "translation": "",
       "updatedAt": "2026-10-26T17:01:11.803Z",
-      "createdAt": "2026-10-26T17:01:11.803Z"
+      "createdAt": "2026-10-26T17:01:11.803Z",
+      "category": ""
     },
     {
       "id": "1d759d7c-1bb5-4090-884d-919acf78f204",
@@ -1666,7 +2991,8 @@
       "example": "",
       "translation": "",
       "updatedAt": "2026-10-26T17:00:40.038Z",
-      "createdAt": "2026-10-26T16:59:36.779Z"
+      "createdAt": "2026-10-26T16:59:36.779Z",
+      "category": ""
     },
     {
       "id": "c5ef4242-0098-4e30-b76f-e05d5c597806",
@@ -1679,7 +3005,8 @@
       "example": "Fahren Sie normalerweise mit der Rolltreppe oder nehmen Sie die Treppe?\n中文：您平时通常乘自动扶梯，还是走楼梯？\nEnglish: Do you normally take the escalator or use the stairs?",
       "translation": "",
       "updatedAt": "2026-10-26T17:00:05.606Z",
-      "createdAt": "2026-10-26T16:59:01.953Z"
+      "createdAt": "2026-10-26T16:59:01.953Z",
+      "category": ""
     },
     {
       "id": "2cdc3f45-0ff9-439c-9573-9820fed12b14",
@@ -1692,7 +3019,8 @@
       "example": "Je später es ist, desto besser werde ich. 中文： 时间越晚，我的表现反而越好。 English: The later it gets, the better I become.\nJe mehr ich Deutsch übe, desto besser spreche ich. The more I practice German, the better I speak it. 我练习德语越多，说得就越好。\nJe älter mein Sohn wird, desto selbstständiger wird er. The older my son gets, the more independent he becomes.我儿子年龄越大，就越独立。",
       "translation": "",
       "updatedAt": "2026-10-26T15:07:38.005Z",
-      "createdAt": "2026-10-26T15:07:38.005Z"
+      "createdAt": "2026-10-26T15:07:38.005Z",
+      "category": ""
     },
     {
       "id": "e9a959f8-d855-4f35-9256-63ac581fd8e7",
@@ -1705,7 +3033,8 @@
       "example": "Ich zocke manchmal ganze Nächte. 中文： 我有时候会一整夜一整夜地打游戏。English: Sometimes I play video games all night long.\n- ganze Nächte：整夜、连续多个夜晚。\n这里 ganze Nächte 是 Akkusativ der Zeitdauer（表示持续时间的第四格），不是 Akkusativobjekt。\n比较：Ich schlafe acht Stunden. I sleep for eight hours. 我睡八个小时。\nacht Stunden 也是时间长度，不是 schlafen 的直接宾语。",
       "translation": "德语\t中文\t强调\nIch zocke eine ganze Nacht.\t我打一整夜游戏。\t一个完整的夜晚\nIch zocke manchmal die ganze Nacht.\t我有时候打一整夜游戏。\t每次持续一整夜\nIch zocke manchmal ganze Nächte.\t我有时候整夜整夜地打游戏。\t多个夜晚，反复发生\n这里的 ganze Nächte 是一种很自然的德语表达，强调长时间、反复通宵。",
       "updatedAt": "2026-10-26T15:11:50.733Z",
-      "createdAt": "2026-10-26T15:04:36.394Z"
+      "createdAt": "2026-10-26T15:04:36.394Z",
+      "category": ""
     },
     {
       "id": "b8cc28e4-9b8f-4b4f-acec-90b0be9b6398",
@@ -1718,7 +3047,8 @@
       "example": "So, und was ich aber wirklich richtig gut kann, ist zocken.中文： 不过说真的，我真正特别擅长的，是打电子游戏。English: But what I'm really, really good at is gaming.\n先看最简单的核心：Zocken ist etwas, das ich richtig gut kann. 打游戏是我特别擅长的事情。\n原句使用了一个 自由关系从句（freier Relativsatz）： was ich aber wirklich richtig gut kann 我真正特别擅长的事情。\n整个 was ... kann 充当主句的主语。\nwirklich richtig gut：真的特别擅长。",
       "translation": "",
       "updatedAt": "2026-10-26T15:02:44.328Z",
-      "createdAt": "2026-10-26T14:59:48.369Z"
+      "createdAt": "2026-10-26T14:59:48.369Z",
+      "category": ""
     },
     {
       "id": "3ce867c8-15df-4d5e-97b9-626a2fd9740a",
@@ -1731,7 +3061,8 @@
       "example": ". Auf jeden Fall bekomme ich gute Rückmeldungen, wenn ich beruflich etwas präsentiere.中文： 无论如何，每当我在工作中做展示时，我都会收到很好的反馈。English: In any case, I get positive feedback whenever I give a presentation at work.",
       "translation": "",
       "updatedAt": "2026-10-26T14:59:28.800Z",
-      "createdAt": "2026-10-26T14:59:28.800Z"
+      "createdAt": "2026-10-26T14:59:28.800Z",
+      "category": ""
     },
     {
       "id": "8016ea47-bcf8-4882-8d71-e195a12fc3a8",
@@ -1740,11 +3071,12 @@
       "lesson": "7",
       "german": "Fall",
       "chinese": "auf jeden Fall = definitely / in any case，无论如何、肯定。",
-      "english": "",
+      "english": "auf keinen Fall = 绝对不（under no circumstances）",
       "example": "",
       "translation": "",
-      "updatedAt": "2026-10-26T14:58:27.998Z",
-      "createdAt": "2026-10-26T14:58:27.998Z"
+      "updatedAt": "2026-11-10T12:49:04.268Z",
+      "createdAt": "2026-10-26T14:58:27.998Z",
+      "category": ""
     },
     {
       "id": "5ba80dc8-c9a1-42aa-a663-0b78ab718a29",
@@ -1757,7 +3089,8 @@
       "example": "",
       "translation": "",
       "updatedAt": "2026-10-26T14:57:47.591Z",
-      "createdAt": "2026-10-26T14:57:47.591Z"
+      "createdAt": "2026-10-26T14:57:47.591Z",
+      "category": ""
     },
     {
       "id": "4335b45f-9cf7-4122-8194-1c4d4bceceb2",
@@ -1770,7 +3103,8 @@
       "example": "Das ist vielleicht ein besonderes Talent. 中文： 这或许算是一种特别的才能。 English: Maybe that's a special talent.",
       "translation": "",
       "updatedAt": "2026-10-26T14:57:26.549Z",
-      "createdAt": "2026-10-26T14:57:26.549Z"
+      "createdAt": "2026-10-26T14:57:26.549Z",
+      "category": ""
     },
     {
       "id": "9ed0de45-f48d-4a1b-b5be-c039d2fe8991",
@@ -1783,7 +3117,8 @@
       "example": "auf den Punkt bringen 是固定表达。\n这里 auf + Akk.，den Punkt 是 Akkusativ。\nDu bringst es auf den Punkt. You hit the nail on the head. 你说到点子上了。",
       "translation": "",
       "updatedAt": "2026-10-26T14:56:01.858Z",
-      "createdAt": "2026-10-26T14:54:52.082Z"
+      "createdAt": "2026-10-26T14:54:52.082Z",
+      "category": ""
     },
     {
       "id": "22e5ff48-6af6-4907-95b9-b9ffe4789454",
@@ -1796,7 +3131,8 @@
       "example": "etw. auf den Punkt bringen\n= to put something succinctly / get to the point，把事情讲清楚、说到点子上。\nIch kann ganz gut argumentieren und Sachen auf den Punkt bringen.\n中文： 我还挺擅长论证自己的观点，也能把事情说到点子上。\nEnglish: I'm pretty good at making arguments and getting straight to the point.",
       "translation": "",
       "updatedAt": "2026-10-26T14:54:31.363Z",
-      "createdAt": "2026-10-26T14:53:15.055Z"
+      "createdAt": "2026-10-26T14:53:15.055Z",
+      "category": ""
     },
     {
       "id": "de2ce293-166d-4701-9c2d-b7aeba72208b",
@@ -1809,7 +3145,8 @@
       "example": "Ich träume von einem eigenen Haus. I dream of having my own house. 我梦想拥有自己的房子。\nIch wäre vielleicht ein guter Politiker geworden.中文： 说不定我本来能成为一名不错的政治家。English: Maybe I would have become a good politician.\n这句是 Konjunktiv II Vergangenheit（第二虚拟式过去时）。\nManchmal träume ich sogar davon 中文： 我有时候甚至还会幻想这件事。 English: Sometimes I even dream about it.\ndavon 不是独立宾语，而是代副词（Pronominaladverb），代替 von + 某件事。",
       "translation": "",
       "updatedAt": "2026-10-26T14:52:38.638Z",
-      "createdAt": "2026-10-26T14:52:38.638Z"
+      "createdAt": "2026-10-26T14:52:38.638Z",
+      "category": ""
     },
     {
       "id": "fa9a6405-a420-4b07-a711-7d62a2044f2e",
@@ -1822,7 +3159,8 @@
       "example": "Und ich kann Menschen überzeugen.中文： 而且我很会说服别人。English: And I can persuade people.\nIch kann meinen Chef überzeugen. I can convince my boss. 我能够说服我的老板",
       "translation": "jdn. von etw. (Dat.) überzeugen = 使某人相信某事。\nIch überzeuge meinen Chef von meiner Idee. I convince my boss of my idea. 我让老板相信我的想法是好的。",
       "updatedAt": "2026-10-26T14:49:42.299Z",
-      "createdAt": "2026-10-26T14:49:05.597Z"
+      "createdAt": "2026-10-26T14:49:05.597Z",
+      "category": ""
     },
     {
       "id": "476df584-1f52-4629-9138-ab53d3f657cd",
@@ -1835,7 +3173,8 @@
       "example": "Eben genauso, wie ich sie haben wollte 中文： 正好就是我想要的那个样子。 English: Exactly the way I wanted it. eben 在这里是语气词，强调“就是如此、恰好如此”。",
       "translation": "",
       "updatedAt": "2026-10-26T14:47:56.730Z",
-      "createdAt": "2026-10-26T14:47:56.730Z"
+      "createdAt": "2026-10-26T14:47:56.730Z",
+      "category": ""
     },
     {
       "id": "796ebbfa-5e2d-4a89-a2a3-58daf8e2f430",
@@ -1848,7 +3187,8 @@
       "example": "Die sieht richtig klasse aus 中文： 它看起来真的特别棒。English: It looks really fantastic.",
       "translation": "Das hast du klasse gemacht! You did a great job! 你做得太棒了！\n注意区别：\n- klasse（形容词）：很棒的。\n- die Klasse（名词）：班级、等级；复数 die Klassen。",
       "updatedAt": "2026-10-26T15:09:48.554Z",
-      "createdAt": "2026-10-26T14:45:46.358Z"
+      "createdAt": "2026-10-26T14:45:46.358Z",
+      "category": ""
     },
     {
       "id": "d828bd3f-8947-4daa-adf3-c3a37dc814a5",
@@ -1861,7 +3201,8 @@
       "example": "Also meine Küche, die habe ich komplett selbst gebaut 中文： 比如我的厨房，就是我完全自己动手做的。English: My kitchen, for example—I built it entirely myself.\n原句把 meine Küche 提前作为话题，再用 die 接回去：Meine Küche, die habe ich komplett selbst gebaut.\ndie 是指示代词，不是关系代词。\n\n它指代前面的 meine Küche，在后面的主句里充当 Akkusativobjekt。\n这种结构叫 Linksversetzung（左置话题），在口语里很常见。\nMein Auto, das habe ich selbst gekauft. My car—I bought it myself. 我的车，是我自己买的。",
       "translation": "",
       "updatedAt": "2026-10-26T14:44:07.000Z",
-      "createdAt": "2026-10-26T14:44:07.001Z"
+      "createdAt": "2026-10-26T14:44:07.001Z",
+      "category": ""
     },
     {
       "id": "21c9e43c-b05b-40e3-a8bf-802ac4610b86",
@@ -1874,7 +3215,8 @@
       "example": "Dann vergesse ich die Zeit und alles um mich herum.中文： 那个时候，我会忘记时间，也忘记周围的一切。English: Then I lose track of time and forget everything around me.",
       "translation": "",
       "updatedAt": "2026-10-26T14:41:41.004Z",
-      "createdAt": "2026-10-26T14:41:41.004Z"
+      "createdAt": "2026-10-26T14:41:41.004Z",
+      "category": ""
     },
     {
       "id": "186248b0-9359-4210-ac47-b5797aa79675",
@@ -1887,7 +3229,8 @@
       "example": "Das ist toll. 这真的很棒。That's great.",
       "translation": "",
       "updatedAt": "2026-10-26T14:40:25.468Z",
-      "createdAt": "2026-10-26T14:40:25.468Z"
+      "createdAt": "2026-10-26T14:40:25.468Z",
+      "category": ""
     },
     {
       "id": "73169401-f346-4111-bd92-e27322a90bab",
@@ -1900,7 +3243,8 @@
       "example": "",
       "translation": "",
       "updatedAt": "2026-10-26T14:39:39.896Z",
-      "createdAt": "2026-10-26T14:39:39.896Z"
+      "createdAt": "2026-10-26T14:39:39.896Z",
+      "category": ""
     },
     {
       "id": "e037354b-3bb2-4b9a-8cd9-f25c9cc52687",
@@ -1913,7 +3257,8 @@
       "example": "Es macht mir jedenfalls wahnsinnig viel Spaß, Möbel zu bauen. 不管怎么说，自己制作家具真的让我特别开心。Anyway, I really enjoy building furniture.",
       "translation": "",
       "updatedAt": "2026-10-26T14:39:11.115Z",
-      "createdAt": "2026-10-26T14:37:26.098Z"
+      "createdAt": "2026-10-26T14:37:26.098Z",
+      "category": ""
     },
     {
       "id": "87204262-df17-4540-ac6f-5e3abc64e372",
@@ -1926,7 +3271,8 @@
       "example": "Menschen vertrauen mir leicht. 人们很容易信任我。People trust me easily.\nIch vertraue dir. I trust you. 我信任你。\nMeine Kollegen vertrauen mir.My colleagues trust me. 我的同事信任我。\nleicht 在这里是 easily（容易地），不是“轻的”。",
       "translation": "",
       "updatedAt": "2026-10-26T14:29:50.818Z",
-      "createdAt": "2026-10-26T14:29:06.333Z"
+      "createdAt": "2026-10-26T14:29:06.333Z",
+      "category": ""
     },
     {
       "id": "39244395-a2fa-46f5-abe3-5f3388b3fcf7",
@@ -1939,7 +3285,8 @@
       "example": "Vielleicht weil ich die richtigen Fragen stelle. : Maybe because I ask the right questions.",
       "translation": "",
       "updatedAt": "2026-10-26T14:27:09.341Z",
-      "createdAt": "2026-10-26T14:27:09.341Z"
+      "createdAt": "2026-10-26T14:27:09.341Z",
+      "category": ""
     },
     {
       "id": "4c18c899-9db5-4811-a587-9793e1faef41",
@@ -1952,7 +3299,8 @@
       "example": "Ich bringe Menschen zum Reden. 我能让人们愿意开口说话。 : I get people talking.\nIch bringe meinen Sohn zum Lachen. I make my son laugh.",
       "translation": "",
       "updatedAt": "2026-10-26T14:25:46.904Z",
-      "createdAt": "2026-10-26T14:25:46.905Z"
+      "createdAt": "2026-10-26T14:25:46.905Z",
+      "category": ""
     },
     {
       "id": "a890a220-dff7-42ac-a26c-40258b2258b9",
@@ -1965,7 +3313,8 @@
       "example": "Weil ich gut zuhören kann, glaube ich.  我想，大概是因为我很善于倾听。 Because I'm a good listener, I think.\nIch höre meinem Sohn zu. I listen to my son. 我认真听儿子说话。\nich kann gut zuhören 没有明确说听谁讲话，强调的是倾听能力。",
       "translation": "",
       "updatedAt": "2026-10-26T14:24:03.738Z",
-      "createdAt": "2026-10-26T14:24:03.738Z"
+      "createdAt": "2026-10-26T14:24:03.738Z",
+      "category": ""
     },
     {
       "id": "0f71d2c6-ca81-440f-8d14-0ab47ed737ee",
@@ -1978,7 +3327,8 @@
       "example": "Die meisten fühlen sich wohl im Gespräch mit mir. 大多数人在和我交谈时都觉得很自在。 Most people feel comfortable talking to me.\ndie meisten = most people，大多数人。im Gespräch = in dem Gespräch，in + Dat.，在交谈过程中。",
       "translation": "",
       "updatedAt": "2026-10-26T14:22:25.746Z",
-      "createdAt": "2026-10-26T14:21:40.334Z"
+      "createdAt": "2026-10-26T14:21:40.334Z",
+      "category": ""
     },
     {
       "id": "0c5dd10a-5306-4032-b184-8ed1dd62418c",
@@ -1991,7 +3341,8 @@
       "example": "Ich rede auch gern mit anderen Menschen. 我也喜欢和别人交谈。  I also enjoy talking to other people.",
       "translation": "",
       "updatedAt": "2026-10-26T14:20:46.023Z",
-      "createdAt": "2026-10-26T14:20:46.023Z"
+      "createdAt": "2026-10-26T14:20:46.023Z",
+      "category": ""
     },
     {
       "id": "7fc17eba-a891-4f62-85d9-f21a851079a5",
@@ -2004,7 +3355,8 @@
       "example": "Ich schaue einmal auf eine Karte und dann weiß ich Bescheid. 我只要看一眼地图，就知道该怎么走了. I just look at a map once, and then I know my way around.\nauf eine Karte schauen = to look at a map。\n- auf + Akk.：这里表示视线指向的对象。\n这里 auf + Akk. 不表示人走到地图上，而是表示看向某个对象。",
       "translation": "Dann weiß ich Bescheid. 然后我就清楚情况了。\nWeißt du Bescheid? Do you know what's going on? 你清楚情况了吗？\nJetzt weiß ich Bescheid. Now I understand. 现在我明白了。\n这里 Bescheid 不是“通知别人”的动作。注意另一个搭配：\njdm. Bescheid sagen = 告诉某人、通知某人。\nSag mir bitte Bescheid. Please let me know. 请告诉我一声。",
       "updatedAt": "2026-10-26T14:19:42.488Z",
-      "createdAt": "2026-10-26T14:18:31.795Z"
+      "createdAt": "2026-10-26T14:18:31.795Z",
+      "category": ""
     },
     {
       "id": "b67eedb2-c158-4cd2-9266-1ca68e494663",
@@ -2017,7 +3369,8 @@
       "example": "Ich benutze eigentlich nie ein Navi. 其实我从来不用导航仪。I actually never use a GPS navigation system.",
       "translation": "",
       "updatedAt": "2026-10-26T14:16:40.261Z",
-      "createdAt": "2026-10-26T14:16:17.299Z"
+      "createdAt": "2026-10-26T14:16:17.299Z",
+      "category": ""
     },
     {
       "id": "ca2ad242-d3b2-41d4-9fcf-3bb38f29a6ad",
@@ -2030,7 +3383,8 @@
       "example": "Ich kann mich in einer fremden Stadt gut orientieren. I can find my way around an unfamiliar city. 我在陌生城市也能很好地辨认方向。",
       "translation": "",
       "updatedAt": "2026-10-26T14:15:29.300Z",
-      "createdAt": "2026-10-26T14:15:29.300Z"
+      "createdAt": "2026-10-26T14:15:29.300Z",
+      "category": ""
     },
     {
       "id": "4ca5f287-172a-4602-9729-43dba4f943c3",
@@ -2043,7 +3397,8 @@
       "example": "",
       "translation": "",
       "updatedAt": "2026-10-26T14:14:12.880Z",
-      "createdAt": "2026-10-26T14:14:12.880Z"
+      "createdAt": "2026-10-26T14:14:12.880Z",
+      "category": ""
     },
     {
       "id": "9eb3df4f-dc63-4b0a-a6eb-fb5d609a15b3",
@@ -2056,7 +3411,8 @@
       "example": "Die Journalistin spürt neue Trends auf. The journalist identifies new trends. 记者发现新的趋势。",
       "translation": "",
       "updatedAt": "2026-10-26T14:13:54.360Z",
-      "createdAt": "2026-10-26T14:13:54.360Z"
+      "createdAt": "2026-10-26T14:13:54.360Z",
+      "category": ""
     },
     {
       "id": "094ac688-fc48-416d-857f-6b87830f07b4",
@@ -2069,7 +3425,8 @@
       "example": "",
       "translation": "",
       "updatedAt": "2026-10-26T14:12:47.682Z",
-      "createdAt": "2026-10-26T14:12:47.682Z"
+      "createdAt": "2026-10-26T14:12:47.682Z",
+      "category": ""
     },
     {
       "id": "7f6f48a9-b15f-48c9-933d-71edb2ce0e10",
@@ -2082,7 +3439,8 @@
       "example": "Ich recherchiere wahnsinnig gern und versuche Trends aufzuspüren. 我特别喜欢调查研究，也会努力发现新的趋势。 I absolutely love doing research and try to spot emerging trends. \nwahnsinnig 字面是“疯狂的”，这里作为程度副词表示 extremely / incredibly（特别、非常）。\ngern 表示喜欢做某事。",
       "translation": "",
       "updatedAt": "2026-10-26T14:12:06.366Z",
-      "createdAt": "2026-10-26T14:10:44.765Z"
+      "createdAt": "2026-10-26T14:10:44.765Z",
+      "category": ""
     },
     {
       "id": "d8fd945a-c6f9-4d83-8b1f-04665d65da85",
@@ -2095,7 +3453,8 @@
       "example": "Tja, ich bin halt sehr neugierig. 嗯，我这个人就是特别有好奇心。  Well, I'm just very curious.\n- halt：口语语气词，表示“就是这样嘛／毕竟就是如此”。halt 不是动词 halten，也不是“停下”。\nIch bin neugierig.I'm curious. 我很好奇。\nIch bin halt neugierig. I'm just a curious person. 我就是好奇嘛。",
       "translation": "",
       "updatedAt": "2026-10-26T14:07:54.007Z",
-      "createdAt": "2026-10-26T14:07:54.007Z"
+      "createdAt": "2026-10-26T14:07:54.007Z",
+      "category": ""
     },
     {
       "id": "0cf7912c-7ee4-4783-a29c-0eb64375e0f2",
@@ -2108,7 +3467,8 @@
       "example": "Ich denke, ich bin ein Mensch, der gut beobachten kann.  我觉得自己是一个很善于观察的人。 I think I'm someone who is good at observing things.",
       "translation": "",
       "updatedAt": "2026-10-26T14:05:42.284Z",
-      "createdAt": "2026-10-26T14:05:42.284Z"
+      "createdAt": "2026-10-26T14:05:42.284Z",
+      "category": ""
     },
     {
       "id": "91e8dd60-e541-4422-9c0d-fe69a04d9f1a",
@@ -2121,7 +3481,8 @@
       "example": "Das ist ein bisschen komisch, oder?  这有点奇怪，不是吗？ That's a bit weird, isn't it?\n- oder?：句末征求认同，类似 isn't it? / right?\nAber okay, ich tu's.  不过好吧，我就夸夸自己。But okay, I'll do it.",
       "translation": "",
       "updatedAt": "2026-10-26T14:03:55.097Z",
-      "createdAt": "2026-10-26T14:03:36.481Z"
+      "createdAt": "2026-10-26T14:03:36.481Z",
+      "category": ""
     },
     {
       "id": "4c4cb027-f21f-4654-aa5c-8314d2fbbcb2",
@@ -2134,7 +3495,8 @@
       "example": "Der Lehrer lobt mich. The teacher praises me. 老师表扬我。\nIch lobe mich selbst. I praise myself. 我夸奖自己。\n这里 mich 是反身用法，selbst 强调“自己本人”。\nWie jetzt? Ich soll mich selbst loben?  什么意思？现在要我自己夸自己吗？ Wait, what? I'm supposed to praise myself?\nWie jetzt? 是口语，表示惊讶、不理解对方的要求\nich soll 在这里不是表达自己认为应该做，而是别人要求她这么做。",
       "translation": "",
       "updatedAt": "2026-10-26T14:01:28.313Z",
-      "createdAt": "2026-10-26T14:01:28.313Z"
+      "createdAt": "2026-10-26T14:01:28.313Z",
+      "category": ""
     },
     {
       "id": "e3fa89a7-5ac1-4b1c-aa68-acc07b8f015d",
@@ -2147,7 +3509,8 @@
       "example": "Irgendwo habe ich dann immer noch etwas Energie.  到那种时候，我总还能从某个地方挤出一点精力。 Somehow, I still have a bit of energy left in me.\n这里的 irgendwo 字面上是 somewhere（某个地方），但不是说他真的去某个地方寻找能量。\n它是比喻：不知道从哪里，总还能找到一些精力。\n- irgendwo：somewhere / somehow（这里是比喻用法）。\n- immer noch：still，仍然。\n- etwas Energie：a little energy，一些精力。",
       "translation": "",
       "updatedAt": "2026-10-26T13:51:55.132Z",
-      "createdAt": "2026-10-26T13:51:46.798Z"
+      "createdAt": "2026-10-26T13:51:46.798Z",
+      "category": ""
     },
     {
       "id": "d08e5c67-9682-4917-88a2-6b33c1b416be",
@@ -2160,7 +3523,8 @@
       "example": "Nicht nur im Sport, auch wenn jemand Hilfe braucht.  不仅是在运动方面，即使有人需要帮助的时候也是如此。Not just in sports, but also when someone needs help. im Sport：in + Dat.，在运动方面。\nnicht nur ... auch ... = not only ... but also ...\n更完整、对称的表达通常是：Nicht nur im Sport, sondern auch, wenn jemand Hilfe braucht.",
       "translation": "",
       "updatedAt": "2026-10-26T13:50:05.553Z",
-      "createdAt": "2026-10-26T13:50:05.553Z"
+      "createdAt": "2026-10-26T13:50:05.553Z",
+      "category": ""
     },
     {
       "id": "8b3f9f6a-e558-4c1c-b03d-a2dedecfc296",
@@ -2173,7 +3537,8 @@
       "example": "Aber irgendwie schaffe ich es, dass ich nicht aufgebe, obwohl es anstrengend ist.  但不知怎么的，即使很辛苦，我还是能做到不放弃。 But somehow, I manage not to give up, even though it's exhausting.\n注意两个 es 不一样：\n- schaffe ich es：es 指向后面的 dass 从句。\n- obwohl es anstrengend ist：es 指运动或坚持训练这件事。\nIch schaffe es, jeden Tag Sport zu machen. I manage to exercise every day. 我能坚持每天运动。",
       "translation": "",
       "updatedAt": "2026-10-26T13:48:09.824Z",
-      "createdAt": "2026-10-26T13:46:21.580Z"
+      "createdAt": "2026-10-26T13:46:21.580Z",
+      "category": ""
     },
     {
       "id": "869a6ad9-8d6b-4233-a98a-f90ba6a2b12f",
@@ -2186,7 +3551,8 @@
       "example": "Ich setze mich. I sit down. 我坐下。\nIch setze mich aufs Sofa. I sit down on the sofa. 我坐到沙发上。\naufs Sofa = auf das Sofa，Akkusativ，因为表示坐到沙发上这一位置变化。\nManchmal würde ich mich lieber einfach aufs Sofa setzen.  有时候我宁愿就这么坐到沙发上。 Sometimes I'd rather just sit down on the sofa.",
       "translation": "Ich sitze auf dem Sofa. I'm sitting on the sofa. 我坐在沙发上。 这里是 auf + Dat.，表示已经处于该位置。",
       "updatedAt": "2026-10-26T13:42:54.121Z",
-      "createdAt": "2026-10-26T13:42:54.121Z"
+      "createdAt": "2026-10-26T13:42:54.121Z",
+      "category": ""
     },
     {
       "id": "a29b1fd6-7a2e-4370-b7e1-321818aeb670",
@@ -2199,7 +3565,8 @@
       "example": "Natürlich habe ich auch nicht immer Lust zu trainieren.当然，我也不是一直都有训练的兴致。: Of course, I don't always feel like training either. Lust：Akkusativobjekt。\nIch habe Lust, schwimmen zu gehen. I feel like going swimming.",
       "translation": "",
       "updatedAt": "2026-10-26T13:40:10.849Z",
-      "createdAt": "2026-10-26T13:39:53.075Z"
+      "createdAt": "2026-10-26T13:39:53.075Z",
+      "category": ""
     },
     {
       "id": "2bda8249-f119-4ba7-be51-b03c146baf20",
@@ -2212,7 +3579,8 @@
       "example": "Ich motiviere meinen Sohn. I motivate my son. 我激励我的儿子。\nIch motiviere mich selbst. I motivate myself. 我激励自己。\nTja, und ich glaube, ich kann mich selbst ganz gut motivieren.  嗯，而且我觉得自己还挺擅长自我激励的。  Well, I think I'm pretty good at motivating myself.",
       "translation": "",
       "updatedAt": "2026-10-26T13:38:28.098Z",
-      "createdAt": "2026-10-26T13:38:28.098Z"
+      "createdAt": "2026-10-26T13:38:28.098Z",
+      "category": ""
     },
     {
       "id": "c47038d7-3729-4a3a-91d4-497e593a50ca",
@@ -2225,7 +3593,8 @@
       "example": "",
       "translation": "",
       "updatedAt": "2026-10-26T13:35:35.073Z",
-      "createdAt": "2026-10-26T13:35:35.073Z"
+      "createdAt": "2026-10-26T13:35:35.073Z",
+      "category": ""
     },
     {
       "id": "d6b58c76-8c19-45ba-b4ae-89bb497bdb7f",
@@ -2238,7 +3607,8 @@
       "example": "Ich bin bereit. I'm ready. 我准备好了。\nAls Feuerwehrmann muss ich ja immer bereit sein, bei einem Notfall oder so.  毕竟作为一名消防员，我必须随时做好准备，比如遇到紧急情况之类的。As a firefighter, I always have to be ready, you know, in case of an emergency or something.\nAls Mutter habe ich viel Verantwortung. As a mother, I have a lot of responsibility.",
       "translation": "",
       "updatedAt": "2026-10-26T13:34:42.983Z",
-      "createdAt": "2026-10-26T13:34:15.425Z"
+      "createdAt": "2026-10-26T13:34:15.425Z",
+      "category": ""
     },
     {
       "id": "3028e64d-d4f6-4a0a-b110-76c09557bef7",
@@ -2251,7 +3621,8 @@
       "example": "Der Wecker klingelt und ich stehe auf.  闹钟一响，我就起床。The alarm goes off, and I get up.",
       "translation": "",
       "updatedAt": "2026-10-26T13:32:33.820Z",
-      "createdAt": "2026-10-26T13:32:23.079Z"
+      "createdAt": "2026-10-26T13:32:23.079Z",
+      "category": ""
     },
     {
       "id": "662309d1-1ce7-4f57-bda9-0fb428c511e5",
@@ -2264,7 +3635,8 @@
       "example": "",
       "translation": "",
       "updatedAt": "2026-10-26T13:31:39.275Z",
-      "createdAt": "2026-10-26T13:31:39.275Z"
+      "createdAt": "2026-10-26T13:31:39.275Z",
+      "category": ""
     },
     {
       "id": "085c944a-43cc-403a-95b8-0d35a7bcc9a4",
@@ -2277,7 +3649,8 @@
       "example": "",
       "translation": "",
       "updatedAt": "2026-10-26T13:31:13.158Z",
-      "createdAt": "2026-10-26T13:31:13.158Z"
+      "createdAt": "2026-10-26T13:31:13.158Z",
+      "category": ""
     },
     {
       "id": "14778a7d-423f-4181-be2f-7d7e20a5938e",
@@ -2290,7 +3663,8 @@
       "example": "ch habe noch nie in meinem Leben die Snooze-Taste gedrückt.  我这辈子从来没有按过闹钟的贪睡按钮。 I've never pressed the snooze button in my life",
       "translation": "",
       "updatedAt": "2026-10-26T13:30:57.749Z",
-      "createdAt": "2026-10-26T13:28:42.173Z"
+      "createdAt": "2026-10-26T13:28:42.173Z",
+      "category": ""
     },
     {
       "id": "d2b8c837-3302-447b-9666-dfb64740f37e",
@@ -2303,7 +3677,8 @@
       "example": "Es fällt mir leicht, früh aufzustehen.  对我来说，早起很容易。 I find it easy to get up early.\nDeutschlernen fällt mir schwer. Learning German is difficult for me.",
       "translation": "",
       "updatedAt": "2026-10-26T13:26:21.044Z",
-      "createdAt": "2026-10-26T13:24:20.691Z"
+      "createdAt": "2026-10-26T13:24:20.691Z",
+      "category": ""
     },
     {
       "id": "c3c690e0-5889-4bf1-bdaa-4c3561ebcb6b",
@@ -2316,7 +3691,8 @@
       "example": "ein Praktikum machen\tto do an internship\t进行实习",
       "translation": "",
       "updatedAt": "2026-10-24T18:02:44.425Z",
-      "createdAt": "2026-10-24T18:02:15.989Z"
+      "createdAt": "2026-10-24T18:02:15.989Z",
+      "category": ""
     },
     {
       "id": "abbd08a4-9d5d-4670-9b94-50d281e31219",
@@ -2329,7 +3705,8 @@
       "example": "die Wirtschaft：经济、商业 das Studium：大学学习、专业学习\nIch habe mein Wirtschaftsstudium in München abgeschlossen. I completed my business studies in Munich. 我在慕尼黑完成了商科学业。它是比较宽泛的表达，不一定特指纯经济学（Volkswirtschaftslehre），也可能指企业管理（Betriebswirtschaftslehre）等商科专业。",
       "translation": "",
       "updatedAt": "2026-10-24T17:59:41.060Z",
-      "createdAt": "2026-10-24T17:58:01.494Z"
+      "createdAt": "2026-10-24T17:58:01.494Z",
+      "category": ""
     },
     {
       "id": "3baf0fe6-e19d-4f81-8c20-710cc83d2326",
@@ -2342,7 +3719,8 @@
       "example": "",
       "translation": "",
       "updatedAt": "2026-10-23T11:05:34.224Z",
-      "createdAt": "2026-10-23T11:05:34.224Z"
+      "createdAt": "2026-10-23T11:05:34.224Z",
+      "category": ""
     },
     {
       "id": "e7a7f02c-8c5b-4895-b9bf-31b43b95ac01",
@@ -2355,7 +3733,8 @@
       "example": "",
       "translation": "",
       "updatedAt": "2026-10-23T11:03:57.680Z",
-      "createdAt": "2026-10-23T11:03:57.681Z"
+      "createdAt": "2026-10-23T11:03:57.681Z",
+      "category": ""
     },
     {
       "id": "c181fc51-5aa8-4dfb-92aa-bdaee058346d",
@@ -2368,7 +3747,8 @@
       "example": "tätig 和 arbeiten 有什么区别？\n\tarbeiten\ttätig sein\n词性\t动词\t形容词 + sein\n英语\tto work / operate\tto be active / operate\n中文\t工作、经营\t从事活动、开展业务\n常见搭配\tinternational arbeiten\tinternational tätig sein",
       "translation": "Die Kanzlei arbeitet international 这家事务所开展国际业务。\nDie Kanzlei ist international tätig. 这家事务所在国际范围内开展业务。\n两句意思非常接近。但是 tätig 本身是形容词，不是动词。\narbeitet：完整谓语。\nist tätig：ist 是谓语动词，tätig 是表语；两者共同表达“从事活动”的意思。",
       "updatedAt": "2026-10-23T11:06:02.399Z",
-      "createdAt": "2026-10-23T11:03:29.671Z"
+      "createdAt": "2026-10-23T11:03:29.671Z",
+      "category": ""
     },
     {
       "id": "eddcad67-cabb-4c3c-a5e5-7daad2aefb24",
@@ -2381,7 +3761,8 @@
       "example": "Präteritum\tKonjunktiv II\nkönnen\tkonnte\tkönnte\nich\tich konnte\tich könnte\nSie\tSie konnten\tSie könnten",
       "translation": "Konnten Sie ...? = Were you able to ...? Könnten Sie ...? = Could you ...?（委婉请求或假设）\nKonnten Sie uns gut finden?  您找到我们这里还顺利吗？ Were you able to find us easily?",
       "updatedAt": "2026-10-23T10:51:59.742Z",
-      "createdAt": "2026-10-23T10:51:17.043Z"
+      "createdAt": "2026-10-23T10:51:17.043Z",
+      "category": ""
     },
     {
       "id": "84c80d5a-4d12-46a4-8362-63c63b22af36",
@@ -2394,7 +3775,8 @@
       "example": "① jdn./etw. (Akk.) fürchten 害怕某人／某物。\nIch fürchte den Hund. I am afraid of the dog. 我害怕那只狗。 den Hund：Akkusativobjekt。\n② fürchten, dass ... 担心某件事会发生。\nIch fürchte, dass ich die Prüfung nicht bestehe. I'm afraid I won't pass the exam. 我担心自己考试不及格。\n③ Ich fürchte, ... = I'm afraid ...\n在口语中，常常是委婉地表达不太好的事实，不一定真的恐惧。\nIch fürchte, ich habe keine Zeit. I'm afraid I don't have time. 恐怕我没有时间。\nIch fürchte, das ist nicht möglich. I'm afraid that's not possible. 恐怕这不可能。",
       "translation": "",
       "updatedAt": "2026-10-24T18:28:25.950Z",
-      "createdAt": "2026-10-23T09:28:06.007Z"
+      "createdAt": "2026-10-23T09:28:06.007Z",
+      "category": ""
     },
     {
       "id": "6a15b0e1-3eed-457c-accc-507957db0925",
@@ -2407,7 +3789,8 @@
       "example": "Und in die andere Richtung gefragt: Was wären denn Ihre Schwächen? 那么换个角度问：您的弱点是什么呢？ And looking at it from the other side: What would you say your weaknesses are?",
       "translation": "in die andere Richtung：in + Akk.，表示提问方向的转变。朝另一个方向转变。",
       "updatedAt": "2026-10-24T18:26:34.452Z",
-      "createdAt": "2026-10-23T09:27:13.554Z"
+      "createdAt": "2026-10-23T09:27:13.554Z",
+      "category": ""
     },
     {
       "id": "4ef7acdc-385e-428e-a3a7-7adf9be1984a",
@@ -2420,7 +3803,8 @@
       "example": "",
       "translation": "",
       "updatedAt": "2026-10-24T18:25:26.000Z",
-      "createdAt": "2026-10-23T09:24:57.725Z"
+      "createdAt": "2026-10-23T09:24:57.725Z",
+      "category": ""
     },
     {
       "id": "82daf035-e97a-483f-97e2-d264883a49f1",
@@ -2433,7 +3817,8 @@
       "example": "Ich habe zum Beispiel schon im fünften Semester mit einer Dozentin einen Artikel veröffentlicht. 例如，我在第五学期就已经和一位大学讲师共同发表了一篇文章。For example, I published an article together with a university lecturer as early as my fifth semester.",
       "translation": "",
       "updatedAt": "2026-10-24T18:24:33.573Z",
-      "createdAt": "2026-10-23T09:24:47.633Z"
+      "createdAt": "2026-10-23T09:24:47.633Z",
+      "category": ""
     },
     {
       "id": "66145921-22a5-431a-af51-b827b7df64ea",
@@ -2446,7 +3831,8 @@
       "example": "Also nicht nur gut. 也就是说，不只是做得好。: I mean, not just good.\n Ich will ausgezeichnet sein. 我想做到卓越。 I want to be excellent.",
       "translation": "",
       "updatedAt": "2026-10-23T09:22:18.748Z",
-      "createdAt": "2026-10-23T09:22:18.748Z"
+      "createdAt": "2026-10-23T09:22:18.748Z",
+      "category": ""
     },
     {
       "id": "aab796a2-0d2c-44d1-914a-b4475be2cf8b",
@@ -2459,7 +3845,8 @@
       "example": "Ich will nämlich in dem, was ich mache, richtig gut sein. 因为我希望自己在所做的事情上真正出色。You see, I want to be really good at what I do.完整谓语： will ... gut sein",
       "translation": "Ich lerne Deutsch, weil ich in der Schweiz lebe. 我学德语，因为我住在瑞士。\nIch lerne Deutsch. Ich lebe nämlich in der Schweiz. 我学德语。这是因为我住在瑞士。\nweil 引导从句；nämlich 不引导从句，不改变主句语序。",
       "updatedAt": "2026-10-24T18:23:02.346Z",
-      "createdAt": "2026-10-23T09:20:48.373Z"
+      "createdAt": "2026-10-23T09:20:48.373Z",
+      "category": ""
     },
     {
       "id": "3faeb7c1-acdc-48df-ad5b-20588170cd6d",
@@ -2472,7 +3859,8 @@
       "example": "Und dann würde ich auch noch meinen Ehrgeiz als Stärke sehen. 此外，我也认为自己的进取心是一项优势。 And I would also consider my ambition one of my strengths. meinen Ehrgeiz 是 Akkusativobjekt。als Stärke 是宾语表语（Objektprädikativ），说明把这个宾语看作什么。\nIch sehe Deutschlernen als eine Herausforderung. I see learning German as a challenge. 我把学习德语看作一项挑战\nIch sehe Peter als einen guten Freund. I see Peter as a good friend. 我把彼得视为一位好朋友。\nIch sehe diese Erfahrung als einen Vorteil an. I regard this experience as an advantage. 我把这段经验视为一项优势。",
       "translation": "",
       "updatedAt": "2026-10-24T18:42:14.103Z",
-      "createdAt": "2026-10-23T09:17:46.766Z"
+      "createdAt": "2026-10-23T09:17:46.766Z",
+      "category": ""
     },
     {
       "id": "bf9ba146-0998-4abc-b3b4-136979ebaabb",
@@ -2485,7 +3873,8 @@
       "example": "Ja, da würden wir Ihnen zustimmen, 是的，这一点我们同意您的看法，",
       "translation": "",
       "updatedAt": "2026-10-23T09:14:44.585Z",
-      "createdAt": "2026-10-23T09:14:44.585Z"
+      "createdAt": "2026-10-23T09:14:44.585Z",
+      "category": ""
     },
     {
       "id": "d551ea5c-cced-40f5-b34b-c7c9ad97a460",
@@ -2498,7 +3887,8 @@
       "example": "Ja, da würden wir Ihnen zustimmen, besonders in einem Betrieb wie unserem, in dem Steuerrecht aus unterschiedlichen Ländern angewendet wird. 是的，这一点我们同意您的看法，尤其是在像我们这样的企业里，需要应用不同国家的税法。 Yes, we would agree with you on that, especially in a firm like ours, where tax law from different countries is applied.\n主动句：Man wendet Steuerrecht aus unterschiedlichen Ländern an.\n被动句：Steuerrecht aus unterschiedlichen Ländern wird angewendet.\nin dem = in which / where（在其中）Steuerrecht = tax law（税法），是从句的主语。",
       "translation": "Ihnen：Dativergänzung。da：指前面关于税务咨询需要创造力的观点。in dem：关系代词结构，Dat. Maskulin，指 Betrieb，在从句中表示机构环境。主语： Steuerrecht aus unterschiedlichen Ländern（Nom.）aus unterschiedlichen Ländern：修饰名词 Steuerrecht，说明税法来自哪些国家；aus + Dat.。",
       "updatedAt": "2026-10-24T18:15:32.004Z",
-      "createdAt": "2026-10-23T09:14:02.037Z"
+      "createdAt": "2026-10-23T09:14:02.037Z",
+      "category": ""
     },
     {
       "id": "6e62cb1c-6efd-40d2-9199-ec6d39b02e9d",
@@ -2511,7 +3901,8 @@
       "example": "Viele Leute glauben ja, dass Steuerberater nur die richtigen Zahlen in die richtige Tabelle eintragen müssen. 很多人认为，税务顾问只需要把正确的数字填进正确的表格里。 Many people think that tax advisers only need to enter the correct figures into the correct table.",
       "translation": "in die richtige Tabelle：目标／方向补足语，in + Akk.，说明填到哪里。宾语： die richtigen Zahlen（Akk.）",
       "updatedAt": "2026-10-23T09:09:27.630Z",
-      "createdAt": "2026-10-23T09:09:27.630Z"
+      "createdAt": "2026-10-23T09:09:27.630Z",
+      "category": ""
     },
     {
       "id": "a125b454-7106-4078-b93b-f2f6980485e2",
@@ -2524,7 +3915,8 @@
       "example": "Und meine Kreativität ist auch noch eine Stärke. 另外，我的创造力也是一项优势。 And my creativity is another strength.",
       "translation": "",
       "updatedAt": "2026-10-23T09:06:49.945Z",
-      "createdAt": "2026-10-23T09:06:49.945Z"
+      "createdAt": "2026-10-23T09:06:49.945Z",
+      "category": ""
     },
     {
       "id": "f5af5f77-89fc-4b07-b841-e4677ea8b7c6",
@@ -2537,7 +3929,8 @@
       "example": "prüfe lieber ein zweites Mal nach, bevor ich etwas Falsches abgebe. 在提交错误的东西之前，我宁愿再检查一遍。 I'd rather double-check before submitting something incorrect.",
       "translation": "lieber：宁愿、更倾向于。ein zweites Mal：次数状语，再一次。宾语： etwas Falsches（Akk.）",
       "updatedAt": "2026-10-23T09:05:35.594Z",
-      "createdAt": "2026-10-23T09:05:35.594Z"
+      "createdAt": "2026-10-23T09:05:35.594Z",
+      "category": ""
     },
     {
       "id": "a868ecc0-7b33-432b-a58a-49014747e487",
@@ -2550,7 +3943,8 @@
       "example": "Also mir ist es sehr wichtig, Aufgaben fehlerfrei zu erledigen.>: It's very important to me to complete tasks without errors.",
       "translation": "",
       "updatedAt": "2026-10-23T09:02:56.286Z",
-      "createdAt": "2026-10-23T09:02:56.286Z"
+      "createdAt": "2026-10-23T09:02:56.286Z",
+      "category": ""
     },
     {
       "id": "2b489ebd-07e3-435a-8118-30fe62e1c4ff",
@@ -2563,7 +3957,8 @@
       "example": "Genauigkeit, finde ich. 我觉得是细致准确。Accuracy, I'd say.\n. Ich arbeite sehr genau. 我工作非常细致。I work very precisely.",
       "translation": "",
       "updatedAt": "2026-10-23T09:01:54.799Z",
-      "createdAt": "2026-10-23T09:01:06.067Z"
+      "createdAt": "2026-10-23T09:01:06.067Z",
+      "category": ""
     },
     {
       "id": "f4529b7b-dcdd-4d44-a715-b632f2661165",
@@ -2576,7 +3971,8 @@
       "example": "",
       "translation": "",
       "updatedAt": "2026-10-23T08:59:56.600Z",
-      "createdAt": "2026-10-23T08:59:56.600Z"
+      "createdAt": "2026-10-23T08:59:56.600Z",
+      "category": ""
     },
     {
       "id": "9e03f04a-8fa5-4681-9a93-3f1b4f94ca61",
@@ -2589,7 +3985,8 @@
       "example": "Worin sehen Sie Ihre Stärken? 您认为自己的优势体现在哪些方面？ What do you see as your strengths?",
       "translation": "Worin = wo + in，相当于 in welcher Sache / in welchem Bereich，询问优势体现在哪里。",
       "updatedAt": "2026-10-23T08:59:38.631Z",
-      "createdAt": "2026-10-23T08:59:38.631Z"
+      "createdAt": "2026-10-23T08:59:38.631Z",
+      "category": ""
     },
     {
       "id": "4d411c11-806f-4658-baae-7d1a3b498ba4",
@@ -2602,7 +3999,8 @@
       "example": "mit was für einer Person könnten wir dann rechnen?那么我们可以期待您是一位怎样的人呢？",
       "translation": "mit was für einer Person：Präpositionalergänzung，mit + Dat.。was für einer：什么样的，修饰 Person。注意：mit jdm. rechnen 这里不是“和某人一起计算”。",
       "updatedAt": "2026-10-23T08:57:53.516Z",
-      "createdAt": "2026-10-23T08:57:53.516Z"
+      "createdAt": "2026-10-23T08:57:53.516Z",
+      "category": ""
     },
     {
       "id": "e710fd34-9225-4c00-bc8e-d5404b31ab1c",
@@ -2615,7 +4013,8 @@
       "example": "Sollten wir Sie einstellen, mit was für einer Person könnten wir dann rechnen, Herr Buttenschön? 如果我们录用您，那么我们可以期待您是一位怎样的人呢？ If we were to hire you, what kind of person could we expect?",
       "translation": "这里的 sollten 用于假设条件，不表示“应该”。宾语： Sie（Akk.）",
       "updatedAt": "2026-10-23T08:56:36.792Z",
-      "createdAt": "2026-10-23T08:56:36.792Z"
+      "createdAt": "2026-10-23T08:56:36.792Z",
+      "category": ""
     },
     {
       "id": "7e563532-b393-416c-994f-f770799ce092",
@@ -2628,7 +4027,8 @@
       "example": "Ich würde nun gerne zu Ihren persönlichen Eigenschaften kommen. 现在我想谈谈您的个人性格特点。\nI'd now like to move on to your personal qualities.\nZu meinen persönlichen Eigenschaften gehören Genauigkeit und Kreativität. My personal qualities include accuracy and creativity. 我的个人特点包括细致和创造力。\npersönliche Eigenschaften 在求职面试中通常指个人性格和工作品质，不是学历或专业证书。",
       "translation": "nun：现在。gerne：愿意、乐意。zu Ihren persönlichen Eigenschaften：话题转移的目标，zu + Dat.，常见表达 zu einem Thema kommen",
       "updatedAt": "2026-10-24T18:14:16.201Z",
-      "createdAt": "2026-10-23T08:54:15.796Z"
+      "createdAt": "2026-10-23T08:54:15.796Z",
+      "category": ""
     },
     {
       "id": "6304ea55-0a68-4179-92a9-3f3eb7f6bc9a",
@@ -2641,7 +4041,8 @@
       "example": "Ich habe mein Studium beendet. I finished my studies. 我完成了学业。 mein Studium 是 Akkusativobjekt。",
       "translation": "",
       "updatedAt": "2026-10-24T18:12:12.482Z",
-      "createdAt": "2026-10-23T08:52:21.133Z"
+      "createdAt": "2026-10-23T08:52:21.133Z",
+      "category": ""
     },
     {
       "id": "3edca589-e5df-4b63-befd-4695b139fe9d",
@@ -2654,7 +4055,8 @@
       "example": "Ich sehe schon, für jemanden, der gerade erst sein Studium beendet hat, haben Sie bereits einiges an Erfahrung gesammelt. 我看得出来，对于一个刚刚完成学业的人来说，您已经积累了相当多的经验。I can already see that, for someone who has only just finished their studies, you've already gained quite a bit of experience.",
       "translation": "gerade erst：刚刚才。第一成分：整个介词短语 Für jemanden, der gerade erst sein Studium beendet hat, 有限动词 haben, 主语 Sie.\neiniges an + Dativ, 相当多的某种东西 / quite a bit of something\neiniges = 数量, an Erfahrung = 数量所涉及的事物\n整体：einiges an Erfahrung = 相当多的经验\nan Erfahrung = 在经验这一方面的数量，说明 einiges 指的是什么。\n比较：viel Erfahrung 很多经验。\neiniges an Erfahrung 相当多的经验。\neine Menge an Informationen 大量信息。\nan + Dat. 这里不是地点，也不是 sammeln 要求的介词。它依附于数量表达 einiges。\n德语\tEnglish\t中文\nIch habe einiges an Erfahrung gesammelt.\tI've gained quite a bit of experience.\t我积累了相当多的经验。\nWir haben einiges an Zeit verloren.\tWe've lost quite a bit of time.\t我们损失了不少时间。\nSie hat einiges an Geld gespart.\tShe's saved quite a bit of money.\t她存了不少钱。",
       "updatedAt": "2026-10-24T18:38:50.166Z",
-      "createdAt": "2026-10-23T08:50:29.728Z"
+      "createdAt": "2026-10-23T08:50:29.728Z",
+      "category": ""
     },
     {
       "id": "e27ae7d2-2381-4208-8b0a-1b7495cb6fcc",
@@ -2667,7 +4069,8 @@
       "example": "词性\t英语\t中文\nerfahren（动词）\tInfinitiv\tto find out / learn / experience\t得知、获悉、经历\nerfahren（过去分词）\tPartizip II\tfound out / learned\t得知了\nerfahren（形容词）\tAdjektiv\texperienced\t有经验的、老练的\nDort habe ich sehr viel von den erfahrenen Kollegen gelernt.在那里，我从经验丰富的同事身上学到了很多。 I learned a great deal from the experienced colleagues there.",
       "translation": "erfahren（得知、经历）的 Partizip II：Ich habe davon erfahren. I found out about it.我得知了这件事。这里 erfahren 是形容词，意思是 experienced（有经验的, \nein erfahrener Kollege 一位经验丰富的男同事。erfahrene Kollegen 经验丰富的同事们",
       "updatedAt": "2026-10-24T18:33:19.540Z",
-      "createdAt": "2026-10-23T08:45:56.022Z"
+      "createdAt": "2026-10-23T08:45:56.022Z",
+      "category": ""
     },
     {
       "id": "f76c593c-ff5c-4a99-9c70-f4bd3a966e70",
@@ -2680,7 +4083,8 @@
       "example": "Das ist ein Verein, der für wenig Geld oder sogar kostenlos Leute berät, die sich keinen Steuerberater leisten können. 这是一个协会，它以很低的费用，甚至免费，为那些负担不起税务顾问的人提供咨询。: It's an association that advises people for a small fee or even free of charge, particularly those who cannot afford a tax adviser.\nIch kann mir keinen Steuerberater leisten. 我请不起税务顾问。",
       "translation": "für wenig Geld oder sogar kostenlos：费用／收费方式状语。der：关系代词，Nom. Maskulin，指 Verein，充当从句主语。die：关系代词，Nom. Plural，指 Leute，充当从句主语。",
       "updatedAt": "2026-10-23T08:44:25.416Z",
-      "createdAt": "2026-10-23T08:43:43.083Z"
+      "createdAt": "2026-10-23T08:43:43.083Z",
+      "category": ""
     },
     {
       "id": "5d20cda7-5b16-4584-9a00-7f76cff3a991",
@@ -2693,7 +4097,8 @@
       "example": "Und ich habe auch ehrenamtlich für Versteuern gearbeitet. 此外，我还为 Versteuern 这个组织做过志愿工作。: I also worked as a volunteer for Versteuern.",
       "translation": "",
       "updatedAt": "2026-10-23T08:41:16.937Z",
-      "createdAt": "2026-10-23T08:40:42.162Z"
+      "createdAt": "2026-10-23T08:40:42.162Z",
+      "category": ""
     },
     {
       "id": "7cd35938-5092-4aef-91a0-84cb48a5c3f3",
@@ -2706,7 +4111,8 @@
       "example": "",
       "translation": "",
       "updatedAt": "2026-10-23T08:38:46.129Z",
-      "createdAt": "2026-10-23T08:38:46.129Z"
+      "createdAt": "2026-10-23T08:38:46.129Z",
+      "category": ""
     },
     {
       "id": "c3f362ca-7aec-420d-adfa-9c23b196b03d",
@@ -2719,7 +4125,8 @@
       "example": "",
       "translation": "",
       "updatedAt": "2026-10-23T08:38:13.825Z",
-      "createdAt": "2026-10-23T08:38:13.825Z"
+      "createdAt": "2026-10-23T08:38:13.825Z",
+      "category": ""
     },
     {
       "id": "65849c73-5534-469b-a0ea-4fd80ff327c0",
@@ -2732,7 +4139,8 @@
       "example": "Dort habe ich Buchhaltung geführt und erfahrene Kollegen bei Kundenberatung und Jahresabschlüssen unterstützt.在那里，我负责过记账工作，也协助经验丰富的同事开展客户咨询和年度财务结算工作。There, I handled bookkeeping and supported experienced colleagues with client consulting and annual financial statements",
       "translation": "",
       "updatedAt": "2026-10-23T08:37:52.585Z",
-      "createdAt": "2026-10-23T08:36:59.959Z"
+      "createdAt": "2026-10-23T08:36:59.959Z",
+      "category": ""
     },
     {
       "id": "bacf8054-8dee-44de-9d8c-1cf4942e9db1",
@@ -2745,7 +4153,8 @@
       "example": "Haben Sie denn auch schon praktische Erfahrungen im Bereich Steuerberatung?那么，您是否已经有税务咨询领域的实际工作经验？Have you already gained any practical experience in tax consulting?",
       "translation": "",
       "updatedAt": "2026-10-24T18:01:18.752Z",
-      "createdAt": "2026-10-23T08:34:02.956Z"
+      "createdAt": "2026-10-23T08:34:02.956Z",
+      "category": ""
     },
     {
       "id": "d3010e6f-c3d6-40cb-a0f6-98d92ec954fb",
@@ -2758,7 +4167,8 @@
       "example": "Ja, das klingt schon mal nicht schlecht. 嗯，听起来还不错。Well, that sounds pretty good so far. schon mal：口语表达，表示初步评价“目前看来”。",
       "translation": "",
       "updatedAt": "2026-10-23T08:32:11.037Z",
-      "createdAt": "2026-10-23T08:32:11.037Z"
+      "createdAt": "2026-10-23T08:32:11.037Z",
+      "category": ""
     },
     {
       "id": "104c1b5a-a446-4a76-aa98-5418a0771624",
@@ -2771,7 +4181,8 @@
       "example": "Und ich denke, dass das eine gute Kombination für eine Kanzlei wie Fuchs und Schaden wäre. > And I think that this would be a good combination for a firm like Fuchs und Schaden. 谓语： wäre，Konjunktiv II。",
       "translation": "",
       "updatedAt": "2026-10-23T08:30:50.657Z",
-      "createdAt": "2026-10-23T08:30:50.657Z"
+      "createdAt": "2026-10-23T08:30:50.657Z",
+      "category": ""
     },
     {
       "id": "87207d1b-e739-4e6e-9453-218f519b1711",
@@ -2784,7 +4195,8 @@
       "example": "",
       "translation": "",
       "updatedAt": "2026-10-23T08:28:55.959Z",
-      "createdAt": "2026-10-23T08:28:39.251Z"
+      "createdAt": "2026-10-23T08:28:39.251Z",
+      "category": ""
     },
     {
       "id": "f0ef7e0f-2ff9-45b0-9306-36f7b14a6521",
@@ -2797,7 +4209,8 @@
       "example": "Dort habe ich mein Englisch verbessert und auch viel über kanadisches und internationales Steuerrecht gelernt. 在那里，我提高了英语水平，也学习了很多加拿大税法和国际税法方面的知识。There, I improved my English and also learned a lot about Canadian and international tax law.",
       "translation": "",
       "updatedAt": "2026-10-23T08:28:31.510Z",
-      "createdAt": "2026-10-23T08:28:31.510Z"
+      "createdAt": "2026-10-23T08:28:31.510Z",
+      "category": ""
     },
     {
       "id": "da9b89a9-d61d-4f40-b3de-a9f976bc019e",
@@ -2810,7 +4223,8 @@
       "example": "Und im Masterstudium habe ich ein Semester in Kanada an der University of Toronto studiert. 而在硕士学习期间，我曾在加拿大多伦多大学学习了一个学期。 And during my master's studies, I spent one semester studying at the University of Toronto in Canada.",
       "translation": "ein Semester：Akkusativ der Zeitdauer，持续时间状语，不是直接宾语。an der University of Toronto：具体大学，an + Dat.。",
       "updatedAt": "2026-10-23T08:26:44.158Z",
-      "createdAt": "2026-10-23T08:26:44.158Z"
+      "createdAt": "2026-10-23T08:26:44.158Z",
+      "category": ""
     },
     {
       "id": "4b5c4b58-bd3b-4ebc-a445-ed2dc5cdf065",
@@ -2823,7 +4237,8 @@
       "example": "Ich denke also, in meinem Wirtschaftsstudium hier in München habe ich viel über das deutsche und das EU-Steuerrecht gelernt.\n Well, I think that during my business studies here in Munich, I learned a lot about German and EU tax law.",
       "translation": "",
       "updatedAt": "2026-10-24T18:35:18.022Z",
-      "createdAt": "2026-10-23T08:23:26.692Z"
+      "createdAt": "2026-10-23T08:23:26.692Z",
+      "category": ""
     },
     {
       "id": "8f6416fc-4048-479c-9790-2e8af65617f2",
@@ -2836,7 +4251,8 @@
       "example": "Qualifikationen 不只是文凭，也可以包括语言能力、专业知识和经验",
       "translation": "",
       "updatedAt": "2026-10-23T11:07:13.794Z",
-      "createdAt": "2026-10-23T08:21:16.502Z"
+      "createdAt": "2026-10-23T08:21:16.502Z",
+      "category": ""
     },
     {
       "id": "68e2bfd0-6bf6-4001-837b-841f936ed32b",
@@ -2849,7 +4265,8 @@
       "example": "Und welche Ihrer Qualifikationen könnten in diesem internationalen Umfeld für unsere Kanzlei interessant sein? 您的哪些资历或能力可能在这样的国际化环境中对我们事务所有价值？ Which of your qualifications could be of interest to our firm in this international environment?",
       "translation": "welche Ihrer Qualifikationen > Genitiv,  welche Ihrer Qualifikationen> Subject, könnten：Konjunktiv II，表达委婉、假设的可能性。",
       "updatedAt": "2026-10-23T11:08:16.561Z",
-      "createdAt": "2026-10-23T08:20:26.701Z"
+      "createdAt": "2026-10-23T08:20:26.701Z",
+      "category": ""
     },
     {
       "id": "f2a45af6-cff5-42f1-a582-53f9a7e7cf93",
@@ -2862,7 +4279,8 @@
       "example": "viele ihrer Klienten = many of its clients（它的许多客户）。ihrer Klienten 是 Genitiv Plural，说明“许多”是指哪一群人中的许多。",
       "translation": "",
       "updatedAt": "2026-10-23T11:00:15.531Z",
-      "createdAt": "2026-10-23T08:13:58.222Z"
+      "createdAt": "2026-10-23T08:13:58.222Z",
+      "category": ""
     },
     {
       "id": "6700ad16-2685-4587-8d9a-cde73093dd19",
@@ -2875,7 +4293,8 @@
       "example": "",
       "translation": "",
       "updatedAt": "2026-10-23T08:13:05.768Z",
-      "createdAt": "2026-10-23T08:13:05.768Z"
+      "createdAt": "2026-10-23T08:13:05.768Z",
+      "category": ""
     },
     {
       "id": "c19cd196-3b60-4aba-95db-ff7d3baf0ce1",
@@ -2888,7 +4307,8 @@
       "example": "Ganz besonders gefällt mir, dass die Kanzlei international arbeitet und dass viele ihrer Klienten nicht nur in Deutschland und der Europäischen Union tätig sind, sondern auch weltweit.我尤其喜欢的是，这家事务所开展国际业务，而且它的许多客户不仅在德国和欧盟开展业务，也在世界各地开展业务。What I particularly like is that the firm operates internationally and that many of its clients are active not only in Germany and the European Union, but worldwide.",
       "translation": "再把主语换成一整件事情：Dass die Kanzlei international arbeitet, gefällt mir. 这家事务所开展国际业务这一点让我喜欢。那 es 呢？\n你可以说：Es gefällt mir, dass die Kanzlei international arbeitet.\n也可以说：Mir gefällt, dass die Kanzlei international arbeitet.这里整个 dass 从句就是主语。\nviele ihrer Klienten>Genitiv, arbeitet 开展业务",
       "updatedAt": "2026-10-23T11:01:35.093Z",
-      "createdAt": "2026-10-23T08:11:41.833Z"
+      "createdAt": "2026-10-23T08:11:41.833Z",
+      "category": ""
     },
     {
       "id": "506f78d7-67d0-4758-9ff1-8c3610d2fc30",
@@ -2901,7 +4321,8 @@
       "example": "Was finden Sie denn so interessant an Fuchs und Schaden?  那么，您觉得 Fuchs und Schaden 哪些方面特别有吸引力呢？ What do you find so interesting about Fuchs und Schaden?\nWas findest du an diesem Beruf interessant? What do you find interesting about this profession? 你觉得这个职业的什么方面有意思",
       "translation": "Ich finde die Arbeitsatmosphäre an dieser Firma interessant. I find the working atmosphere at this company interesting 我觉得这家公司的工作氛围很有意思。\n所以两个 etw.：\n- 第一个：die Arbeitsatmosphäre，Akkusativ，你觉得有趣的方面。\n- 第二个：dieser Firma，Dativ，由介词 an 支配，这个方面属于或涉及的对象。\n注意，这不意味着 finden 在所有情况下都必须带 an：\nIch finde diesen Beruf interessant. 我觉得这个职业很有意思。这句只有一个 Akkusativobjekt。",
       "updatedAt": "2026-10-23T10:55:45.769Z",
-      "createdAt": "2026-10-23T08:05:32.080Z"
+      "createdAt": "2026-10-23T08:05:32.080Z",
+      "category": ""
     },
     {
       "id": "76639c23-911d-46e8-b6e8-c12d7e9d2d25",
@@ -2914,7 +4335,8 @@
       "example": "Das ist natürlich schön zu hören. 听您这么说，当然很高兴。That's certainly nice to hear.",
       "translation": "",
       "updatedAt": "2026-10-23T08:03:32.717Z",
-      "createdAt": "2026-10-23T08:03:32.717Z"
+      "createdAt": "2026-10-23T08:03:32.717Z",
+      "category": ""
     },
     {
       "id": "40d99f26-c22e-4cf0-a284-6c89163c92c1",
@@ -2927,7 +4349,8 @@
       "example": "Ja also, ich finde Fuchs und Schaden einfach mit Abstand die interessanteste Steuerberatungskanzlei hier in München. 嗯，我觉得 Fuchs und Schaden 毫无疑问是慕尼黑最有吸引力的税务咨询事务所。 Well, I think Fuchs und Schaden is by far the most interesting tax advisory firm here in Munich.",
       "translation": "",
       "updatedAt": "2026-10-23T08:02:14.464Z",
-      "createdAt": "2026-10-23T08:02:14.465Z"
+      "createdAt": "2026-10-23T08:02:14.465Z",
+      "category": ""
     },
     {
       "id": "0bec1568-a156-4023-8e2f-e63f3cd7721d",
@@ -2940,7 +4363,8 @@
       "example": "Herr Buttenschön, warum haben Sie sich gerade bei uns beworben? Buttenschön 先生，您为什么偏偏选择申请我们这家事务所？Mr. Buttenschön, why did you choose to apply specifically to our firm? gerade：焦点副词，强调“正是我们这家”。",
       "translation": "",
       "updatedAt": "2026-10-22T10:07:35.235Z",
-      "createdAt": "2026-10-22T10:07:35.235Z"
+      "createdAt": "2026-10-22T10:07:35.235Z",
+      "category": ""
     },
     {
       "id": "b3615145-ec6a-4412-bbdc-f906d6cecb7a",
@@ -2953,7 +4377,8 @@
       "example": "Möchten Sie etwas trinken? Kaffee? Wasser? 您想喝点什么吗？咖啡？水？ Would you like something to drink? Coffee? Water?",
       "translation": "",
       "updatedAt": "2026-10-22T10:05:15.376Z",
-      "createdAt": "2026-10-22T10:05:07.742Z"
+      "createdAt": "2026-10-22T10:05:07.742Z",
+      "category": ""
     },
     {
       "id": "a88a6afe-6db6-4449-acfd-c1477b570f95",
@@ -2966,7 +4391,8 @@
       "example": "Das freut mich zu hören. 听您这么说，我很高兴。  I'm glad to hear that.",
       "translation": "",
       "updatedAt": "2026-10-22T10:04:09.786Z",
-      "createdAt": "2026-10-22T10:04:01.447Z"
+      "createdAt": "2026-10-22T10:04:01.447Z",
+      "category": ""
     },
     {
       "id": "05d3ee69-153d-49bb-b41f-2043fa160e52",
@@ -2979,7 +4405,8 @@
       "example": "Ich habe ja hier in München studiert und kenne die Stadt recht gut.  我之前就在慕尼黑读过大学，所以对这座城市相当熟悉。\n I studied here in Munich, after all, and I know the city quite well.\nja：语气词，这里带有解释原因的意味。recht gut：相当熟悉；recht 修饰 gut",
       "translation": "",
       "updatedAt": "2026-10-22T10:02:39.625Z",
-      "createdAt": "2026-10-22T10:02:16.646Z"
+      "createdAt": "2026-10-22T10:02:16.646Z",
+      "category": ""
     },
     {
       "id": "10a16c37-d6d2-4d0d-b1cd-88670585d3a6",
@@ -2992,7 +4419,8 @@
       "example": "Konnten Sie uns gut finden? 您找到我们这里还顺利吗？ Were you able to find us easily?",
       "translation": "",
       "updatedAt": "2026-10-22T09:59:51.705Z",
-      "createdAt": "2026-10-22T09:59:51.706Z"
+      "createdAt": "2026-10-22T09:59:51.706Z",
+      "category": ""
     },
     {
       "id": "fc2c945d-9ca7-4041-a7a5-603c50c35f8a",
@@ -3005,7 +4433,8 @@
       "example": "Sie wird gemeinsam mit mir das Gespräch führen. 她将和我一起主持这次面试。She will conduct the interview together with me.",
       "translation": "",
       "updatedAt": "2026-10-22T09:57:55.738Z",
-      "createdAt": "2026-10-22T09:57:40.480Z"
+      "createdAt": "2026-10-22T09:57:40.480Z",
+      "category": ""
     },
     {
       "id": "dd100588-1f57-4b8c-a7dc-083f7595fe3f",
@@ -3018,7 +4447,8 @@
       "example": "Petra Fuchs, die Leiterin der Kanzlei. 这位是 Petra Fuchs，事务所负责人。  Petra Fuchs, the head of the firm.",
       "translation": "",
       "updatedAt": "2026-10-22T09:54:33.400Z",
-      "createdAt": "2026-10-22T09:54:33.400Z"
+      "createdAt": "2026-10-22T09:54:33.400Z",
+      "category": ""
     },
     {
       "id": "3d1c01dc-ea80-4f7b-8827-fdb7f96c61a5",
@@ -3031,7 +4461,8 @@
       "example": "",
       "translation": "",
       "updatedAt": "2026-10-23T11:06:50.949Z",
-      "createdAt": "2026-10-22T09:53:49.339Z"
+      "createdAt": "2026-10-22T09:53:49.339Z",
+      "category": ""
     },
     {
       "id": "5710014e-43b1-4c7a-b5d0-a853176334d9",
@@ -3044,7 +4475,8 @@
       "example": "Nehmen Sie bitte Platz.  请坐。 Please have a seat.",
       "translation": "",
       "updatedAt": "2026-10-22T09:51:07.771Z",
-      "createdAt": "2026-10-22T09:51:07.772Z"
+      "createdAt": "2026-10-22T09:51:07.772Z",
+      "category": ""
     },
     {
       "id": "281ce92d-2d2e-4b46-aa0d-e080a9b91bbc",
@@ -3057,7 +4489,8 @@
       "example": "Ja, hier entlang.  对，这边请。 Yes, this way.",
       "translation": "",
       "updatedAt": "2026-10-22T09:50:04.871Z",
-      "createdAt": "2026-10-22T09:50:04.871Z"
+      "createdAt": "2026-10-22T09:50:04.871Z",
+      "category": ""
     },
     {
       "id": "a5e7e39f-4db0-4357-8dcc-1f5261b2a398",
@@ -3070,7 +4503,8 @@
       "example": "Kommen Sie bitte weiter. 请往里面走。Please come on in.",
       "translation": "",
       "updatedAt": "2026-10-22T09:49:04.855Z",
-      "createdAt": "2026-10-22T09:49:04.855Z"
+      "createdAt": "2026-10-22T09:49:04.855Z",
+      "category": ""
     },
     {
       "id": "b50b50bc-ac97-459b-901d-2dbe02dd1728",
@@ -3083,7 +4517,8 @@
       "example": "Willkommen bei Fuchs und Schaden.  欢迎来到 Fuchs und Schaden 事务所。",
       "translation": "",
       "updatedAt": "2026-10-22T09:48:00.014Z",
-      "createdAt": "2026-10-22T09:48:00.014Z"
+      "createdAt": "2026-10-22T09:48:00.014Z",
+      "category": ""
     },
     {
       "id": "04e00e40-03e5-4468-a7c5-1c9c91400be9",
@@ -3096,7 +4531,8 @@
       "example": "",
       "translation": "",
       "updatedAt": "2026-10-22T09:46:51.733Z",
-      "createdAt": "2026-10-22T09:46:51.733Z"
+      "createdAt": "2026-10-22T09:46:51.733Z",
+      "category": ""
     },
     {
       "id": "48e2d97b-6a83-4a08-add8-203ec5d6e21e",
@@ -7262,11 +8698,11 @@
       "book": "B2.1",
       "lesson": "4",
       "german": "konstruktive",
-      "chinese": "",
+      "chinese": "[kɔnstʁʊkˈtiːvə]",
       "english": "erwünscht 受欢迎的、希望得到的",
       "example": "Drittens: Konstruktive Kritik ist jederzeit erwünscht.",
       "translation": "第三：任何时候都欢迎建设性的批评/意见。jederzeit = heute 副词 den ganzen Tag 名词短语 Akk",
-      "updatedAt": "2026-09-23T09:12:17.652Z",
+      "updatedAt": "2026-11-23T17:34:54.784Z",
       "createdAt": "2026-09-08T15:22:46.272Z",
       "category": ""
     },
@@ -8997,12 +10433,12 @@
       "level": "B2",
       "book": "B2.1",
       "lesson": "2",
-      "german": "etwas herausfinden",
-      "chinese": "查明、发现、弄清楚 find out",
+      "german": "herausfinden",
+      "chinese": "etw. (Akk.) herausfinden 查明、发现、弄清楚 find out",
       "english": "",
       "example": "",
       "translation": "",
-      "updatedAt": "2026-08-12T10:24:46.233Z",
+      "updatedAt": "2026-11-10T15:32:35.575Z",
       "createdAt": "2026-08-12T10:24:46.233Z",
       "category": ""
     },
@@ -9303,14 +10739,14 @@
     {
       "id": "56fae799-e5d3-4d8c-8652-2c0e07d6ca37",
       "level": "B2",
-      "book": "",
+      "book": "B2.1",
       "lesson": "",
       "german": "zutreffen",
-      "chinese": "适用于…… 符合…… 与……相符    apply to be true for",
-      "english": "auf + Akkusativ + zutreffen",
+      "chinese": "auf jdn./etw. (Akk.) zutreffen = 适用于某人或某事、符合某人的情况 to apply to someone / to be true of someone",
+      "english": "",
       "example": "Das trifft auf mich zu.",
       "translation": "这适用于我。That applies to me.",
-      "updatedAt": "2026-07-10T09:37:42.624Z",
+      "updatedAt": "2026-11-10T13:56:13.104Z",
       "createdAt": "2026-07-10T09:37:42.624Z",
       "category": ""
     },
@@ -10408,6 +11844,28 @@
     }
   ],
   "grammarEntries": [
+    {
+      "id": "71403ff4-d0db-4c7a-8415-1745f1fed236",
+      "title": "阴性名词后缀",
+      "lesson": "9",
+      "rule": "后缀\t例子\n-ung\tdie Wohnung, die Zeitung\n-heit\tdie Freiheit, die Gesundheit\n-keit\tdie Möglichkeit, die Schwierigkeit\n-schaft\tdie Freundschaft, die Wissenschaft\n-ion\tdie Information, die Situation\n-tät\tdie Universität, die Qualität",
+      "pattern": "",
+      "example": "",
+      "note": "",
+      "updatedAt": "2026-11-20T11:09:44.682Z",
+      "createdAt": "2026-11-20T11:09:44.682Z"
+    },
+    {
+      "id": "38fb1e7f-b11e-4a57-b04b-5f976de6dce2",
+      "title": "stossen anstossen",
+      "lesson": "9",
+      "rule": "1. stossen ≈ push / shove / hit 中文可以理解成：推、撞、冲撞。\n它的核心是：一个东西对另一个东西施加了力量。\n比如：Er hat mich gestossen. He pushed me. 他推了我一下。\nIch bin gegen die Wand gestossen. I hit the wall. 我撞到了墙。\n所以 stossen 的意思比较宽，既可以是主动推别人，也可以是自己撞上某个东西。",
+      "pattern": "2. anstossen ≈ bump / knock against 中文可以理解成：磕到、碰到。\n它更容易让人想到日常生活中的意外磕碰。\n比如：Ich habe mir den Kopf angestossen. I bumped my head. 我磕到头了。\nIch habe mir den Zeh am Tischbein angestossen. I stubbed my toe on the table leg. 我脚趾磕到桌腿了。\n这里不是强调你用力推了什么，而是你的身体某个部位碰到了障碍物。",
+      "example": "3. 用中文和英文对照\n生活场景\t英文\t德语\n我推了他一下\tI pushed him.\tIch habe ihn gestossen.\n我撞到了墙\tI hit the wall.\tIch bin gegen die Wand gestossen.\n我磕到了头\tI bumped my head.\tIch habe mir den Kopf angestossen.\n我脚趾磕到了桌腿\tI stubbed my toe.\tIch habe mir den Zeh angestossen.",
+      "note": "有些场景可以互换，有些不能。\n比如撞到墙：\n- gegen die Wand stossen：撞到墙。\n- an die Wand anstossen：碰到墙，也可以描述撞上障碍物，但不是所有语境都同样自然。\n但“推别人”一般不能把 stossen 换成 anstossen：\n- Ich habe ihn gestossen. = 我推了他。\n- Ich habe ihn angestossen. = 我轻碰了他一下（例如用胳膊肘碰他，引起注意）。\n这里很有意思：同一个人作宾语，加了 an-，动作就可能从“推人”变成“轻碰一下”。\n你可以先用一个非常简单的记忆方法：\nstossen ≈ push / hit（推、撞）\nanstossen ≈ bump / nudge（磕碰、轻碰）\n这不是绝对的词义边界，但足够帮助你理解大多数日常句子。",
+      "updatedAt": "2026-11-09T22:58:43.225Z",
+      "createdAt": "2026-11-09T22:58:43.225Z"
+    },
     {
       "id": "370eace8-6132-4361-9a50-d06244ef2e94",
       "title": "说明目的（Zweck）",
