@@ -1,9 +1,48 @@
 {
   "app": "Mein Deutsch",
   "schemaVersion": 5,
-  "exportedAt": "2026-11-24T00:20:46.262Z",
-  "publishedAt": "2026-11-24T00:20:48.843357Z",
+  "exportedAt": "2026-11-24T15:22:27.513Z",
+  "publishedAt": "2026-11-24T15:22:44.377882Z",
   "entries": [
+    {
+      "id": "10bd3ce1-aba3-4f1c-a9db-639b7508f661",
+      "level": "",
+      "book": "B2.1",
+      "lesson": "8",
+      "german": "Konsum",
+      "chinese": "der Konsum\tconsumption\t消费、摄入",
+      "english": "",
+      "example": "",
+      "translation": "",
+      "updatedAt": "2026-11-24T00:27:28.232Z",
+      "createdAt": "2026-11-24T00:27:28.232Z"
+    },
+    {
+      "id": "fa0dd86e-71cf-4af5-8b87-8cabedf2a0af",
+      "level": "",
+      "book": "B2.1",
+      "lesson": "8",
+      "german": "Sterberisiko",
+      "chinese": "das Sterberisiko\trisk of death / mortality risk\t死亡风险",
+      "english": "steigen – stieg – ist gestiegen  这是不及物动词，表示某个数值或水平上升。",
+      "example": "Nur bei häufigerem Konsum steigt dein Sterberisiko deutlich.\nEnglish: Only with more frequent consumption does your risk of death increase significantly.\n中文： 只有在更频繁食用的情况下，你的死亡风险才会显著增加。\nnur\tonly\t只有、仅仅\nbei + Dat.\twith / in the case of\t在……情况下\ndeutlich\tsignificantly / noticeably\t显著地、明显地",
+      "translation": "",
+      "updatedAt": "2026-11-24T00:26:55.239Z",
+      "createdAt": "2026-11-24T00:26:55.239Z"
+    },
+    {
+      "id": "7f1d4966-db3b-48cd-8dea-6de018440b3c",
+      "level": "",
+      "book": "B2.1",
+      "lesson": "8",
+      "german": "ergänzt",
+      "chinese": "- etw. (AKK.) ergänzen：add / supplement，补充某事",
+      "english": "",
+      "example": "Nach einer längeren Pause ergänzt sie leise:\nEnglish: After a longer pause, she adds quietly:\n中文： 沉默了好一会儿之后，她轻声补充道：\n- nach + Dativ：在……之后\n- etw. ergänzen：add / supplement，补充某事\n- leise：quietly / softly，轻声地",
+      "translation": "etw. (Akk.) ergänzen = to add / supplement something 补充某事、增补某物。\n例如：Ich ergänze den Text.\nI supplement the text.\n我补充这篇文章。\nSie ergänzt ihre Antwort.\nShe adds to her answer.\n她补充自己的回答。\netw. (Akk.) durch etw. (Akk.) ergänzen\n用某物补充某物。\n例如：Ich ergänze den Bericht durch neue Informationen.\nI supplement the report with new information.\n我用新信息补充报告。\n这是一种反讽（Ironie）。\n尤其是 Nach einer längeren Pause ergänzt sie leise（停顿了一会儿，她轻声补充），让最后关于死亡风险的话产生一种出人意料的喜剧效果。",
+      "updatedAt": "2026-11-24T00:34:59.614Z",
+      "createdAt": "2026-11-24T00:24:45.370Z"
+    },
     {
       "id": "c14ec82a-bb44-41eb-baad-118e4f5bab6f",
       "level": "B2",
