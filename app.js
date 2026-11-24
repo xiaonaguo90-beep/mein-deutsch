@@ -4,6 +4,8 @@ const BACKUP_KEY = "mein-deutsch.automatic-backups";
 const LEGACY_STORAGE_KEYS = ["my-german-app.entries.v1"];
 const CURRENT_SCHEMA_VERSION = 5;
 const MAX_BACKUP_FILE_SIZE = 10 * 1024 * 1024;
+const MAX_AUTOMATIC_BACKUPS = 1;
+const AUTOMATIC_BACKUP_INTERVAL_MS = 7 * 24 * 60 * 60 * 1000;
 const PUBLISH_HELPER_URL = "http://127.0.0.1:8765/api/publish";
 const IS_PUBLIC_SITE = window.location.hostname === "xiaonaguo90-beep.github.io";
 const DESKTOP_SCROLL_MEDIA = window.matchMedia("(min-width: 761px)");
@@ -90,6 +92,7 @@ grammarPolishButton.addEventListener("click", () => {
 form.addEventListener("submit", (event) => {
   event.preventDefault();
 
+  const previousEntries = entries.map((entry) => ({ ...entry }));
   const scrollTargetId = editingEntryId;
   const data = new FormData(form);
   const editedEntry = entries.find((entry) => entry.id === editingEntryId);
@@ -115,7 +118,12 @@ form.addEventListener("submit", (event) => {
     });
   }
 
-  saveEntries();
+  try {
+    saveEntries();
+  } catch {
+    entries = previousEntries;
+    return;
+  }
   closeComposer();
   render();
   restoreEditingScrollPosition(scrollTargetId, entriesEl);
@@ -124,6 +132,7 @@ form.addEventListener("submit", (event) => {
 grammarForm.addEventListener("submit", (event) => {
   event.preventDefault();
 
+  const previousGrammarEntries = grammarEntries.map((entry) => ({ ...entry }));
   const scrollTargetId = editingGrammarId;
   const data = new FormData(grammarForm);
   const editedGrammar = grammarEntries.find((entry) => entry.id === editingGrammarId);
@@ -147,7 +156,12 @@ grammarForm.addEventListener("submit", (event) => {
     });
   }
 
-  saveGrammarEntries();
+  try {
+    saveGrammarEntries();
+  } catch {
+    grammarEntries = previousGrammarEntries;
+    return;
+  }
   closeGrammarComposer();
   render();
   restoreEditingScrollPosition(scrollTargetId, grammarEntriesEl);
@@ -202,11 +216,17 @@ entriesEl.addEventListener("click", (event) => {
   }
 
   if (deleteButton) {
-    const ok = confirm("确定要删除这条记录吗？删除前会自动备份。");
+    const ok = confirm("确定要删除这条记录吗？");
     if (!ok) return;
 
+    const previousEntries = entries;
     entries = entries.filter((item) => item.id !== entry.id);
-    saveEntries();
+    try {
+      saveEntries({ backup: false });
+    } catch {
+      entries = previousEntries;
+      return;
+    }
     render();
   }
 });
@@ -238,11 +258,17 @@ grammarEntriesEl.addEventListener("click", (event) => {
   }
 
   if (deleteButton) {
-    const ok = confirm("确定要删除这条语法记录吗？删除前会自动备份。");
+    const ok = confirm("确定要删除这条语法记录吗？");
     if (!ok) return;
 
+    const previousGrammarEntries = grammarEntries;
     grammarEntries = grammarEntries.filter((item) => item.id !== entry.id);
-    saveGrammarEntries();
+    try {
+      saveGrammarEntries({ backup: false });
+    } catch {
+      grammarEntries = previousGrammarEntries;
+      return;
+    }
     render();
   }
 });
@@ -595,8 +621,13 @@ function loadGrammarEntries() {
 
 function saveEntries(options = {}) {
   const { backup = true, status = true } = options;
+  let backupPlan = null;
   if (backup) {
-    createAutomaticBackup();
+    try {
+      backupPlan = prepareAutomaticBackup();
+    } catch {
+      backupPlan = { pending: false, saved: false, reason: "storage" };
+    }
   }
 
   const data = {
@@ -607,31 +638,84 @@ function saveEntries(options = {}) {
     grammarEntries,
   };
 
-  localStorage.setItem(STORAGE_KEY, JSON.stringify(data));
-  localStorage.setItem(LEGACY_STORAGE_KEYS[0], JSON.stringify(entries));
-  if (status) {
-    showSaveStatus("数据已安全保存");
+  releaseMatchingStorageCopies();
+  try {
+    localStorage.setItem(STORAGE_KEY, JSON.stringify(data));
+  } catch (error) {
+    if (status) {
+      const message = isQuotaExceededError(error)
+        ? "保存失败：浏览器存储空间不足"
+        : "保存失败：浏览器存储不可用";
+      showSaveStatus(message, { reset: false });
+    }
+    throw error;
   }
+
+  removeRedundantStorageCopies();
+  const backupResult = backup ? storeAutomaticBackup(backupPlan) : { saved: true };
+  if (status) {
+    if (backupResult.saved) {
+      showSaveStatus("数据已安全保存");
+    } else if (backupResult.reason === "cleanup-required") {
+      showSaveStatus("内容已保存；现有自动备份等待清理", { reset: false });
+    } else {
+      showSaveStatus("内容已保存；自动备份未更新", { reset: false });
+    }
+  }
+  return backupResult;
 }
 
 function saveGrammarEntries(options = {}) {
-  const { backup = true, status = true } = options;
-  if (backup) {
-    createAutomaticBackup();
-  }
+  return saveEntries(options);
+}
 
-  const data = {
-    app: "Mein Deutsch Grammar",
-    schemaVersion: CURRENT_SCHEMA_VERSION,
-    updatedAt: new Date().toISOString(),
-    grammarEntries,
-  };
+function releaseMatchingStorageCopies() {
+  const permanentData = readStorage(STORAGE_KEY);
+  if (!permanentData) return;
 
-  localStorage.setItem(GRAMMAR_STORAGE_KEY, JSON.stringify(data));
-  saveEntries({ backup: false, status: false });
-  if (status) {
-    showSaveStatus("数据已安全保存");
+  LEGACY_STORAGE_KEYS.forEach((key) => {
+    const legacyEntries = readStorage(key);
+    if (
+      Array.isArray(permanentData.entries)
+      && Array.isArray(legacyEntries)
+      && JSON.stringify(permanentData.entries) === JSON.stringify(legacyEntries)
+    ) {
+      try {
+        localStorage.removeItem(key);
+      } catch {
+        // The canonical copy remains available even if this cleanup is blocked.
+      }
+    }
+  });
+
+  const grammarData = readStorage(GRAMMAR_STORAGE_KEY);
+  if (
+    Array.isArray(permanentData.grammarEntries)
+    && Array.isArray(grammarData?.grammarEntries)
+    && JSON.stringify(permanentData.grammarEntries) === JSON.stringify(grammarData.grammarEntries)
+  ) {
+    try {
+      localStorage.removeItem(GRAMMAR_STORAGE_KEY);
+    } catch {
+      // The canonical copy remains available even if this cleanup is blocked.
+    }
   }
+}
+
+function removeRedundantStorageCopies() {
+  [...LEGACY_STORAGE_KEYS, GRAMMAR_STORAGE_KEY].forEach((key) => {
+    try {
+      localStorage.removeItem(key);
+    } catch {
+      // The canonical data was already saved successfully.
+    }
+  });
+}
+
+function isQuotaExceededError(error) {
+  return error?.name === "QuotaExceededError"
+    || error?.code === 22
+    || error?.code === 1014;
 }
 
 function readStorage(key) {
@@ -686,20 +770,81 @@ function normalizeGrammarEntry(entry) {
   };
 }
 
-function createAutomaticBackup() {
-  const existingEntries = extractEntries(readStorage(STORAGE_KEY));
-  const existingGrammarEntries = extractGrammarEntries(readStorage(GRAMMAR_STORAGE_KEY));
-  if (!existingEntries.length && !existingGrammarEntries.length) return;
+function prepareAutomaticBackup() {
+  const permanentData = readStorage(STORAGE_KEY);
+  const grammarData = readStorage(GRAMMAR_STORAGE_KEY);
+  const existingEntries = extractEntries(permanentData);
+  const existingGrammarEntries = extractGrammarEntries(grammarData || permanentData);
+  if (!existingEntries.length && !existingGrammarEntries.length) {
+    return { pending: false, saved: true, reason: "empty" };
+  }
 
+  const storedValue = localStorage.getItem(BACKUP_KEY);
   const savedBackups = readStorage(BACKUP_KEY);
-  const backups = Array.isArray(savedBackups) ? savedBackups : [];
-  backups.unshift({
-    createdAt: new Date().toISOString(),
-    entries: existingEntries,
-    grammarEntries: existingGrammarEntries,
-  });
+  if (storedValue !== null && !Array.isArray(savedBackups)) {
+    return { pending: false, saved: false, reason: "invalid" };
+  }
 
-  localStorage.setItem(BACKUP_KEY, JSON.stringify(backups.slice(0, 10)));
+  const backups = Array.isArray(savedBackups) ? savedBackups : [];
+  const latestBackup = findLatestAutomaticBackup(backups);
+  if (
+    latestBackup
+    && JSON.stringify(latestBackup.entries) === JSON.stringify(existingEntries)
+    && JSON.stringify(latestBackup.grammarEntries) === JSON.stringify(existingGrammarEntries)
+  ) {
+    return { pending: false, saved: true, reason: "unchanged" };
+  }
+
+  if (backups.length > MAX_AUTOMATIC_BACKUPS) {
+    return { pending: false, saved: false, reason: "cleanup-required" };
+  }
+
+  if (latestBackup) {
+    const latestBackupTime = Date.parse(latestBackup.createdAt);
+    if (Number.isNaN(latestBackupTime)) {
+      return { pending: false, saved: false, reason: "invalid" };
+    }
+    if (Date.now() - latestBackupTime < AUTOMATIC_BACKUP_INTERVAL_MS) {
+      return { pending: false, saved: true, reason: "recent" };
+    }
+  }
+
+  return {
+    pending: true,
+    backups,
+    backup: {
+      createdAt: new Date().toISOString(),
+      entries: existingEntries,
+      grammarEntries: existingGrammarEntries,
+    },
+  };
+}
+
+function findLatestAutomaticBackup(backups) {
+  return backups.reduce((latest, backup) => {
+    const backupTime = Date.parse(backup?.createdAt);
+    if (Number.isNaN(backupTime)) return latest;
+    if (!latest) return backup;
+    return backupTime > Date.parse(latest.createdAt) ? backup : latest;
+  }, null);
+}
+
+function storeAutomaticBackup(plan) {
+  if (!plan?.pending) return plan || { saved: true };
+
+  try {
+    localStorage.setItem(BACKUP_KEY, JSON.stringify([plan.backup]));
+    return { saved: true };
+  } catch (error) {
+    return {
+      saved: false,
+      reason: isQuotaExceededError(error) ? "quota" : "storage",
+    };
+  }
+}
+
+function createAutomaticBackup() {
+  return storeAutomaticBackup(prepareAutomaticBackup());
 }
 
 function downloadBackup() {
@@ -919,18 +1064,24 @@ function restoreStorageSnapshot(snapshot) {
   });
 }
 
-function showSaveStatus(message) {
+function showSaveStatus(message, options = {}) {
+  const { reset = true } = options;
   saveStatus.textContent = message;
   window.clearTimeout(showSaveStatus.timer);
-  showSaveStatus.timer = window.setTimeout(() => {
-    saveStatus.textContent = "数据已安全保存";
-  }, 1800);
+  if (reset) {
+    showSaveStatus.timer = window.setTimeout(() => {
+      saveStatus.textContent = "数据已安全保存";
+    }, 1800);
+  }
 }
 
 async function initializeApp() {
   if (!IS_PUBLIC_SITE) {
-    saveEntries({ backup: false, status: false });
-    saveGrammarEntries({ backup: false, status: false });
+    try {
+      saveEntries({ backup: false, status: false });
+    } catch {
+      showSaveStatus("浏览器存储空间不足；请先导出备份", { reset: false });
+    }
     render();
     return;
   }
